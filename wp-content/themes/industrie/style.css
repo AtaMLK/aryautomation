@@ -1255,3 +1255,69 @@ body.single-rs-service-area .ps-navigation .prev i {
 	border-radius: 0;
 }
 
+
+
+/* --------------------------------------------------------------------------
+   Flexy Breadcrumb override
+   Fixes breadcrumb items rendering vertically/with oversized icons.
+   -------------------------------------------------------------------------- */
+.fbc-page .fbc-wrap .fbc-items {
+    display: flex !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    gap: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+.fbc-page .fbc-wrap .fbc-items > li {
+    display: flex !important;
+    align-items: center !important;
+    width: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1.5 !important;
+    font-size: 14px !important;
+}
+
+.fbc-page .fbc-wrap .fbc-items > li > a,
+.fbc-page .fbc-wrap .fbc-items > li > span:not(.fbc-separator) {
+    display: inline-flex !important;
+    align-items: center !important;
+    width: auto !important;
+    height: auto !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 14px !important;
+    line-height: 1.5 !important;
+}
+
+.fbc-page .fbc-wrap .fbc-items .fbc-separator {
+    display: inline-block !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 0 10px !important;
+    padding: 0 !important;
+    font-size: 14px !important;
+    line-height: 1.5 !important;
+    color: inherit !important;
+}
+
+.fbc-page .fbc-wrap .fbc-items .fa,
+.fbc-page .fbc-wrap .fbc-items .fa-home,
+.fbc-page .fbc-wrap .fbc-items i {
+    display: inline-block !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 0 6px 0 0 !important;
+    padding: 0 !important;
+    font-size: 16px !important;
+    line-height: 1 !important;
+    vertical-align: middle !important;
+}
+
+.fbc-page .fbc-wrap .fbc-items li.active > span {
+    font-size: 14px !important;
+    line-height: 1.5 !important;
+}
