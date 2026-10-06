@@ -1,0 +1,21 @@
+// grid all css
+
+@import '../../common';
+
+.prelements-blog-grid {
+	.pre-blog-item {
+		.blog-inner-wrap {
+			position: relative;
+		}
+		&.pre-blog-item-list {
+			.blog-inner-wrap {
+				margin-left: 0;
+				margin-right: 0;
+				.rs-list-image{
+					padding-left: 0;
+				}
+			}
+		}
+	}
+}
+

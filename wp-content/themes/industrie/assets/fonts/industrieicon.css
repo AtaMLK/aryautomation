@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'industrieicon';
+    src: url('fonts/industrieicon.eot');
+    src: url('fonts/industrieicon.eot?#iefix') format('embedded-opentype'),
+         url('fonts/industrieicon.woff2') format('woff2'),
+         url('fonts/industrieicon.woff') format('woff'),
+         url('fonts/industrieicon.ttf')  format('truetype'),
+         url('fonts/industrieicon.svg#industrieicon') format('svg');
+}
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "industrieicon";
+    src: url("./industrieicon.svg#industrieicon") format("svg");
+  }
+}
+
+[class^="industrieicon-"]:before, [class*=" industrieicon-"]:before,
+[class^="industrieicon-"]:after, [class*=" industrieicon-"]:after {   
+  font-family: industrieicon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.industrieicon-best:before { content: "\f100"; }
+.industrieicon-flower:before { content: "\f101"; }
+.industrieicon-timer:before { content: "\f102"; }
+.industrieicon-suitcase:before { content: "\f103"; }
+.industrieicon-chess-piece:before { content: "\f104"; }
+.industrieicon-clock:before { content: "\f105"; }
+.industrieicon-time-call:before { content: "\f106"; }
+.industrieicon-phone:before { content: "\f107"; }
+.industrieicon-call:before { content: "\f108"; }
+.industrieicon-email:before { content: "\f109"; }
+.industrieicon-location:before { content: "\f10a"; }
+.industrieicon-send:before { content: "\f10b"; }
+.industrieicon-bag:before { content: "\f10c"; }
+.industrieicon-supermarket:before { content: "\f10d"; }
+.industrieicon-basket:before { content: "\f10e"; }
+.industrieicon-shopping-bag:before { content: "\f10f"; }
+.industrieicon-right-arrow:before { content: "\f110"; }
+.industrieicon-left-arrow:before { content: "\f111"; }
+.industrieicon-back:before { content: "\f112"; }
+.industrieicon-right-arrow-1:before { content: "\f113"; }
+.industrieicon-next:before { content: "\f114"; }
+.industrieicon-back-1:before { content: "\f115"; }
+.industrieicon-upload:before { content: "\f116"; }
+.industrieicon-next-1:before { content: "\f117"; }
+.industrieicon-ui:before { content: "\f118"; }
+.industrieicon-next-2:before { content: "\f119"; }
+.industrieicon-back-2:before { content: "\f11a"; }
+.industrieicon-play-button:before { content: "\f11b"; }
+.industrieicon-play-button-1:before { content: "\f11c"; }
+.industrieicon-picture:before { content: "\f11d"; }
+.industrieicon-image:before { content: "\f11e"; }
+.industrieicon-gallery:before { content: "\f11f"; }
+.industrieicon-pictures:before { content: "\f120"; }
+.industrieicon-unlink:before { content: "\f121"; }
+.industrieicon-link:before { content: "\f122"; }
+.industrieicon-link-1:before { content: "\f123"; }
+.industrieicon-link-2:before { content: "\f124"; }
+.industrieicon-speaker:before { content: "\f125"; }
+.industrieicon-speaker-1:before { content: "\f126"; }
+.industrieicon-picture-1:before { content: "\f127"; }
+.industrieicon-picture-2:before { content: "\f128"; }
+.industrieicon-right-quote:before { content: "\f129"; }
+.industrieicon-error:before { content: "\f12a"; }
+.industrieicon-cross:before { content: "\f12b"; }
+.industrieicon-search:before { content: "\f12c"; }
+.industrieicon-shopping-bag-1:before { content: "\f12d"; }
+.industrieicon-eye:before { content: "\f12e"; }
+.industrieicon-user:before { content: "\f12f"; }
+.industrieicon-user-1:before { content: "\f130"; }
+.industrieicon-clock-1:before { content: "\f131"; }
+.industrieicon-comment:before { content: "\f132"; }
+.industrieicon-folder:before { content: "\f133"; }
+.industrieicon-price-tag:before { content: "\f134"; }

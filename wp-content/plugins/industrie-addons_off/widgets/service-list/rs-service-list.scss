@@ -1,0 +1,92 @@
+@import '../../common';
+
+.rs-service-list {
+    .services-inner {
+        padding: 40px 30px;
+        background-color: #f7f7f7;
+        -webkit-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+        border-bottom: 1px solid #e7e7e7;
+        @include flex_asign(space-between, 30px);
+        position: relative;
+        .feature_img {
+            position: absolute;
+            content: '';
+            right: 50px;
+            bottom: 30px;
+            opacity: 0;
+            pointer-events: none;
+            transition: $transition;
+            z-index: 1;
+            img {
+                width: 280px;
+                height: auto;
+            }
+        }
+        .icon-wrap {
+            @include flex_asign(center, 0);
+            transition: $transition;
+            flex-shrink: 0;
+            svg {
+                width: 60px;
+                height: 60px;
+                path {
+                    fill: $primaryColor;
+                    transition: $transition;
+                }
+            }
+            i {
+                font-size: 60px;
+                color: $primaryColor;
+                line-height: 1;
+                @include flex_asign(center, 0);
+                &:after {
+                    font-size: inherit;
+                    line-height: inherit;
+                }
+            }
+        }
+        .title {
+            margin-bottom: 0px;
+            transition: $transition;
+        }
+        .desc-text {
+            transition: $transition;
+            color: $bodyColor;
+        }
+        .btn-part {
+            @include flex_asign(center, 0);
+            transition: $transition;
+            flex-shrink: 0;
+            svg {
+                width: 15px;
+                height: 15px;
+                path {
+                    fill: $primaryColor;
+                    transition: $transition;
+                }
+            }
+            i {
+                font-size: 22px;
+                color: $primaryColor;
+                line-height: 1;
+            }
+        }
+        .top-wrapper {
+            flex-shrink: 0;
+            @include flex_asign(space-between, 20px);
+        }
+        .bottom-wrapper {
+            @include flex_asign(space-between, 30px);
+        }
+        &:last-child {
+            border-color: transparent;
+            margin-bottom: 0;
+        }
+        &:hover {
+            .feature_img {
+                opacity: 1;
+            }
+        }
+    }
+}

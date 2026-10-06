@@ -1,0 +1,1315 @@
+# Translation of Plugins - Duplicator &#8211; Backups &amp; Migration Plugin &#8211; Cloud Backups, Scheduled Backups, &amp; More - Stable (latest release) in English (New Zealand)
+# This file is distributed under the same license as the Plugins - Duplicator &#8211; Backups &amp; Migration Plugin &#8211; Cloud Backups, Scheduled Backups, &amp; More - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-22 13:00:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: en_NZ\n"
+"Project-Id-Version: Plugins - Duplicator &#8211; Backups &amp; Migration Plugin &#8211; Cloud Backups, Scheduled Backups, &amp; More - Stable (latest release)\n"
+
+#: src/Package/Create/BuildComponents.php:420
+msgid "Other"
+msgstr "Other"
+
+#: template/admin_pages/packages/details/parts/prefills_card.php:38
+#: template/parts/packages/filters/section_installer.php:63
+msgid "Basic"
+msgstr "Basic"
+
+#: template/parts/packages/filters/section_installer.php:45
+msgid "Prefills"
+msgstr "Pre-fills"
+
+#: src/Views/PackageScreen.php:299
+#: template/admin_pages/packages/details/parts/general_card.php:230
+#: template/parts/packages/filters/section_security.php:37
+msgid "Security"
+msgstr "Security"
+
+#: template/parts/packages/filters/section_installer.php:47
+msgid "Setup/Prefills"
+msgstr "Setup/Pre-fills"
+
+#: template/admin_pages/packages/scan/main.php:109
+msgid "Yes. Continue without applying any file filters."
+msgstr "Yes. Continue without applying any file filters."
+
+#: template/admin_pages/packages/scan/main.php:101
+msgid "To apply a \"Quick Filter\" click the \"Add Filters & Rescan\" button"
+msgstr "To apply a \"Quick Filter\" click the \"Add Filters & Rescan\" button"
+
+#: template/admin_pages/packages/scan/main.php:96
+msgid "Do you want to continue?"
+msgstr "Do you want to continue?"
+
+#: template/admin_pages/packages/scan/validation_error.php:25
+msgid "Input fields not valid"
+msgstr "Input fields not valid"
+
+#: template/admin_pages/packages/setup/section-requirements.php:45
+#: template/admin_pages/packages/setup/section-requirements.php:76
+msgid "Fail"
+msgstr "Fail"
+
+#: template/admin_pages/packages/scan/items/archive/files_db_only.php:16
+msgid "Database only"
+msgstr "Database only"
+
+#: template/admin_pages/packages/scan/items/archive/files_skip_scan.php:20
+msgid "All file checks are skipped. This could cause problems during extraction if problematic files are included."
+msgstr "All file checks are skipped. This could cause problems during extraction if problematic files are included."
+
+#: src/Models/ActivityLog/LogEventBackupCreate.php:856
+msgid "Items"
+msgstr "Items"
+
+#: addons/litebase/src/Controllers/AboutUsPageController.php:143
+msgid "Overwrite Live Site"
+msgstr "Overwrite Live Site"
+
+#: src/Core/Options/Rules/ArchiveEngineRule.php:39
+#: src/Views/AutoTunePageData.php:678
+msgid "Archive Engine"
+msgstr "Archive Engine"
+
+#: src/Controllers/SettingsPageController.php:758
+#: src/Controllers/SettingsPageController.php:812
+#: template/admin_pages/settings/backup/archive_settings.php:118
+#: template/admin_pages/settings/backup/database_settings.php:207
+msgid "Multi-Threaded"
+msgstr "Multi-Threaded"
+
+#: src/Controllers/SettingsPageController.php:759
+#: src/Controllers/SettingsPageController.php:813
+#: template/admin_pages/settings/backup/archive_settings.php:122
+#: template/admin_pages/settings/backup/database_settings.php:212
+msgid "Single-Threaded"
+msgstr "Single-Threaded"
+
+#: addons/litebase/template/litebase/welcome/intro.php:40
+#: template/admin_pages/settings/backup/advanced_settings.php:252
+msgid "Skip"
+msgstr "Skip"
+
+#: assets/js/duplicator/dup.util.php:87
+msgid "RESPONSE ERROR!"
+msgstr "RESPONSE ERROR!"
+
+#: src/Models/ActivityLog/LogEventWebsitesScan.php:239
+#: template/admin_pages/packages/remote_download/scripts.php:62
+#: template/admin_pages/settings/general/general.php:51
+#: template/admin_pages/settings/general/general.php:62
+#: template/admin_pages/tools/general.php:34
+msgid "No"
+msgstr "No"
+
+#: src/Models/ActivityLog/LogEventWebsitesScan.php:239
+#: template/admin_pages/packages/remote_download/scripts.php:61
+#: template/admin_pages/settings/general/general.php:50
+#: template/admin_pages/settings/general/general.php:61
+#: template/admin_pages/tools/general.php:33
+msgid "Yes"
+msgstr "Yes"
+
+#: template/admin_pages/settings/general/general.php:47
+#: template/admin_pages/tools/general.php:30
+msgid "Resetting settings, Please Wait..."
+msgstr "Resetting settings, Please Wait…"
+
+#: template/admin_pages/settings/general/advanced_settings.php:50
+msgid "Reset Settings"
+msgstr "Reset Settings"
+
+#: template/admin_pages/settings/backup/advanced_settings.php:186
+#: template/admin_pages/settings/general/advanced_settings.php:25
+msgid "Advanced"
+msgstr "Advanced"
+
+#: template/admin_pages/settings/general/debug_settings.php:88
+msgid "Download Trace Log"
+msgstr "Download Trace Log"
+
+#: template/admin_pages/settings/general/debug_settings.php:44
+msgid "WARNING: Only turn on this setting when asked to by support as tracing will impact performance."
+msgstr "WARNING: Only turn on this setting when asked to by support as tracing will impact performance."
+
+#: template/admin_pages/settings/general/debug_settings.php:27
+#: template/admin_pages/settings/general/debug_settings.php:96
+msgid "Trace Log"
+msgstr "Trace Log"
+
+#: template/parts/migration/clean-installation-files.php:107
+msgid " If this process continues please see the previous FAQ link."
+msgstr " If this process continues please see the previous FAQ link."
+
+#: template/parts/migration/clean-installation-files.php:105
+msgid "please retry the installer cleanup process"
+msgstr "please retry the installer cleanup process"
+
+#: template/parts/migration/clean-installation-files.php:103
+msgid "Some of the installer files did not get removed, "
+msgstr "Some of the installer files did not get removed, "
+
+#: template/parts/migration/clean-installation-files.php:33
+msgid "Removed"
+msgstr "Removed"
+
+#: src/Ajax/ServicesPackage.php:797
+#: src/Models/ActivityLog/LogEventBackupCreate.php:434
+#: src/Models/ActivityLog/LogEventUnknown.php:27
+#: src/Models/Storages/UnknownStorage.php:80
+#: src/Models/Storages/UnknownStorage.php:90
+#: src/Package/BuildRequirements.php:254 src/Package/BuildRequirements.php:280
+#: src/Package/PackageUtils.php:502 src/Package/PackageUtils.php:551
+#: src/Package/PackageUtils.php:615 src/Package/Storage/UploadInfo.php:301
+#: template/admin_pages/activity_log/parts/sub_table_mini.php:60
+#: template/admin_pages/activity_log/parts/table_row.php:36
+#: template/admin_pages/packages/details/parts/files_card.php:27
+#: template/admin_pages/packages/row_parts/details_package.php:107
+#: template/admin_pages/packages/row_parts/environment_details.php:28
+#: template/admin_pages/packages/row_parts/environment_details.php:46
+msgid "Unknown"
+msgstr "Unknown"
+
+#: src/Utils/Logging/DupLog.php:254
+msgid "No Log"
+msgstr "No Log"
+
+#: src/Package/TraitPackageBuild.php:360
+msgid "ACTUAL FILE/DIRECTORY COUNT: %1$s"
+msgstr "ACTUAL FILE/DIRECTORY COUNT: %1$s"
+
+#: src/Package/TraitPackageBuild.php:359
+msgid "EXPECTED FILE/DIRECTORY COUNT: %1$s"
+msgstr "EXPECTED FILE/DIRECTORY COUNT: %1$s"
+
+#: src/Package/AbstractPackage.php:910
+msgid "MySQL Server Host: <b>%1$s</b> isn't a valid host"
+msgstr "MySQL Server Host: <b>%1$s</b> isn't a valid host"
+
+#: addons/litebase/src/Controllers/LiteToolsController.php:46
+#: template/admin_pages/settings/migrate_settings/import.php:72
+msgid "Templates"
+msgstr "Templates"
+
+#: template/admin_pages/packages/scan/items/archive/unreadable.php:48
+msgid "Recursive Links:"
+msgstr "Recursive Links:"
+
+#: template/admin_pages/packages/scan/items/archive/unreadable.php:34
+msgid "Unreadable Items:"
+msgstr "Unreadable Items:"
+
+#: template/admin_pages/packages/scan/items/archive/unreadable.php:16
+msgid "Read Checks"
+msgstr "Read Checks"
+
+#: template/admin_pages/packages/scan/items/archive/addons.php:55
+#: template/admin_pages/packages/scan/items/archive/files.php:129
+msgid "*Checking a directory will exclude all items in that path recursively."
+msgstr "*Checking a directory will exclude all items in that path recursively."
+
+#: template/admin_pages/packages/scan/items/archive/addons.php:16
+msgid "Addon Sites"
+msgstr "Addon Sites"
+
+#: src/Core/MigrationMng.php:367
+msgid "NOTICE: Safe mode (Advanced) was enabled during install, be sure to re-enable all your plugins."
+msgstr "NOTICE: Safe mode (Advanced) was enabled during install, be sure to re-enable all your plugins."
+
+#: src/Core/MigrationMng.php:364
+msgid "NOTICE: Safe mode (Basic) was enabled during install, be sure to re-enable all your plugins."
+msgstr "NOTICE: Safe mode (Basic) was enabled during install, be sure to re-enable all your plugins."
+
+#: template/admin_pages/packages/scan/items/archive/main.php:53
+#: template/admin_pages/packages/scan/items/database/main.php:47
+msgid "uncompressed"
+msgstr "uncompressed"
+
+#: template/admin_pages/packages/details/parts/prefills_card.php:45
+#: template/parts/packages/filters/section_installer.php:64
+msgid "cPanel"
+msgstr "cPanel"
+
+#: addons/litebase/src/Controllers/AboutUsPageController.php:172
+msgid "Cloud Storage"
+msgstr "Cloud Storage"
+
+#: addons/litebase/template/litebase/settings/connect.php:22
+msgid "License Key"
+msgstr "Licence Key"
+
+#: addons/litebase/template/litebase/settings/connect.php:17
+msgid "License"
+msgstr "Licence"
+
+#: addons/litebase/src/Controllers/AboutUsPageController.php:228
+msgid "Large Site Support"
+msgstr "Large Site Support"
+
+#: src/Core/Options/Rules/DbDumpEngineRule.php:54
+msgid "PHP Code"
+msgstr "PHP Code"
+
+#: template/admin_pages/tools/general_validator.php:55
+msgid "Files:"
+msgstr "Files:"
+
+#: template/admin_pages/settings/backup/installer_settings.php:115
+#: template/parts/packages/filters/section_security.php:35
+msgid "Mode"
+msgstr "Mode"
+
+#: template/admin_pages/packages/no_elements_row.php:24
+msgid "New to Duplicator?"
+msgstr "New to Duplicator?"
+
+#: template/admin_pages/packages/scan/items/archive/unreadable.php:56
+msgid "No recursive sym-links found."
+msgstr "No recursive sym-links found."
+
+#: template/admin_pages/packages/scan/items/archive/unreadable.php:42
+msgid "No unreadable items found."
+msgstr "No unreadable items found."
+
+#: template/admin_pages/packages/scan/scripts.php:95
+msgid "Initializing Please Wait..."
+msgstr "Initialising Please Wait..."
+
+#: addons/litebase/LiteBase.php:142
+#: addons/litebase/src/Controllers/LiteToolsController.php:48
+msgid "Support"
+msgstr "Support"
+
+#: template/admin_pages/packages/scan/items/database/tables.php:119
+msgid "2. Remove post revisions and stale data from tables.  Tables such as logs, statistical or other non-critical data should be cleared."
+msgstr "2. Remove post revisions and stale data from tables.  Tables such as logs, statistical or other non-critical data should be cleared."
+
+#: template/admin_pages/packages/scan/items/database/mysqldump.php:72
+#: template/admin_pages/packages/scan/items/database/tables.php:92
+msgid "RECOMMENDATIONS:"
+msgstr "RECOMMENDATIONS:"
+
+#: template/admin_pages/packages/scan/items/database/tables.php:54
+msgid "TABLE DETAILS:"
+msgstr "TABLE DETAILS:"
+
+#: template/admin_pages/packages/scan/items/database/tables.php:33
+msgid "TOTAL SIZE"
+msgstr "TOTAL SIZE"
+
+#: template/admin_pages/packages/scan/items/database/mysqldump.php:24
+#: template/admin_pages/packages/scan/items/setup/hosting_status.php:20
+#: template/admin_pages/packages/scan/items/setup/hosting_status.php:34
+#: template/admin_pages/packages/scan/items/setup/hosting_status.php:61
+#: template/admin_pages/packages/scan/items/setup/hosting_status.php:66
+#: template/admin_pages/packages/scan/items/setup/parts/hosting_tooltip_memory.php:9
+#: template/admin_pages/packages/scan/items/setup/parts/hosting_tooltip_timeout.php:9
+#: template/admin_pages/packages/scan/items/setup/security.php:48
+#: template/admin_pages/packages/scan/scripts.php:890
+msgid "Good"
+msgstr "Good"
+
+#: template/admin_pages/packages/scan/scripts.php:28
+msgid "Manual copy of selected text required on this browser."
+msgstr "Manual copy of selected text required on this browser."
+
+#: template/admin_pages/packages/scan/scripts.php:154
+msgid "Copied to Clipboard!"
+msgstr "Copied to Clipboard!"
+
+#: template/admin_pages/packages/scan/scripts.php:118
+msgid "No files have been selected!"
+msgstr "No files have been selected!"
+
+#: template/admin_pages/packages/scan/scripts.php:115
+msgid "No directories have been selected!"
+msgstr "No directories have been selected!"
+
+#: template/admin_pages/packages/scan/items/archive/files.php:165
+msgid "Copy the paths above and apply them as needed on Step 1 &gt; Archive &gt; Files section."
+msgstr "Copy the paths above and apply them as needed on Step 1 &gt; Archive &gt; Files section."
+
+#: template/admin_pages/packages/scan/items/archive/files.php:154
+#: template/admin_pages/packages/scan/items/archive/files.php:161
+msgid "Click to Copy"
+msgstr "Click to Copy"
+
+#: template/admin_pages/packages/scan/scripts.php:21
+msgid "Copy Quick Filter Paths"
+msgstr "Copy Quick Filter Paths"
+
+#: template/admin_pages/packages/scan/items/archive/files.php:141
+msgid "Copy Paths to Clipboard"
+msgstr "Copy Paths to Clipboard"
+
+#: template/admin_pages/packages/scan/items/archive/files.php:107
+#: template/admin_pages/packages/scan/items/archive/files.php:117
+msgid "Show All"
+msgstr "Show All"
+
+#: template/admin_pages/packages/scan/items/archive/files.php:102
+msgid "Hide All"
+msgstr "Hide All"
+
+#: template/admin_pages/packages/scan/scripts.php:85
+msgid "Directory applied filter set."
+msgstr "Directory applied filter set."
+
+#: src/Package/Archive/PackageArchive.php:1170
+msgid "Core WordPress directories should not be filtered. Use caution when excluding files."
+msgstr "Core WordPress directories should not be filtered. Use caution when excluding files."
+
+#: template/admin_pages/packages/scan/items/setup/system.php:89
+msgid "PHP Max Execution Time"
+msgstr "PHP Max Execution Time"
+
+#: template/admin_pages/packages/scan/items/setup/system.php:70
+msgid "PHP Open Base Dir"
+msgstr "PHP Open Base Dir"
+
+#: template/admin_pages/packages/scan/items/archive/addons.php:33
+#: template/admin_pages/packages/scan/items/archive/files.php:73
+msgid "Quick Filters"
+msgstr "Quick Filters"
+
+#: template/admin_pages/tools/general_validator.php:81
+msgid "Note: Symlinks are not discoverable on Windows OS with PHP"
+msgstr "Note: Symlinks are not discoverable on Windows OS with PHP"
+
+#: template/admin_pages/packages/scan/items/archive/files.php:64
+msgid "What can I try for Timeout Issues?"
+msgstr "What can I try for Timeout Issues?"
+
+#: template/admin_pages/packages/scan/items/archive/files.php:58
+msgid "Timeout Options"
+msgstr "Timeout Options"
+
+#: template/admin_pages/packages/scan/items/archive/files.php:40
+msgid "more details..."
+msgstr "more details..."
+
+#: template/admin_pages/packages/scan/items/archive/files.php:25
+msgid "Size Checks"
+msgstr "Size Checks"
+
+#: template/admin_pages/packages/scan/scripts.php:33
+msgid "Error applying filters.  Please go back to Step 1 to add filter manually!"
+msgstr "Error applying filters.  Please go back to Step 1 to add filter manually!"
+
+#: template/admin_pages/packages/scan/items/archive/addons.php:63
+#: template/admin_pages/packages/scan/items/archive/files.php:135
+#: template/admin_pages/packages/scan/scripts.php:100
+msgid "Add Filters &amp; Rescan"
+msgstr "Add Filters &amp; Rescan"
+
+#: src/Package/Archive/PackageArchive.php:1015
+msgid "No large files found during this scan."
+msgstr "No large files found during this scan."
+
+#: template/parts/migration/clean-installation-files.php:114
+msgid "Security Notes"
+msgstr "Security Notes"
+
+#: template/admin_pages/settings/backup/database_settings.php:170
+msgid "/usr/bin/mypath/mysqldump"
+msgstr "/usr/bin/mypath/mysqldump"
+
+#: template/parts/migration/almost-complete.php:46
+#: template/parts/packages/notices/orphaned_packages.php:39
+msgid "Take me there now!"
+msgstr "Take me there now!"
+
+#: template/parts/migration/migration-message.php:75
+msgid "Remove Installation Files Now!"
+msgstr "Remove Installation Files Now!"
+
+#: src/Views/AdminNotices.php:742
+#: template/parts/migration/almost-complete.php:27
+msgid "Migration Almost Complete!"
+msgstr "Migration Almost Complete!"
+
+#: template/parts/migration/migration-message.php:32
+msgid "This site has been successfully migrated!"
+msgstr "This site has been successfully migrated!"
+
+#: src/Package/Create/BuildComponents.php:459
+#: template/admin_pages/packages/package_row_complete.php:57
+#: template/admin_pages/packages/package_row_incomplete.php:56
+#: template/admin_pages/packages/scan/items/archive/main.php:37
+#: template/parts/packages/filters/section_filters_subtab_filters_db.php:97
+msgid "Database Only"
+msgstr "Database Only"
+
+#: src/Package/TraitPackageProgress.php:109
+#: template/admin_pages/packages/details/transfer.php:139
+#: template/admin_pages/settings/backup/processing_settings.php:20
+msgid "Processing"
+msgstr "Processing"
+
+#: template/admin_pages/packages/scan/main.php:42
+msgid "This can take several minutes."
+msgstr "This can take several minutes."
+
+#: template/admin_pages/packages/scan/main.php:41
+msgid "Keep this window open during the scan process."
+msgstr "Keep this window open during the scan process."
+
+#: src/Controllers/SettingsPageController.php:1074
+#: src/Controllers/SettingsPageController.php:1101
+#: src/Core/Options/Rules/EncryptionRule.php:53
+#: src/Models/ActivityLog/LogEventBackupCreate.php:711
+#: src/Package/BuildRequirements.php:459 src/Views/AutoTunePageData.php:707
+#: template/admin_pages/packages/scan/items/database/tables.php:74
+#: template/admin_pages/packages/scan/items/database/tables.php:82
+#: template/admin_pages/packages/scan/items/setup/hosting_status.php:64
+#: template/admin_pages/settings/backup/advanced_settings.php:55
+#: template/admin_pages/settings/backup/detection_result_message.php:44
+msgid "Disabled"
+msgstr "Disabled"
+
+#: src/Package/BuildRequirements.php:456
+msgid "Suhosin Extension"
+msgstr "Suhosin Extension"
+
+#: template/parts/packages/filters/section_installer.php:254
+msgid "example: DatabaseUserName (value is optional)"
+msgstr "example: DatabaseUserName (value is optional)"
+
+#: template/parts/packages/filters/section_installer.php:103
+#: template/parts/packages/filters/section_installer.php:239
+msgid "example: DatabaseName (value is optional)"
+msgstr "example: DatabaseName (value is optional)"
+
+#: template/parts/packages/filters/section_installer.php:89
+#: template/parts/packages/filters/section_installer.php:224
+msgid "example: localhost (value is optional)"
+msgstr "example: localhost (value is optional)"
+
+#. Description of the plugin
+#: duplicator.php
+msgid "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly."
+msgstr "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly."
+
+#: template/admin_pages/tools/general_validator.php:22
+msgid "This will run the scan validation check.  This may take several minutes.  Do you want to Continue?"
+msgstr "This will run the scan validation check.  This may take several minutes.  Do you want to Continue?"
+
+#: template/admin_pages/tools/general_validator.php:21
+msgid "Run Validator"
+msgstr "Run Validator"
+
+#: template/admin_pages/packages/packages_scripts.php:54
+#: template/admin_pages/storages/storage_list.php:157
+msgid "Selection Required"
+msgstr "Selection Required"
+
+#: template/admin_pages/storages/storage_list.php:152
+msgid "Please select an action from the \"Bulk Actions\" drop down menu!"
+msgstr "Please select an action from the \"Bulk Actions\" drop down menu!"
+
+#: template/admin_pages/packages/packages_scripts.php:47
+#: template/admin_pages/storages/storage_list.php:151
+msgid "Bulk Action Required"
+msgstr "Bulk Action Required"
+
+#: src/Views/UI/UiDialog.php:67
+#: template/admin_pages/packages/remote_download/remote_download_options.php:60
+#: template/admin_pages/packages/remote_download/remote_restore_options.php:60
+#: template/admin_pages/settings/migrate_settings/export.php:63
+#: template/admin_pages/settings/migrate_settings/import.php:117
+#: template/admin_pages/storages/storage_scripts.php:23
+#: template/admin_pages/tools/auto_tune/start_dialog.php:74
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/Views/UI/UiDialog.php:66
+msgid "OK"
+msgstr "OK"
+
+#: src/Views/UI/UiDialog.php:63
+msgid "Processing please wait..."
+msgstr "Processing please wait..."
+
+#: template/admin_pages/packages/scan/items/setup/wordpress.php:84
+msgid "Multisite: N/A"
+msgstr "Multisite: N/A"
+
+#: src/Models/ActivityLog/LogEventWebsitesScan.php:252
+#: template/admin_pages/packages/scan/items/database/main.php:40
+msgid "Database Size:"
+msgstr "Database Size:"
+
+#: src/Core/Options/Rules/DbDumpEngineRule.php:52
+msgid "Mysqldump"
+msgstr "Mysqldump"
+
+#: template/admin_pages/tools/duplicator_logs.php:279
+msgid "Top 20"
+msgstr "Top 20"
+
+#: template/admin_pages/packages/screen_options.php:96
+msgid "Created Format"
+msgstr "Created Format"
+
+#: template/admin_pages/settings/backup/installer_settings.php:38
+msgid "recommended"
+msgstr "recommended"
+
+#: template/admin_pages/tools/general_validator.php:124
+msgid "Scanning Environment... This may take a few minutes."
+msgstr "Scanning Environment... This may take a few minutes."
+
+#: template/admin_pages/settings/general/debug_settings.php:22
+msgid "Debug"
+msgstr "Debug"
+
+#: template/admin_pages/tools/general_validator.php:37
+#: template/admin_pages/tools/general_validator.php:145
+msgid "Run Scan Integrity Validation"
+msgstr "Run Scan Integrity Validation"
+
+#: template/admin_pages/tools/general_validator.php:29
+msgid "Scan Validator"
+msgstr "Scan Validator"
+
+#: template/admin_pages/packages/scan/error_message.php:22
+msgid "Common Issues:"
+msgstr "Common Issues:"
+
+#: template/admin_pages/packages/scan/error_message.php:20
+msgid "3. This message will go away once the correct filters are applied."
+msgstr "3. This message will go away once the correct filters are applied."
+
+#: template/admin_pages/packages/scan/error_message.php:19
+msgid "2. Continue to add/remove filters to isolate which path is causing issues."
+msgstr "2. Continue to add/remove filters to isolate which path is causing issues."
+
+#: template/admin_pages/packages/scan/items/archive/files.php:44
+#: template/admin_pages/packages/scan/items/database/tables.php:29
+msgid "Overview"
+msgstr "Overview"
+
+#: template/admin_pages/packages/row_parts/package_progress_error.php:26
+msgid "Error Processing"
+msgstr "Error Processing"
+
+#: template/parts/packages/filters/mysqldump_compatibility_mode.php:95
+msgid "no_field_options"
+msgstr "no_field_options"
+
+#: template/parts/packages/filters/mysqldump_compatibility_mode.php:86
+msgid "no_key_options"
+msgstr "no_key_options"
+
+#: template/parts/packages/filters/mysqldump_compatibility_mode.php:77
+msgid "no_table_options"
+msgstr "no_table_options"
+
+#: template/parts/packages/filters/mysqldump_compatibility_mode.php:68
+msgid "mysql40"
+msgstr "mysql40"
+
+#: template/parts/packages/filters/mysqldump_compatibility_mode.php:30
+msgid "Compatibility Mode"
+msgstr "Compatibility Mode"
+
+#: template/admin_pages/packages/details/parts/files_card.php:121
+msgid "Extensions"
+msgstr "Extensions"
+
+#: addons/litebase/template/litebase/dashboard/recommended-plugin.php:42
+msgid "Learn More"
+msgstr "Learn More"
+
+#: template/admin_pages/packages/details/parts/prefills_card.php:21
+msgid "- not set -"
+msgstr "- not set -"
+
+#: template/parts/packages/filters/package_components.php:118
+msgid "File Filters:"
+msgstr "File Filters:"
+
+#: template/admin_pages/packages/details/parts/files_card.php:131
+#: template/admin_pages/packages/details/parts/filter_group.php:26
+msgid "- no filters -"
+msgstr "- no filters -"
+
+#: template/admin_pages/packages/details/parts/database_card.php:71
+#: template/admin_pages/packages/details/parts/files_card.php:75
+msgid "Filters"
+msgstr "Filters"
+
+#: src/Core/Options/Rules/ArchiveEngineRule.php:57
+msgid "ZipArchive"
+msgstr "ZipArchive"
+
+#: src/Package/BuildRequirements.php:183
+#: template/admin_pages/packages/details/parts/general_card.php:182
+msgid "PHP"
+msgstr "PHP"
+
+#: template/admin_pages/packages/details/transfer.php:179
+#: template/admin_pages/packages/packages_table_head.php:49
+#: template/admin_pages/tools/auto_tune/sidebar.php:15
+msgid "Status"
+msgstr "Status"
+
+#: template/admin_pages/packages/details/parts/general_card.php:186
+msgid "Mysql"
+msgstr "Mysql"
+
+#: template/admin_pages/packages/details/parts/general_card.php:56
+msgid "- unknown -"
+msgstr "- unknown -"
+
+#: template/admin_pages/packages/details/parts/general_card.php:201
+msgid "error running"
+msgstr "error running"
+
+#: template/admin_pages/packages/details/parts/general_card.php:196
+msgid "Runtime"
+msgstr "Runtime"
+
+#: template/admin_pages/packages/details/parts/general_card.php:299
+msgid "- no notes -"
+msgstr "- no notes -"
+
+#: template/admin_pages/packages/details/parts/general_card.php:128
+msgid "ID"
+msgstr "ID"
+
+#: src/Models/ActivityLog/LogEventBackupCreate.php:236
+#: template/admin_pages/packages/details/details_header.php:43
+#: template/admin_pages/packages/details/details_wpbody_header.php:49
+#: template/admin_pages/packages/details/parts/general_card.php:72
+msgid "Transfer"
+msgstr "Transfer"
+
+#: addons/litebase/installer/litebase/src/EducationStrings.php:89
+#: addons/litebase/template/litebase/scan/education-box.php:32
+msgid "Email Alerts"
+msgstr "Email Alerts"
+
+#: addons/litebase/template/litebase/about-us/lite-vs-pro/main.php:50
+msgid "Feature"
+msgstr "Feature"
+
+#: template/admin_pages/tools/duplicator_logs.php:203
+#: template/admin_pages/tools/duplicator_logs.php:210
+#: template/admin_pages/tools/php_logs.php:113
+#: template/admin_pages/tools/php_logs.php:164
+msgid "Options"
+msgstr "Options"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: duplicator.php src/Views/DashboardWidget.php:46
+#: template/admin_pages/packages/details/parts/general_card.php:169
+#: template/admin_pages/packages/row_parts/details_package.php:94
+msgid "Duplicator"
+msgstr "Duplicator"
+
+#: template/admin_pages/tools/duplicator_logs.php:221
+#: template/admin_pages/tools/php_logs.php:195
+msgid "Auto Refresh"
+msgstr "Auto Refresh"
+
+#: template/admin_pages/tools/duplicator_logs.php:217
+#: template/admin_pages/tools/php_logs.php:191
+msgid "Refresh"
+msgstr "Refresh"
+
+#: template/admin_pages/tools/duplicator_logs.php:165
+msgid "Reasons for log file not showing"
+msgstr "Reasons for log file not showing"
+
+#: src/Package/BuildRequirements.php:237
+msgid "Server Disk"
+msgstr "Server Disk"
+
+#: src/Package/BuildRequirements.php:499
+msgid "Max Allowed Packets"
+msgstr "Max Allowed Packets"
+
+#: src/Package/BuildRequirements.php:493
+msgid "Wait Timeout"
+msgstr "Wait Timeout"
+
+#: src/Package/BuildRequirements.php:177
+#: template/admin_pages/packages/details/parts/environment_card.php:32
+#: template/admin_pages/packages/details/parts/general_card.php:180
+#: template/admin_pages/packages/row_parts/details_package.php:90
+#: template/admin_pages/packages/scan/items/setup/wordpress.php:19
+msgid "WordPress"
+msgstr "WordPress"
+
+#: src/Package/BuildRequirements.php:349
+#: template/admin_pages/packages/scan/items/setup/wordpress.php:24
+msgid "WordPress Version"
+msgstr "WordPress Version"
+
+#: src/Controllers/SettingsPageController.php:370
+#: src/Core/Options/Rules/CompressionRule.php:48
+#: template/admin_pages/packages/details/parts/database_card.php:73
+#: template/admin_pages/packages/details/parts/files_card.php:77
+#: template/admin_pages/packages/details/parts/prefills_card.php:46
+#: template/admin_pages/settings/general/debug_settings.php:37
+msgid "On"
+msgstr "On"
+
+#: src/Controllers/SettingsPageController.php:369
+#: src/Controllers/SettingsPageController.php:875
+#: src/Controllers/SettingsPageController.php:999
+#: src/Core/Options/Rules/CompressionRule.php:48
+#: src/Package/BuildRequirements.php:430 src/Views/AutoTunePageData.php:740
+#: template/admin_pages/packages/details/parts/database_card.php:73
+#: template/admin_pages/packages/details/parts/files_card.php:77
+#: template/admin_pages/packages/details/parts/prefills_card.php:46
+#: template/admin_pages/settings/backup/installer_settings.php:125
+#: template/admin_pages/settings/backup/processing_settings.php:36
+#: template/admin_pages/settings/general/debug_settings.php:34
+msgid "Off"
+msgstr "Off"
+
+#: src/Package/BuildRequirements.php:273
+msgid "Operating System"
+msgstr "Operating System"
+
+#: src/Views/AutoTunePageData.php:281
+msgid "Server"
+msgstr "Server"
+
+#: src/Controllers/SettingsPageController.php:1075
+#: src/Controllers/SettingsPageController.php:1100
+#: src/Core/Options/Rules/EncryptionRule.php:53
+#: src/Models/ActivityLog/LogEventBackupCreate.php:711
+#: src/Models/ActivityLog/LogEventBackupCreate.php:936
+#: src/Package/BuildRequirements.php:459 src/Views/AutoTunePageData.php:707
+#: template/admin_pages/packages/scan/items/archive/main.php:39
+#: template/admin_pages/packages/scan/items/database/main.php:35
+#: template/admin_pages/packages/scan/items/database/tables.php:73
+#: template/admin_pages/packages/scan/items/database/tables.php:81
+#: template/admin_pages/packages/scan/items/setup/hosting_status.php:64
+#: template/admin_pages/settings/backup/advanced_settings.php:58
+msgid "Enabled"
+msgstr "Enabled"
+
+#: src/Controllers/SettingsPageController.php:91
+#: src/Controllers/ToolsPageController.php:201
+#: src/Models/ActivityLog/LogEventSettingsChange.php:257
+#: src/Package/BuildRequirements.php:171
+#: template/admin_pages/packages/details/parts/general_card.php:82
+#: template/admin_pages/packages/setup/setup_page.php:44
+msgid "General"
+msgstr "General"
+
+#: template/admin_pages/settings/storage/storage_ssl.php:19
+msgid "SSL"
+msgstr "SSL"
+
+#: template/admin_pages/settings/general/plugin_settings.php:22
+msgid "Plugin"
+msgstr "Plugin"
+
+#: template/admin_pages/packages/scan/main.php:40
+#: template/admin_pages/packages/setup/setup_page.php:122
+msgid "Please Wait..."
+msgstr "Please Wait..."
+
+#: template/admin_pages/packages/scan/items/archive/files_db_only.php:17
+#: template/admin_pages/packages/scan/items/archive/files_skip_scan.php:17
+#: template/admin_pages/packages/scan/items/database/mysqldump.php:26
+#: template/admin_pages/packages/scan/items/setup/security.php:50
+#: template/admin_pages/packages/scan/scripts.php:891
+msgid "Notice"
+msgstr "Notice"
+
+#: template/admin_pages/settings/backup/backup_settings.php:37
+#: template/admin_pages/settings/general/general.php:39
+#: template/admin_pages/settings/storage/storage_settings.php:36
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: template/admin_pages/packages/setup/setup_page.php:94
+msgid "Next"
+msgstr "Next"
+
+#: src/Models/Storages/Local/LocalStorage.php:238
+msgid "Name:"
+msgstr "Name:"
+
+#: src/Package/BuildRequirements.php:354
+msgid "Language"
+msgstr "Language"
+
+#: template/admin_pages/activity_log/parts/toolbar.php:82
+#: template/admin_pages/packages/setup/setup_page.php:88
+msgid "Reset"
+msgstr "Reset"
+
+#: template/admin_pages/packages/scan/main.php:115
+#: template/admin_pages/packages/scan/validation_error.php:40
+msgid "Back"
+msgstr "Back"
+
+#: template/admin_pages/settings/backup/detection_result_message.php:24
+msgid "Settings Saved"
+msgstr "Settings Saved"
+
+#: src/Package/BuildRequirements.php:451
+msgid "Shell Exec Zip"
+msgstr "Shell Exec Zip"
+
+#: src/Package/BuildRequirements.php:436 src/Package/BuildRequirements.php:442
+#: src/Package/BuildRequirements.php:448 src/Package/BuildRequirements.php:453
+msgid "Not Supported"
+msgstr "Not Supported"
+
+#: src/Package/BuildRequirements.php:436 src/Package/BuildRequirements.php:442
+#: src/Package/BuildRequirements.php:448 src/Package/BuildRequirements.php:453
+msgid "Is Supported"
+msgstr "Is Supported"
+
+#: src/Models/ActivityLog/LogEventBackupCreate.php:428
+msgid "Shell Exec"
+msgstr "Shell Exec"
+
+#: src/Package/BuildRequirements.php:406
+msgid "Memory In Use"
+msgstr "Memory In Use"
+
+#: src/Package/BuildRequirements.php:364 src/Package/BuildRequirements.php:400
+msgid "Memory Limit"
+msgstr "Memory Limit"
+
+#: src/Package/BuildRequirements.php:359 src/Package/BuildRequirements.php:488
+msgid "Charset"
+msgstr "Charset"
+
+#: src/Package/BuildRequirements.php:318
+msgid "Client IP"
+msgstr "Client IP"
+
+#: src/Package/BuildRequirements.php:308
+msgid "Server IP"
+msgstr "Server IP"
+
+#: src/Package/BuildRequirements.php:303
+msgid "Loaded PHP INI"
+msgstr "Loaded PHP INI"
+
+#: src/Package/BuildRequirements.php:293
+msgid "Server Time"
+msgstr "Server Time"
+
+#: src/Package/BuildRequirements.php:278
+msgid "Timezone"
+msgstr "Timezone"
+
+#: src/Package/BuildRequirements.php:259 src/Package/BuildRequirements.php:328
+msgid "Duplicator Version"
+msgstr "Duplicator Version"
+
+#: template/admin_pages/tools/server_info.php:22
+msgid "Server Settings"
+msgstr "Server Settings"
+
+#: template/admin_pages/tools/general.php:198
+msgid "Removes all build data from:"
+msgstr "Removes all build data from:"
+
+#: template/admin_pages/tools/general.php:194
+msgid "Clear Build Cache"
+msgstr "Clear Build Cache"
+
+#: template/admin_pages/diagnostics/clean_tmp_cache_message.php:31
+msgid "Build cache removed."
+msgstr "Build cache removed."
+
+#: template/admin_pages/settings/storage/storage_general.php:46
+msgid "Disable if issues occur when downloading installer/archive files."
+msgstr "Disable if issues occur when downloading installer/archive files."
+
+#: template/admin_pages/settings/general/plugin_settings.php:34
+msgid "Uninstall"
+msgstr "Uninstall"
+
+#: template/admin_pages/packages/scan/scripts.php:774
+msgid "Unable to report on database stats"
+msgstr "Unable to report on database stats"
+
+#: template/admin_pages/packages/scan/scripts.php:746
+msgid "Unable to report on any tables"
+msgstr "Unable to report on any tables"
+
+#: template/admin_pages/packages/scan/main.php:120
+msgid "Rescan"
+msgstr "Rescan"
+
+#: template/admin_pages/packages/scan/main.php:75
+#: template/admin_pages/packages/scan/validation_error.php:30
+msgid "Error Message:"
+msgstr "Error Message:"
+
+#: template/admin_pages/packages/scan/main.php:73
+#: template/admin_pages/packages/scan/validation_error.php:28
+msgid "Server Status:"
+msgstr "Server Status:"
+
+#: template/admin_pages/packages/scan/main.php:71
+#: template/admin_pages/packages/scan/scripts.php:631
+#: template/admin_pages/packages/scan/validation_error.php:26
+msgid "Please try again!"
+msgstr "Please try again!"
+
+#: src/Models/ActivityLog/LogEventWebsitesScan.php:399
+#: template/admin_pages/packages/scan/main.php:69
+#: template/admin_pages/packages/scan/scripts.php:630
+msgid "Scan Error"
+msgstr "Scan Error"
+
+#: template/admin_pages/packages/scan/main.php:91
+msgid "Please review the details for each section by clicking on the detail title."
+msgstr "Please review the details for each section by clicking on the detail title."
+
+#: template/admin_pages/packages/scan/main.php:89
+msgid "Scan checks are not required to pass, however they could cause issues on some systems."
+msgstr "Scan checks are not required to pass. However, they could cause issues on some systems."
+
+#: template/admin_pages/packages/scan/items/database/tables.php:36
+msgid "Records"
+msgstr "Records"
+
+#: template/admin_pages/packages/details/parts/database_card.php:81
+#: template/admin_pages/packages/row_parts/details_package.php:150
+#: template/admin_pages/packages/scan/items/database/tables.php:35
+msgid "Tables"
+msgstr "Tables"
+
+#: template/admin_pages/packages/scan/items/archive/files.php:77
+msgid "Large Files"
+msgstr "Large Files"
+
+#: template/admin_pages/packages/scan/items/setup/wordpress.php:25
+msgid "Core Files"
+msgstr "Core Files"
+
+#: src/Package/BuildRequirements.php:411
+msgid "Max Execution Time"
+msgstr "Max Execution Time"
+
+#: template/admin_pages/packages/scan/items/setup/system.php:50
+#: template/admin_pages/packages/scan/items/setup/system.php:82
+#: template/admin_pages/packages/scan/items/setup/system.php:107
+#: template/admin_pages/packages/scan/items/setup/wordpress.php:89
+msgid "details"
+msgstr "details"
+
+#: src/Package/BuildRequirements.php:298
+#: template/admin_pages/packages/scan/items/setup/system.php:37
+msgid "Web Server"
+msgstr "Web Server"
+
+#: template/admin_pages/packages/scan/main.php:52
+msgid "Process Time:"
+msgstr "Process Time:"
+
+#: template/admin_pages/packages/scan/main.php:49
+msgid "Scan Complete"
+msgstr "Scan Complete"
+
+#: template/admin_pages/packages/scan/main.php:32
+msgid "Scanning Site"
+msgstr "Scanning Site"
+
+#: src/Package/BuildRequirements.php:323
+#: template/admin_pages/packages/details/parts/prefills_card.php:39
+#: template/admin_pages/packages/details/parts/prefills_card.php:47
+#: template/parts/packages/filters/section_installer.php:81
+#: template/parts/packages/filters/section_installer.php:156
+#: template/parts/packages/filters/section_installer.php:215
+msgid "Host"
+msgstr "Host"
+
+#: src/Controllers/SettingsPageController.php:71
+#: src/Controllers/SettingsPageController.php:72
+#: template/admin_pages/settings/general/advanced_settings.php:31
+#: template/admin_pages/settings/migrate_settings/import.php:86
+msgid "Settings"
+msgstr "Settings"
+
+#: src/Package/BuildRequirements.php:483
+#: template/admin_pages/settings/general/plugin_settings.php:27
+msgid "Version"
+msgstr "Version"
+
+#: src/Core/Bootstrap.php:689 template/parts/admin-logo-header.php:20
+msgid "Help"
+msgstr "Help"
+
+#: src/Package/BuildRequirements.php:385
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: template/admin_pages/activity_log/log_list.php:39
+#: template/admin_pages/activity_log/log_list.php:64
+#: template/admin_pages/activity_log/parts/sub_table_mini.php:29
+#: template/admin_pages/packages/details/parts/general_card.php:223
+#: template/admin_pages/packages/details/transfer.php:180
+#: template/admin_pages/storages/storage_edit.php:101
+#: template/admin_pages/storages/storage_list.php:105
+#: template/admin_pages/storages/storage_list_row.php:136
+#: template/admin_pages/tools/php_logs.php:121
+#: template/parts/storage/select_list.php:31
+msgid "Type"
+msgstr "Type"
+
+#: template/admin_pages/packages/packages_table_head.php:57
+#: template/admin_pages/packages/scan/items/archive/files.php:29
+#: template/admin_pages/packages/scan/items/archive/files.php:119
+#: template/admin_pages/packages/scan/items/database/tables.php:34
+#: template/admin_pages/packages/screen_options.php:48
+msgid "Size"
+msgstr "Size"
+
+#: src/Models/Storages/AbstractStorageEntity.php:1142
+#: template/admin_pages/storages/configs/local_default.php:25
+#: template/admin_pages/storages/storage_list.php:106
+#: template/parts/storage/select_list.php:32
+msgid "Location"
+msgstr "Location"
+
+#: src/Package/BuildRequirements.php:395
+#: template/admin_pages/packages/details/parts/prefills_card.php:41
+#: template/admin_pages/packages/details/parts/prefills_card.php:48
+#: template/admin_pages/settings/backup/advanced_settings.php:147
+#: template/parts/packages/filters/section_installer.php:109
+#: template/parts/packages/filters/section_installer.php:169
+#: template/parts/packages/filters/section_installer.php:244
+msgid "User"
+msgstr "User"
+
+#: src/Models/Storages/Local/DefaultLocalStorage.php:24
+#: src/Models/TemplateEntity.php:288
+#: template/admin_pages/storages/storage_edit.php:72
+#: template/parts/packages/filters/section_installer.php:197
+msgid "Default"
+msgstr "Standard"
+
+#: src/Models/ActivityLog/LogEventBackupDelete.php:135
+#: template/admin_pages/packages/details/detail.php:29
+#: template/admin_pages/packages/details/parts/general_card.php:108
+#: template/admin_pages/packages/row_parts/details_package.php:80
+#: template/admin_pages/packages/toolbar.php:29
+#: template/admin_pages/storages/storage_list.php:66
+#: template/admin_pages/storages/storage_list_row.php:92
+msgid "Delete"
+msgstr "Delete"
+
+#: template/admin_pages/activity_log/parts/table_row.php:52
+#: template/admin_pages/packages/details/details_header.php:34
+#: template/admin_pages/packages/details/details_wpbody_header.php:39
+#: template/admin_pages/packages/details/transfer.php:51
+msgid "Details"
+msgstr "Details"
+
+#: template/admin_pages/packages/toolbar.php:37
+#: template/admin_pages/storages/parts/edit_toolbar.php:91
+#: template/admin_pages/storages/storage_list.php:74
+#: template/parts/notices/fix_group.php:126
+msgid "Apply"
+msgstr "Apply"
+
+#: template/admin_pages/packages/details/parts/general_card.php:294
+#: template/admin_pages/packages/setup/section_notes.php:16
+#: template/admin_pages/storages/storage_edit.php:95
+#: template/admin_pages/storages/storage_list_row.php:132
+msgid "Notes"
+msgstr "Notes"
+
+#: addons/dupcloudaddon/template/dupcloudaddon/connect/storage_auth.php:102
+#: template/admin_pages/packages/details/parts/general_card.php:116
+#: template/admin_pages/packages/packages_table_head.php:40
+#: template/admin_pages/settings/backup/installer_settings.php:26
+#: template/admin_pages/storages/storage_edit.php:68
+#: template/admin_pages/storages/storage_list.php:104
+#: template/admin_pages/storages/storage_list_row.php:128
+#: template/parts/storage/select_list.php:30
+msgid "Name"
+msgstr "Name"
+
+#: src/Controllers/ToolsPageController.php:54
+#: src/Controllers/ToolsPageController.php:55
+msgid "Tools"
+msgstr "Tools"
+
+#: src/Package/Create/BuildComponents.php:406
+#: template/admin_pages/packages/details/parts/database_card.php:31
+#: template/admin_pages/packages/details/parts/database_card.php:62
+#: template/admin_pages/packages/details/parts/general_card.php:70
+#: template/admin_pages/packages/details/parts/prefills_card.php:40
+#: template/admin_pages/packages/scan/items/database/main.php:25
+#: template/admin_pages/settings/backup/database_settings.php:36
+#: template/parts/packages/filters/section_installer.php:95
+#: template/parts/packages/filters/section_installer.php:229
+msgid "Database"
+msgstr "Database"
+
+#: src/Views/PluginFooter.php:155
+msgid "View"
+msgstr "View"
+
+#: template/admin_pages/packages/toolbar.php:25
+#: template/admin_pages/storages/storage_list.php:62
+msgid "Bulk Actions"
+msgstr "Bulk Actions"
+
+#: template/admin_pages/packages/details/parts/general_card.php:130
+#: template/admin_pages/packages/row_parts/details_package.php:128
+#: template/admin_pages/packages/row_parts/download_buttons.php:83
+#: template/admin_pages/packages/scan/items/archive/main.php:23
+#: template/admin_pages/settings/backup/archive_settings.php:32
+msgid "Archive"
+msgstr "Archive"
+
+#: addons/litebase/template/litebase/tools/support.php:32
+msgid "Knowledgebase"
+msgstr "Knowledge Base"
+
+#: template/parts/packages/filters/package_components.php:166
+msgid "cache"
+msgstr "cache"
+
+#: template/parts/packages/filters/package_components.php:157
+msgid "root path"
+msgstr "root path"
+
+#: template/admin_pages/packages/details/parts/files_card.php:85
+#: template/admin_pages/packages/scan/items/archive/files.php:151
+msgid "Directories"
+msgstr "Directories"
+
+#: template/admin_pages/packages/details/parts/files_card.php:39
+#: template/admin_pages/packages/details/parts/files_card.php:103
+#: template/admin_pages/packages/details/parts/general_card.php:71
+#: template/admin_pages/packages/row_parts/details_package.php:134
+#: template/admin_pages/packages/scan/items/archive/files.php:30
+#: template/admin_pages/packages/scan/items/archive/files.php:158
+#: template/admin_pages/packages/scan/items/archive/main.php:33
+msgid "Files"
+msgstr "Files"
+
+#: src/Models/Storages/Local/LocalStorage.php:169
+msgid "Local"
+msgstr "Local"
+
+#: src/Controllers/SettingsPageController.php:93
+#: src/Controllers/StoragePageController.php:35
+#: src/Controllers/StoragePageController.php:36
+#: src/Controllers/StoragePageController.php:61
+#: src/Models/ActivityLog/LogEventSettingsChange.php:259
+#: template/admin_pages/packages/details/transfer.php:102
+#: template/admin_pages/packages/setup/section_storages.php:21
+#: template/admin_pages/settings/migrate_settings/import.php:61
+#: template/admin_pages/settings/storage/storage_general.php:25
+#: template/mail/email_summary.php:141
+msgid "Storage"
+msgstr "Storage"
+
+#: template/admin_pages/packages/setup/section-requirements.php:112
+msgid "For additional help please see the "
+msgstr "For additional help please see the "
+
+#: template/parts/requirements/installer_files_fix_hint.php:40
+msgid "Remove Files Now"
+msgstr "Remove Files Now"
+
+#: template/admin_pages/packages/setup/section-requirements.php:38
+msgid "System requirements must pass for the Duplicator to work properly.  Click each link for details."
+msgstr "System requirements must pass for the Duplicator to work properly. Click each link for details."
+
+#: template/admin_pages/packages/setup/section-requirements.php:29
+#: template/admin_pages/packages/setup/section-requirements.php:32
+msgid "Requirements:"
+msgstr "Requirements:"
+
+#: src/Models/ActivityLog/LogEventWebsitesScan.php:175
+#: src/Models/ActivityLog/LogEventWebsitesScan.php:405
+#: template/admin_pages/packages/details/parts/general_card.php:69
+msgid "Scan"
+msgstr "Scan"
+
+#: template/admin_pages/packages/scan/items/setup/main.php:17
+msgid "Setup"
+msgstr "Setup"
+
+#: template/admin_pages/packages/details/parts/general_card.php:129
+msgid "Hash"
+msgstr "Hash"
+
+#: template/admin_pages/packages/row_parts/download_buttons.php:72
+#: template/parts/packages/filters/section_installer.php:34
+msgid "Installer"
+msgstr "Installer"
+
+#: template/admin_pages/packages/details/parts/general_card.php:137
+#: template/admin_pages/packages/packages_table_head.php:60
+#: template/admin_pages/packages/screen_options.php:60
+msgid "Created"
+msgstr "Created"
+
+#: template/parts/DashboardWidget/package-create-section.php:54
+msgid "Create New"
+msgstr "Create New"
+
+#: addons/litebase/src/Controllers/LiteToolsController.php:125
+msgid "Change Log"
+msgstr "Change Log"
+
+#: addons/litebase/src/Controllers/LiteToolsController.php:121
+msgid "FAQs"
+msgstr "FAQs"
+
+#: addons/litebase/src/Controllers/LiteToolsController.php:117
+msgid "User Guide"
+msgstr "User Guide"
+
+#: addons/litebase/src/Controllers/LiteToolsController.php:113
+msgid "Quick Start"
+msgstr "Quick Start"
+
+#: addons/litebase/installer/litebase/src/EducationStrings.php:78
+#: addons/litebase/src/Controllers/AboutUsPageController.php:156
+#: addons/litebase/src/Controllers/WelcomePageController.php:146
+#: addons/litebase/template/litebase/scan/education-box.php:19
+msgid "Scheduled Backups"
+msgstr "Scheduled Backups"
+
+#: addons/litebase/src/Controllers/AboutUsPageController.php:139
+msgid "Migration Wizard"
+msgstr "Migration Wizard"
+
+#: addons/litebase/src/Controllers/AboutUsPageController.php:131
+msgid "Backup Files & Database"
+msgstr "Backup Files & Database"
+
+#: src/Core/Bootstrap.php:669
+msgid "Manage"
+msgstr "Manage"
+
+#: src/Core/Bootstrap.php:689
+msgid "Get Help"
+msgstr "Get Help"
+
+#: src/Core/Controllers/AbstractSinglePageController.php:384
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: template/parts/migration/clean-installation-files.php:136
+msgid "Help Support Duplicator"
+msgstr "Help Support Duplicator"

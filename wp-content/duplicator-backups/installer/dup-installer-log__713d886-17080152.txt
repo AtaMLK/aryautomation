@@ -1,0 +1,2189 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 10:09:29
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |WINNT
+PHP VERSION_________: 8.1.34                                |8.1.29
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.1.29 | SAPI: cgi-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a
+DOC ROOT____________: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+REQUEST URL_________: "http://aryaautomation.local"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[cpnl-dbaction]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+INSTALL MODES_______: CLASSIC
+ADDONS______________: LiteBase
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+URL_NEW_____________: "http://aryaautomation.local"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/20260917_aryaautomationotomasyonzmleri_[HASH]_20260917080152_archive.zip"
+ARCHIVE SIZE________: 2GB
+CREATED_____________: 2026-09-17 08:01:52
+WP VERSION__________: 7.0.4
+DUP VERSION_________: 5.0.2
+LICENSE_____________: Free version
+PACKAGE COMPONENTS__: Database, Core, Plugins, Themes, Media, Other
+DB VERSION__________: 10.6.27
+DB FILE SIZE________: 144.61MB
+DB TABLES___________: 96
+DB ROWS_____________: 39134
+URL HOME____________: https://www.aryaautomation.com
+URL CORE____________: https://www.aryaautomation.com
+URL CONTENT_________: https://www.aryaautomation.com/wp-content
+URL UPLOAD__________: https://www.aryaautomation.com/wp-content/uploads
+URL PLUGINS_________: https://www.aryaautomation.com/wp-content/plugins
+URL MU PLUGINS______: https://www.aryaautomation.com/wp-content/mu-plugins
+URL THEMES__________: https://www.aryaautomation.com/wp-content/themes
+PATH HOME___________: /home/u2084128/public_html
+PATH ABS____________: /home/u2084128/public_html
+PATH WPCONFIG_______: /home/u2084128/public_html
+PATH WPCONTENT______: /home/u2084128/public_html/wp-content
+PATH UPLOADS________: /home/u2084128/public_html/wp-content/uploads
+PATH PLUGINS________: /home/u2084128/public_html/wp-content/plugins
+PATH MUPLUGINS______: /home/u2084128/public_html/wp-content/mu-plugins
+PATH THEMES_________: /home/u2084128/public_html/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "www.aryaautomation.com/"
+
+PLUGINS
+PLUGIN [SLUG:breadcrumb-navxt/breadcrumb-navxt.php             ][ON:false]  Breadcrumb NavXT
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:true ]  Contact Form 7
+PLUGIN [SLUG:wb-custom-product-tabs-for-woocommerce/wb-custom-product-tabs-for-woocommerce.php][ON:false]  Custom Product tabs for WooCommerce
+PLUGIN [SLUG:duplicate-page/duplicatepage.php                  ][ON:true ]  Duplicate Page
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ]  Duplicator
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:elementor-pro_off/elementor-pro.php               ][ON:false]  Elementor Pro
+PLUGIN [SLUG:elementor-pro/elementor-pro.php                   ][ON:true ]  Elementor Pro
+PLUGIN [SLUG:industrie-addons_off/industrie-addons.php         ][ON:true ]  Industrie Addons
+PLUGIN [SLUG:litespeed-cache/litespeed-cache.php               ][ON:true ]  LiteSpeed Cache
+PLUGIN [SLUG:mailchimp-for-wp/mailchimp-for-wp.php             ][ON:false]  MC4WP: Mailchimp for WordPress
+PLUGIN [SLUG:pdf-embedder/pdf_embedder.php                     ][ON:false]  PDF Embedder
+PLUGIN [SLUG:query-monitor/query-monitor.php                   ][ON:false]  Query Monitor
+PLUGIN [SLUG:really-simple-ssl/rlrsssl-really-simple-ssl.php   ][ON:false]  Really Simple Security
+PLUGIN [SLUG:redis-cache/redis-cache.php                       ][ON:true ]  Redis Object Cache
+PLUGIN [SLUG:rs-header-footer-elementor_off/rs-header-footer-elementor.php][ON:true ]  RS Elementor Header & Footer Builder
+PLUGIN [SLUG:safe-svg/safe-svg.php                             ][ON:false]  Safe SVG
+PLUGIN [SLUG:google-site-kit/google-site-kit.php               ][ON:false]  Site Kit by Google
+PLUGIN [SLUG:wp-smushit/wp-smush.php                           ][ON:false]  Smush
+PLUGIN [SLUG:header-footer-elementor/header-footer-elementor.php][ON:true ]  Ultimate Addons for Elementor (UAE)
+PLUGIN [SLUG:ultimate-elementor/ultimate-elementor.php         ][ON:true ]  Ultimate Addons for Elementor Pro
+PLUGIN [SLUG:woocommerce/woocommerce.php                       ][ON:true ]  WooCommerce
+PLUGIN [SLUG:wp-optimize/wp-optimize.php                       ][ON:false]  WP-Optimize - Clean, Compress, Cache
+PLUGIN [SLUG:insert-headers-and-footers/ihaf.php               ][ON:false]  WPCode Lite
+PLUGIN [SLUG:wpforms-lite/wpforms.php                          ][ON:false]  WPForms Lite
+PLUGIN [SLUG:wp-mail-smtp/wp_mail_smtp.php                     ][ON:false]  WP Mail SMTP
+PLUGIN [SLUG:duplicate-post/duplicate-post.php                 ][ON:false]  Yoast Duplicate Post
+PLUGIN [SLUG:wordpress-seo/wp-seo.php                          ][ON:false]  Yoast SEO
+PLUGIN [SLUG:automation-by-installatron.php                    ][ON:false]  WordPress automation by Installatron
+
+********************************************************************************
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\ctrl.base.php:189][DELTA:   0.33643]  MESSAGE:END RENDER PAGE
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\ctrl.base.php:189][DELTA:   0.21900]  MESSAGE:END RENDER PAGE
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Overwrite Install" RESULT: good
+
+START TEST "Disaster Recovery" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Disaster Recovery" RESULT: skip
+
+START TEST "Partial Backup Check" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00181]  MESSAGE:TEST "Partial Backup Check" RESULT: passed
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Manual extraction detected" RESULT: soft warning
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00254]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00057]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00019]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Staging Sites" [CLASS: DUPX_Validation_test_staging_sites]
+--------------------------------------
+PATHS MAPPING : "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+--------------------------------------
+LOG-TIME[DELTA:  15.94279]  MESSAGE:TEST "Staging Sites" RESULT: passed
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00154]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00037]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "Wordpress Configuration" [CLASS: DUPX_Validation_test_wp_config]
+LOG-TIME[DELTA:   0.00833]  MESSAGE:TEST "Wordpress Configuration" RESULT: passed
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00035]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   3.98804]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00165]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Extract only files" [CLASS: DUPX_Validation_test_db_excluded]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Extract only files" RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00260]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00083]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00116]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00030]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tables_count]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00114]  MESSAGE:TEST "Multiple WP Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.03629]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.11864]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00122]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00143]  MESSAGE:TEST "Character Set and Collation Support" RESULT: soft warning
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00012]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00072]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00116]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+DEFAULT DB_CHARSET [utf8] isn't valid, update DB_CHARSET to latin1 and DB_COLLATE set empty
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbgunzip] START
+DB GUNZIP DONE: 20260917080152-dump.sql
+DB GUNZIP COMPLETE - RUNTIME: 0.1404 sec.
+AJAX ACTION [dbgunzip] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+--------------------------------------
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 10:22:54
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "Arya Automation & Otomasyon Çözümleri"
+HOME URL NEW________: "http://aryaautomation.local"
+SITE URL NEW________: "http://aryaautomation.local"
+CONTENT URL NEW_____: "http://aryaautomation.local/wp-content"
+UPLOAD URL NEW______: "http://aryaautomation.local/wp-content/uploads"
+PLUGINS URL NEW_____: "http://aryaautomation.local/wp-content/plugins"
+MUPLUGINS URL NEW___: "http://aryaautomation.local/wp-content/mu-plugins"
+HOME PATH NEW_______: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+SITE PATH NEW_______: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+CONTENT PATH NEW____: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/wp-content"
+UPLOAD PATH NEW_____: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/wp-content/uploads"
+PLUGINS PATH NEW____: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/wp-content/plugins"
+MUPLUGINS PATH NEW__: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "manual"
+SET DIR PERMS_______: false
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: false
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer"
+	FILE: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/20260917_aryaautomationotomasyonzmleri_[HASH]_20260917080152_installer-backup.php"
+	FILE: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/20260917_aryaautomationotomasyonzmleri_[HASH]_20260917080152_archive.zip"
+	FILE: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/installer.php"
+	FILE: "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer-bootlog__713d886-17080152.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20260917_aryaautomationotomasyonzmleri_[HASH]_20260917080152_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: MANUAL MODE >>> START
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+*** RESET CONFIG FILES END
+SKIP PRE-EXTRACTION REMOVAL: archive engine is MANUAL (files already on disk)
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+
+EXTRACTION: MANUAL MODE >>> DONE
+
+EXTRACTION COMPLETE @ 10:22:54 - RUNTIME: 6.2123 sec. - 
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 c20e_
+
+
+
+********************************************************************************
+* DUPLICATOR INSTALL-LOG
+* STEP-2 START @ 10:22:54
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "c20e_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "latin1"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+SQL FILES___________: 1 (52.9MB)
+	1)20260917080152-dump.sql (52.9MB)
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "c20e_actionscheduler_actions"____________________[ROWS:     872] [EXTRACT|REPLACE] [INST NAME: c20e_actionscheduler_actions]
+TABLE "c20e_actionscheduler_claims"_____________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: c20e_actionscheduler_claims]
+TABLE "c20e_actionscheduler_groups"_____________________[ROWS:      15] [EXTRACT|REPLACE] [INST NAME: c20e_actionscheduler_groups]
+TABLE "c20e_actionscheduler_logs"_______________________[ROWS:    2590] [EXTRACT|REPLACE] [INST NAME: c20e_actionscheduler_logs]
+TABLE "c20e_chaty_contact_form_leads"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_chaty_contact_form_leads]
+TABLE "c20e_commentmeta"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_commentmeta]
+TABLE "c20e_comments"___________________________________[ROWS:     128] [EXTRACT|REPLACE] [INST NAME: c20e_comments]
+TABLE "c20e_duplicator_activity_logs"___________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: c20e_duplicator_activity_logs]
+TABLE "c20e_duplicator_backups"_________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: c20e_duplicator_backups]
+TABLE "c20e_duplicator_entities"________________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: c20e_duplicator_entities]
+TABLE "c20e_easywpsmtp_debug_events"____________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: c20e_easywpsmtp_debug_events]
+TABLE "c20e_easywpsmtp_tasks_meta"______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: c20e_easywpsmtp_tasks_meta]
+TABLE "c20e_ewwwio_images"______________________________[ROWS:     989] [EXTRACT|REPLACE] [INST NAME: c20e_ewwwio_images]
+TABLE "c20e_ewwwio_queue"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_ewwwio_queue]
+TABLE "c20e_e_events"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_e_events]
+TABLE "c20e_e_notes"____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_e_notes]
+TABLE "c20e_e_notes_users_relations"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_e_notes_users_relations]
+TABLE "c20e_e_submissions"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_e_submissions]
+TABLE "c20e_e_submissions_actions_log"__________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_e_submissions_actions_log]
+TABLE "c20e_e_submissions_values"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_e_submissions_values]
+TABLE "c20e_links"______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_links]
+TABLE "c20e_litespeed_avatar"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_litespeed_avatar]
+TABLE "c20e_litespeed_url"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_litespeed_url]
+TABLE "c20e_litespeed_url_file"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_litespeed_url_file]
+TABLE "c20e_options"____________________________________[ROWS:    1973] [EXTRACT|REPLACE] [INST NAME: c20e_options]
+TABLE "c20e_postmeta"___________________________________[ROWS:   16255] [EXTRACT|REPLACE] [INST NAME: c20e_postmeta]
+TABLE "c20e_posts"______________________________________[ROWS:    1972] [EXTRACT|REPLACE] [INST NAME: c20e_posts]
+TABLE "c20e_revslider_css"______________________________[ROWS:     109] [EXTRACT|REPLACE] [INST NAME: c20e_revslider_css]
+TABLE "c20e_revslider_layer_animations"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_revslider_layer_animations]
+TABLE "c20e_revslider_navigations"______________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: c20e_revslider_navigations]
+TABLE "c20e_revslider_sliders"__________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: c20e_revslider_sliders]
+TABLE "c20e_revslider_sliders7"_________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: c20e_revslider_sliders7]
+TABLE "c20e_revslider_slides"___________________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: c20e_revslider_slides]
+TABLE "c20e_revslider_slides7"__________________________[ROWS:       7] [EXTRACT|REPLACE] [INST NAME: c20e_revslider_slides7]
+TABLE "c20e_revslider_static_slides"____________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: c20e_revslider_static_slides]
+TABLE "c20e_termmeta"___________________________________[ROWS:     171] [EXTRACT|REPLACE] [INST NAME: c20e_termmeta]
+TABLE "c20e_terms"______________________________________[ROWS:     431] [EXTRACT|REPLACE] [INST NAME: c20e_terms]
+TABLE "c20e_term_relationships"_________________________[ROWS:    2907] [EXTRACT|REPLACE] [INST NAME: c20e_term_relationships]
+TABLE "c20e_term_taxonomy"______________________________[ROWS:     431] [EXTRACT|REPLACE] [INST NAME: c20e_term_taxonomy]
+TABLE "c20e_tm_taskmeta"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_tm_taskmeta]
+TABLE "c20e_tm_tasks"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_tm_tasks]
+TABLE "c20e_trp_gettext_en"_____________________________[ROWS:    1669] [EXTRACT|REPLACE] [INST NAME: c20e_trp_gettext_en]
+TABLE "c20e_trp_gettext_original_meta"__________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_trp_gettext_original_meta]
+TABLE "c20e_trp_gettext_original_strings"_______________[ROWS:    1669] [EXTRACT|REPLACE] [INST NAME: c20e_trp_gettext_original_strings]
+TABLE "c20e_usermeta"___________________________________[ROWS:     187] [EXTRACT|REPLACE] [INST NAME: c20e_usermeta]
+TABLE "c20e_users"______________________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: c20e_users]
+TABLE "c20e_wc_admin_notes"_____________________________[ROWS:      57] [EXTRACT|REPLACE] [INST NAME: c20e_wc_admin_notes]
+TABLE "c20e_wc_admin_note_actions"______________________[ROWS:      86] [EXTRACT|REPLACE] [INST NAME: c20e_wc_admin_note_actions]
+TABLE "c20e_wc_category_lookup"_________________________[ROWS:      13] [EXTRACT|REPLACE] [INST NAME: c20e_wc_category_lookup]
+TABLE "c20e_wc_customer_lookup"_________________________[ROWS:      12] [EXTRACT|REPLACE] [INST NAME: c20e_wc_customer_lookup]
+TABLE "c20e_wc_download_log"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wc_download_log]
+TABLE "c20e_wc_email_unsubscribes"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wc_email_unsubscribes]
+TABLE "c20e_wc_orders"__________________________________[ROWS:      20] [EXTRACT|REPLACE] [INST NAME: c20e_wc_orders]
+TABLE "c20e_wc_orders_meta"_____________________________[ROWS:     267] [EXTRACT|REPLACE] [INST NAME: c20e_wc_orders_meta]
+TABLE "c20e_wc_order_addresses"_________________________[ROWS:      40] [EXTRACT|REPLACE] [INST NAME: c20e_wc_order_addresses]
+TABLE "c20e_wc_order_coupon_lookup"_____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wc_order_coupon_lookup]
+TABLE "c20e_wc_order_operational_data"__________________[ROWS:      20] [EXTRACT|REPLACE] [INST NAME: c20e_wc_order_operational_data]
+TABLE "c20e_wc_order_product_lookup"____________________[ROWS:      20] [EXTRACT|REPLACE] [INST NAME: c20e_wc_order_product_lookup]
+TABLE "c20e_wc_order_stats"_____________________________[ROWS:      20] [EXTRACT|REPLACE] [INST NAME: c20e_wc_order_stats]
+TABLE "c20e_wc_order_tax_lookup"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wc_order_tax_lookup]
+TABLE "c20e_wc_product_attributes_lookup"_______________[ROWS:     887] [EXTRACT|REPLACE] [INST NAME: c20e_wc_product_attributes_lookup]
+TABLE "c20e_wc_product_download_directories"____________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: c20e_wc_product_download_directories]
+TABLE "c20e_wc_product_meta_lookup"_____________________[ROWS:     280] [EXTRACT|REPLACE] [INST NAME: c20e_wc_product_meta_lookup]
+TABLE "c20e_wc_rate_limits"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wc_rate_limits]
+TABLE "c20e_wc_reserved_stock"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wc_reserved_stock]
+TABLE "c20e_wc_tax_rate_classes"________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: c20e_wc_tax_rate_classes]
+TABLE "c20e_wc_webhooks"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wc_webhooks]
+TABLE "c20e_wdr_order_discounts"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wdr_order_discounts]
+TABLE "c20e_wdr_order_item_discounts"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wdr_order_item_discounts]
+TABLE "c20e_wdr_rules"__________________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: c20e_wdr_rules]
+TABLE "c20e_woocommerce_api_keys"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_api_keys]
+TABLE "c20e_woocommerce_attribute_taxonomies"___________[ROWS:      29] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_attribute_taxonomies]
+TABLE "c20e_woocommerce_downloadable_product_permissions"[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_downloadable_product_permissions]
+TABLE "c20e_woocommerce_log"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_log]
+TABLE "c20e_woocommerce_order_itemmeta"_________________[ROWS:     300] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_order_itemmeta]
+TABLE "c20e_woocommerce_order_items"____________________[ROWS:      40] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_order_items]
+TABLE "c20e_woocommerce_payment_tokenmeta"______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_payment_tokenmeta]
+TABLE "c20e_woocommerce_payment_tokens"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_payment_tokens]
+TABLE "c20e_woocommerce_sessions"_______________________[ROWS:      19] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_sessions]
+TABLE "c20e_woocommerce_shipping_zones"_________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_shipping_zones]
+TABLE "c20e_woocommerce_shipping_zone_locations"________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_shipping_zone_locations]
+TABLE "c20e_woocommerce_shipping_zone_methods"__________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_shipping_zone_methods]
+TABLE "c20e_woocommerce_tax_rates"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_tax_rates]
+TABLE "c20e_woocommerce_tax_rate_locations"_____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_woocommerce_tax_rate_locations]
+TABLE "c20e_wpforms_logs"_______________________________[ROWS:      22] [EXTRACT|REPLACE] [INST NAME: c20e_wpforms_logs]
+TABLE "c20e_wpforms_payments"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wpforms_payments]
+TABLE "c20e_wpforms_payment_meta"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wpforms_payment_meta]
+TABLE "c20e_wpforms_tasks_meta"_________________________[ROWS:      14] [EXTRACT|REPLACE] [INST NAME: c20e_wpforms_tasks_meta]
+TABLE "c20e_wpmailsmtp_debug_events"____________________[ROWS:     128] [EXTRACT|REPLACE] [INST NAME: c20e_wpmailsmtp_debug_events]
+TABLE "c20e_wpmailsmtp_tasks_meta"______________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: c20e_wpmailsmtp_tasks_meta]
+TABLE "c20e_wpo_404_detector"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: c20e_wpo_404_detector]
+TABLE "c20e_yoast_indexable"____________________________[ROWS:     648] [EXTRACT|REPLACE] [INST NAME: c20e_yoast_indexable]
+TABLE "c20e_yoast_indexable_hierarchy"__________________[ROWS:     706] [EXTRACT|REPLACE] [INST NAME: c20e_yoast_indexable_hierarchy]
+TABLE "c20e_yoast_migrations"___________________________[ROWS:      25] [EXTRACT|REPLACE] [INST NAME: c20e_yoast_migrations]
+TABLE "c20e_yoast_primary_term"_________________________[ROWS:     440] [EXTRACT|REPLACE] [INST NAME: c20e_yoast_primary_term]
+TABLE "c20e_yoast_seo_links"____________________________[ROWS:    3248] [EXTRACT|REPLACE] [INST NAME: c20e_yoast_seo_links]
+********************************************************************************
+
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbgunzip] START
+DB GUNZIP COMPLETE - RUNTIME: 7.1089 sec.
+AJAX ACTION [dbgunzip] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+*** RESET CONFIG FILES END
+SKIP PRE-EXTRACTION REMOVAL: archive engine is MANUAL (files already on disk)
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+
+EXTRACTION: MANUAL MODE >>> DONE
+
+EXTRACTION COMPLETE @ 10:22:55 - RUNTIME: 6.9595 sec. - 
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbgunzip] START
+DB GUNZIP COMPLETE - RUNTIME: 8.1679 sec.
+AJAX ACTION [dbgunzip] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+*** RESET CONFIG FILES END
+SKIP PRE-EXTRACTION REMOVAL: archive engine is MANUAL (files already on disk)
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+
+EXTRACTION: MANUAL MODE >>> DONE
+
+EXTRACTION COMPLETE @ 10:22:56 - RUNTIME: 7.9494 sec. - 
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.6.23 -- Build Server: 10.6.27
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE-GLOBAL:	STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`root`@`%`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+PROCESSING SQL FILE 20260917080152-dump.sql (1 of 1)
+OFFSET 0 OF 55471005
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.6.23 -- Build Server: 10.6.27
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+DROP TABLE c20e_actionscheduler_actions
+DROP TABLE c20e_actionscheduler_claims
+DB QUERY [ERROR][C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php:688] MSG: Table 'local.c20e_actionscheduler_actions' doesn't exist
+	SQL: INSERT IGNORE INTO `c20e_actionscheduler_actions` VALUES 
+("5034","woocommerce_cleanup_sessions","complete","2026-08-14 01:43:48","2026-08-14 01:43:48","10","[]","O:32:\"ActionScheduler_IntervalSchedule\":5:{s:22:\"\0*\0scheduled_timestamp\";i:1786671828;s:18:\"\0*\0first_timestamp\";i:1785909600;s:13:\"\0*\0recurrence\";i:43200;s:49:\"\0ActionScheduler_IntervalSchedule\0start_timestamp\";i:1786671828;s:53:\"\0ActionScheduler_IntervalSchedule\0interval_in_seconds\";i:43200;}","14","1","2026-08-1
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1349]
+TRACE[2] CLASS___: DUPX_DBInstall->writeQueryInDB FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1044]
+TRACE[3] CLASS___: DUPX_DBInstall->deployDatabaseChunkMode FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[334]
+TRACE[4] CLASS___: DUPX_DBInstall->insertDatabase FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[307]
+TRACE[5] CLASS___: DUPX_DBInstall->deploy     FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[234]
+TRACE[6] CLASS___: DUPX_Ctrl_ajax::actions    FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[111]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::controller FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\main.installer.php[47]
+
+DB QUERY [ERROR][C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php:688] MSG: Table 'local.c20e_actionscheduler_actions' doesn't exist
+	SQL: INSERT IGNORE INTO `c20e_actionscheduler_actions` VALUES 
+("5350","action_scheduler_run_actions_cleanup_hook","complete","2026-08-27 13:14:07","2026-08-27 13:14:07","0","[]","O:32:\"ActionScheduler_IntervalSchedule\":5:{s:22:\"\0*\0scheduled_timestamp\";i:1787836447;s:18:\"\0*\0first_timestamp\";i:1785985200;s:13:\"\0*\0recurrence\";i:86400;s:49:\"\0ActionScheduler_IntervalSchedule\0start_timestamp\";i:1787836447;s:53:\"\0ActionScheduler_IntervalSchedule\0interval_in_seconds\";i:86400;}","13","1
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1349]
+TRACE[2] CLASS___: DUPX_DBInstall->writeQueryInDB FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1044]
+TRACE[3] CLASS___: DUPX_DBInstall->deployDatabaseChunkMode FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[334]
+TRACE[4] CLASS___: DUPX_DBInstall->insertDatabase FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[307]
+TRACE[5] CLASS___: DUPX_DBInstall->deploy     FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[234]
+TRACE[6] CLASS___: DUPX_Ctrl_ajax::actions    FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[111]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::controller FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\main.installer.php[47]
+
+DROP TABLE c20e_actionscheduler_groups
+DB QUERY [ERROR][C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php:688] MSG: Table 'local.c20e_actionscheduler_claims' doesn't exist
+	SQL: INSERT IGNORE INTO `c20e_actionscheduler_claims` VALUES 
+("40526","2025-04-08 10:44:26"),
+("44716","2025-09-22 21:24:08"),
+("46292","2026-09-04 07:17:54");
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1349]
+TRACE[2] CLASS___: DUPX_DBInstall->writeQueryInDB FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1044]
+TRACE[3] CLASS___: DUPX_DBInstall->deployDatabaseChunkMode FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[334]
+TRACE[4] CLASS___: DUPX_DBInstall->insertDatabase FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[307]
+TRACE[5] CLASS___: DUPX_DBInstall->deploy     FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[234]
+TRACE[6] CLASS___: DUPX_Ctrl_ajax::actions    FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[111]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::controller FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\main.installer.php[47]
+
+DROP TABLE c20e_actionscheduler_logs
+DB QUERY [ERROR][C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php:688] MSG: Table 'local.c20e_actionscheduler_groups' doesn't exist
+	SQL: INSERT IGNORE INTO `c20e_actionscheduler_groups` VALUES 
+("1","action-scheduler-migration"),
+("2",""),
+("3","wpforms"),
+("4","woocommerce-db-updates"),
+("5","woocommerce-remote-inbox-engine"),
+("6","wc-admin-data"),
+("7","wp_mail_smtp"),
+("8","easy_wp_smtp"),
+("9","yith-tab-manager-db-updates"),
+("10","wc_update_product_default_cat"),
+("11","wc_delete_related_product_transients_group"),
+("12","count"),
+("13","ActionScheduler"),
+("14","woocommerce"),
+("15","wc_update_product_lookup_tables");
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1349]
+TRACE[2] CLASS___: DUPX_DBInstall->writeQueryInDB FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1044]
+TRACE[3] CLASS___: DUPX_DBInstall->deployDatabaseChunkMode FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[334]
+TRACE[4] CLASS___: DUPX_DBInstall->insertDatabase FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[307]
+TRACE[5] CLASS___: DUPX_DBInstall->deploy     FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[234]
+TRACE[6] CLASS___: DUPX_Ctrl_ajax::actions    FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[111]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::controller FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\main.installer.php[47]
+
+DROP TABLE c20e_chaty_contact_form_leads
+DB QUERY [ERROR][C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php:688] MSG: Table 'local.c20e_actionscheduler_logs' doesn't exist
+	SQL: INSERT IGNORE INTO `c20e_actionscheduler_logs` VALUES 
+("11804","3974","eylem oluşturuldu","2025-09-29 06:35:48","2025-09-29 06:35:48"),
+("11807","3975","eylem oluşturuldu","2025-09-29 06:36:56","2025-09-29 06:36:56"),
+("11818","3978","eylem oluşturuldu","2025-09-29 06:38:21","2025-09-29 06:38:21"),
+("11836","3984","eylem oluşturuldu","2025-09-29 06:39:26","2025-09-29 06:39:26"),
+("11981","3974","action started via WP Cron","2026-07-07 16:51:11","2026-07-07 16:51:11"),
+("11982","3974","actio
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1349]
+TRACE[2] CLASS___: DUPX_DBInstall->writeQueryInDB FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1044]
+TRACE[3] CLASS___: DUPX_DBInstall->deployDatabaseChunkMode FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[334]
+TRACE[4] CLASS___: DUPX_DBInstall->insertDatabase FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[307]
+TRACE[5] CLASS___: DUPX_DBInstall->deploy     FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[234]
+TRACE[6] CLASS___: DUPX_Ctrl_ajax::actions    FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[111]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::controller FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\main.installer.php[47]
+
+DB QUERY [ERROR][C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php:688] MSG: Table 'local.c20e_actionscheduler_logs' doesn't exist
+	SQL: INSERT IGNORE INTO `c20e_actionscheduler_logs` VALUES 
+("15425","5187","action started via Async Request","2026-08-19 22:34:54","2026-08-19 22:34:54"),
+("15426","5188","action created","2026-08-19 22:34:54","2026-08-19 22:34:54"),
+("15427","5187","action complete via Async Request","2026-08-19 22:34:54","2026-08-19 22:34:54"),
+("15428","5188","action started via Async Request","2026-08-20 01:57:13","2026-08-20 01:57:13"),
+("15429","5189","action created","2026-08-20 01:57:13","2026-08-20 01:57:1
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1349]
+TRACE[2] CLASS___: DUPX_DBInstall->writeQueryInDB FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1044]
+TRACE[3] CLASS___: DUPX_DBInstall->deployDatabaseChunkMode FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[334]
+TRACE[4] CLASS___: DUPX_DBInstall->insertDatabase FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[307]
+TRACE[5] CLASS___: DUPX_DBInstall->deploy     FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[234]
+TRACE[6] CLASS___: DUPX_Ctrl_ajax::actions    FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[111]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::controller FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\main.installer.php[47]
+
+DROP TABLE c20e_commentmeta
+DROP TABLE c20e_comments
+DROP TABLE c20e_duplicator_activity_logs
+DROP TABLE c20e_duplicator_backups
+DROP TABLE c20e_duplicator_entities
+DROP TABLE c20e_e_events
+DROP TABLE c20e_e_notes
+DROP TABLE c20e_e_notes_users_relations
+DROP TABLE c20e_e_submissions
+DROP TABLE c20e_e_submissions_actions_log
+DROP TABLE c20e_e_submissions_values
+DROP TABLE c20e_easywpsmtp_debug_events
+DROP TABLE c20e_easywpsmtp_tasks_meta
+DROP TABLE c20e_ewwwio_images
+DROP TABLE c20e_ewwwio_queue
+DROP TABLE c20e_links
+DROP TABLE c20e_litespeed_avatar
+DROP TABLE c20e_litespeed_url
+DROP TABLE c20e_litespeed_url_file
+DROP TABLE c20e_options
+DROP TABLE c20e_postmeta
+DROP TABLE c20e_posts
+DROP TABLE c20e_revslider_css
+DROP TABLE c20e_revslider_layer_animations
+DROP TABLE c20e_revslider_navigations
+DROP TABLE c20e_revslider_sliders
+DROP TABLE c20e_revslider_sliders7
+DROP TABLE c20e_revslider_slides
+DROP TABLE c20e_revslider_slides7
+DROP TABLE c20e_revslider_static_slides
+DROP TABLE c20e_term_relationships
+DROP TABLE c20e_term_taxonomy
+DROP TABLE c20e_termmeta
+DROP TABLE c20e_terms
+DROP TABLE c20e_tm_taskmeta
+DROP TABLE c20e_tm_tasks
+DROP TABLE c20e_trp_gettext_en
+DROP TABLE c20e_trp_gettext_original_meta
+DROP TABLE c20e_trp_gettext_original_strings
+DROP TABLE c20e_usermeta
+DROP TABLE c20e_users
+DROP TABLE c20e_wc_admin_note_actions
+DROP TABLE c20e_wc_admin_notes
+DROP TABLE c20e_wc_category_lookup
+DROP TABLE c20e_wc_customer_lookup
+DROP TABLE c20e_wc_download_log
+DROP TABLE c20e_wc_email_unsubscribes
+DROP TABLE c20e_wc_order_addresses
+DROP TABLE c20e_wc_order_coupon_lookup
+DROP TABLE c20e_wc_order_operational_data
+DROP TABLE c20e_wc_order_product_lookup
+DROP TABLE c20e_wc_order_stats
+DROP TABLE c20e_wc_order_tax_lookup
+DROP TABLE c20e_wc_orders
+DROP TABLE c20e_wc_orders_meta
+DROP TABLE c20e_wc_product_attributes_lookup
+DROP TABLE c20e_wc_product_download_directories
+DROP TABLE c20e_wc_product_meta_lookup
+DROP TABLE c20e_wc_rate_limits
+FAILED QUERY LIMIT [QLEN:28871220|MAX:16777216]
+	[SQL=INSERT IGNORE INTO `c20e_options` VALUES 
+("154092","wpcode_snippets_errors","a:0:{}","auto"),
+("157501","_wpforms_transient_timeout_templates.json","1776826684","off"),
+("157502","_wpforms_transient_...]
+
+
+DROP TABLE c20e_wc_reserved_stock
+DROP TABLE c20e_wc_tax_rate_classes
+DROP TABLE c20e_wc_webhooks
+DROP TABLE c20e_wdr_order_discounts
+DROP TABLE c20e_wdr_order_item_discounts
+DB QUERY [ERROR][C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php:688] MSG: Got a packet bigger than 'max_allowed_packet' bytes
+	SQL: INSERT IGNORE INTO `c20e_options` VALUES 
+("154092","wpcode_snippets_errors","a:0:{}","auto"),
+("157501","_wpforms_transient_timeout_templates.json","1776826684","off"),
+("157502","_wpforms_transient_templates.json","1776221884","off"),
+("160818","woocommerce_address_autocomplete_enabled","no","on"),
+("160819","woocommerce_feature_mcp_integration_enabled","no","on"),
+("160820","woocommerce_feature_destroy-empty-sessions_enabled","no","on"),
+("161500","category_children","a:0:{}","auto"),
+("16503
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1349]
+TRACE[2] CLASS___: DUPX_DBInstall->writeQueryInDB FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1044]
+TRACE[3] CLASS___: DUPX_DBInstall->deployDatabaseChunkMode FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[334]
+TRACE[4] CLASS___: DUPX_DBInstall->insertDatabase FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[307]
+TRACE[5] CLASS___: DUPX_DBInstall->deploy     FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[234]
+TRACE[6] CLASS___: DUPX_Ctrl_ajax::actions    FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[111]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::controller FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\main.installer.php[47]
+
+DROP TABLE c20e_wdr_rules
+DROP TABLE c20e_woocommerce_api_keys
+DROP TABLE c20e_woocommerce_attribute_taxonomies
+DROP TABLE c20e_woocommerce_downloadable_product_permissions
+DROP TABLE c20e_woocommerce_log
+DROP TABLE c20e_woocommerce_order_itemmeta
+DROP TABLE c20e_woocommerce_order_items
+DROP TABLE c20e_woocommerce_payment_tokenmeta
+DB PING FAILED: MySQL server has gone away
+Attempting to reconnect
+
+INSTALLER ERROR:
+[PHP ERR][E_ERROR] MSG:Uncaught Error: mysqli object is already closed in C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php:316
+Stack trace:
+#0 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php(316): mysqli_real_escape_string(Object(mysqli), 'local')
+#1 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php(348): DUPX_DB::databaseExists(Object(mysqli), 'local')
+#2 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(613): DUPX_DB::selectDB(Object(mysqli), 'local')
+#3 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(702): DUPX_DBInstall->dbConnect(true)
+#4 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(1391): DUPX_DBInstall->pingAndReconnect()
+#5 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(1044): DUPX_DBInstall->writeQueryInDB('INSERT IGNORE I...')
+#6 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(334): DUPX_DBInstall->deployDatabaseChunkMode()
+#7 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php(307): DUPX_DBInstall->insertDatabase()
+#8 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php(234): DUPX_DBInstall->deploy()
+#9 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php(111): DUPX_Ctrl_ajax::actions('dbinstall')
+#10 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\main.installer.php(47): DUPX_Ctrl_ajax::controller()
+#11 {main}
+  thrown [CODE:1|FILE:C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php|LINE:316]
+
+DROP TABLE c20e_woocommerce_payment_tokens
+DROP TABLE c20e_woocommerce_sessions
+DROP TABLE c20e_woocommerce_shipping_zone_locations
+DROP TABLE c20e_woocommerce_shipping_zone_methods
+DROP TABLE c20e_woocommerce_shipping_zones
+DROP TABLE c20e_woocommerce_tax_rate_locations
+DROP TABLE c20e_woocommerce_tax_rates
+DROP TABLE c20e_wpforms_logs
+DROP TABLE c20e_wpforms_payment_meta
+DROP TABLE c20e_wpforms_payments
+DROP TABLE c20e_wpforms_tasks_meta
+DROP TABLE c20e_wpmailsmtp_debug_events
+DROP TABLE c20e_wpmailsmtp_tasks_meta
+DROP TABLE c20e_wpo_404_detector
+DROP TABLE c20e_yoast_indexable
+DROP TABLE c20e_yoast_indexable_hierarchy
+DROP TABLE c20e_yoast_migrations
+DROP TABLE c20e_yoast_primary_term
+DROP TABLE c20e_yoast_seo_links
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`root`@`%`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+PROCESSING SQL FILE 20260917080152-dump.sql (1 of 1)
+OFFSET 0 OF 55471005
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.6.23 -- Build Server: 10.6.27
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+DROP TABLE c20e_actionscheduler_actions
+DROP TABLE c20e_actionscheduler_claims
+DROP TABLE c20e_actionscheduler_groups
+DROP TABLE c20e_actionscheduler_logs
+DROP TABLE c20e_chaty_contact_form_leads
+DROP TABLE c20e_commentmeta
+DROP TABLE c20e_comments
+DROP TABLE c20e_duplicator_activity_logs
+DROP TABLE c20e_duplicator_backups
+DROP TABLE c20e_duplicator_entities
+DROP TABLE c20e_e_events
+DROP TABLE c20e_e_notes
+DROP TABLE c20e_e_notes_users_relations
+DROP TABLE c20e_e_submissions
+DROP TABLE c20e_e_submissions_actions_log
+DROP TABLE c20e_e_submissions_values
+DROP TABLE c20e_easywpsmtp_debug_events
+DROP TABLE c20e_easywpsmtp_tasks_meta
+DROP TABLE c20e_ewwwio_images
+DROP TABLE c20e_ewwwio_queue
+DROP TABLE c20e_links
+DROP TABLE c20e_litespeed_avatar
+DROP TABLE c20e_litespeed_url
+DROP TABLE c20e_litespeed_url_file
+DROP TABLE c20e_usermeta
+DROP TABLE c20e_users
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`root`@`%`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+PROCESSING SQL FILE 20260917080152-dump.sql (1 of 1)
+OFFSET 0 OF 55471005
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+DB QUERY [ERROR][C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\classes\database\class.db.php:688] MSG: Deadlock found when trying to get lock; try restarting transaction
+	SQL: INSERT IGNORE INTO `c20e_wpmailsmtp_debug_events` VALUES 
+("1","Mailer: Other SMTP\r\nSMTP Error: Could not connect to SMTP host.","{\"file\":\"\\/home\\/u2084128\\/public_html\\/wp-content\\/plugins\\/woocommerce\\/includes\\/emails\\/class-wc-email.php\",\"line\":769}","0","2025-02-07 08:20:43"),
+("2","Mailer: Other SMTP\r\nSMTP Error: Could not connect to SMTP host.","{\"file\":\"\\/home\\/u2084128\\/public_html\\/wp-content\\/plugins\\/woocommerce\\/includes\\/emails\\/class-wc-email.php\",\
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1349]
+TRACE[2] CLASS___: DUPX_DBInstall->writeQueryInDB FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[1044]
+TRACE[3] CLASS___: DUPX_DBInstall->deployDatabaseChunkMode FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[334]
+TRACE[4] CLASS___: DUPX_DBInstall->insertDatabase FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.dbinstall.php[307]
+TRACE[5] CLASS___: DUPX_DBInstall->deploy     FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[234]
+TRACE[6] CLASS___: DUPX_Ctrl_ajax::actions    FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php[111]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::controller FILE: C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\main.installer.php[47]
+
+Auto Commit set to true successfully
+ALL SQL FILES PROCESSED
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	1
+DROPPED TABLES:	96
+RENAMED TABLES:	0
+QUERIES RAN:	324
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+Auto Commit set to true successfully
+DB install chunk process integrity check has been just failed.
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+TABLE "c20e_actionscheduler_actions"____________________[ROWS:   872]
+TABLE "c20e_actionscheduler_claims"_____________________[ROWS:     3]
+TABLE "c20e_actionscheduler_groups"_____________________[ROWS:    15]
+TABLE "c20e_actionscheduler_logs"_______________________[ROWS:  2590]
+TABLE "c20e_chaty_contact_form_leads"___________________[ROWS:     0]
+TABLE "c20e_commentmeta"________________________________[ROWS:     0]
+TABLE "c20e_comments"___________________________________[ROWS:   128]
+TABLE "c20e_duplicator_activity_logs"___________________[ROWS:     4]
+TABLE "c20e_duplicator_backups"_________________________[ROWS:     1]
+TABLE "c20e_duplicator_entities"________________________[ROWS:     9]
+TABLE "c20e_e_events"___________________________________[ROWS:     0]
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+TABLE "c20e_e_notes"____________________________________[ROWS:     0]
+TABLE "c20e_e_notes_users_relations"____________________[ROWS:     0]
+TABLE "c20e_e_submissions"______________________________[ROWS:     0]
+TABLE "c20e_e_submissions_actions_log"__________________[ROWS:     0]
+TABLE "c20e_e_submissions_values"_______________________[ROWS:     0]
+TABLE "c20e_easywpsmtp_debug_events"____________________[ROWS:     6]
+TABLE "c20e_easywpsmtp_tasks_meta"______________________[ROWS:     1]
+TABLE "c20e_ewwwio_images"______________________________[ROWS:   989]
+TABLE "c20e_ewwwio_queue"_______________________________[ROWS:     0]
+TABLE "c20e_links"______________________________________[ROWS:     0]
+TABLE "c20e_litespeed_avatar"___________________________[ROWS:     0]
+TABLE "c20e_litespeed_url"______________________________[ROWS:     0]
+TABLE "c20e_litespeed_url_file"_________________________[ROWS:     0]
+TABLE "c20e_options"____________________________________[ROWS:  1973]
+TABLE "c20e_postmeta"___________________________________[ROWS: 16255]
+TABLE "c20e_posts"______________________________________[ROWS:  1972]
+TABLE "c20e_revslider_css"______________________________[ROWS:   109]
+TABLE "c20e_revslider_layer_animations"_________________[ROWS:     0]
+TABLE "c20e_revslider_navigations"______________________[ROWS:     2]
+TABLE "c20e_revslider_sliders"__________________________[ROWS:     1]
+TABLE "c20e_revslider_sliders7"_________________________[ROWS:     1]
+TABLE "c20e_revslider_slides"___________________________[ROWS:     6]
+TABLE "c20e_revslider_slides7"__________________________[ROWS:     7]
+TABLE "c20e_revslider_static_slides"____________________[ROWS:     1]
+TABLE "c20e_term_relationships"_________________________[ROWS:  2907]
+TABLE "c20e_term_taxonomy"______________________________[ROWS:   431]
+TABLE "c20e_termmeta"___________________________________[ROWS:   171]
+TABLE "c20e_terms"______________________________________[ROWS:   431]
+TABLE "c20e_tm_taskmeta"________________________________[ROWS:     0]
+TABLE "c20e_tm_tasks"___________________________________[ROWS:     0]
+TABLE "c20e_trp_gettext_en"_____________________________[ROWS:  1669]
+TABLE "c20e_trp_gettext_original_meta"__________________[ROWS:     0]
+TABLE "c20e_trp_gettext_original_strings"_______________[ROWS:  1669]
+TABLE "c20e_usermeta"___________________________________[ROWS:   187]
+TABLE "c20e_users"______________________________________[ROWS:     4]
+TABLE "c20e_wc_admin_note_actions"______________________[ROWS:    86]
+TABLE "c20e_wc_admin_notes"_____________________________[ROWS:    57]
+TABLE "c20e_wc_category_lookup"_________________________[ROWS:    13]
+TABLE "c20e_wc_customer_lookup"_________________________[ROWS:    12]
+TABLE "c20e_wc_download_log"____________________________[ROWS:     0]
+TABLE "c20e_wc_email_unsubscribes"______________________[ROWS:     0]
+TABLE "c20e_wc_order_addresses"_________________________[ROWS:    40]
+TABLE "c20e_wc_order_coupon_lookup"_____________________[ROWS:     0]
+TABLE "c20e_wc_order_operational_data"__________________[ROWS:    20]
+TABLE "c20e_wc_order_product_lookup"____________________[ROWS:    20]
+TABLE "c20e_wc_order_stats"_____________________________[ROWS:    20]
+TABLE "c20e_wc_order_tax_lookup"________________________[ROWS:     0]
+TABLE "c20e_wc_orders"__________________________________[ROWS:    20]
+TABLE "c20e_wc_orders_meta"_____________________________[ROWS:   267]
+TABLE "c20e_wc_product_attributes_lookup"_______________[ROWS:   887]
+TABLE "c20e_wc_product_download_directories"____________[ROWS:     2]
+TABLE "c20e_wc_product_meta_lookup"_____________________[ROWS:   280]
+TABLE "c20e_wc_rate_limits"_____________________________[ROWS:     0]
+TABLE "c20e_wc_reserved_stock"__________________________[ROWS:     0]
+TABLE "c20e_wc_tax_rate_classes"________________________[ROWS:     2]
+TABLE "c20e_wc_webhooks"________________________________[ROWS:     0]
+TABLE "c20e_wdr_order_discounts"________________________[ROWS:     0]
+TABLE "c20e_wdr_order_item_discounts"___________________[ROWS:     0]
+TABLE "c20e_wdr_rules"__________________________________[ROWS:     4]
+TABLE "c20e_woocommerce_api_keys"_______________________[ROWS:     0]
+TABLE "c20e_woocommerce_attribute_taxonomies"___________[ROWS:    29]
+TABLE "c20e_woocommerce_downloadable_product_permissions"[ROWS:     0]
+TABLE "c20e_woocommerce_log"____________________________[ROWS:     0]
+TABLE "c20e_woocommerce_order_itemmeta"_________________[ROWS:   300]
+TABLE "c20e_woocommerce_order_items"____________________[ROWS:    40]
+TABLE "c20e_woocommerce_payment_tokenmeta"______________[ROWS:     0]
+TABLE "c20e_woocommerce_payment_tokens"_________________[ROWS:     0]
+TABLE "c20e_woocommerce_sessions"_______________________[ROWS:    19]
+TABLE "c20e_woocommerce_shipping_zone_locations"________[ROWS:     1]
+TABLE "c20e_woocommerce_shipping_zone_methods"__________[ROWS:     1]
+TABLE "c20e_woocommerce_shipping_zones"_________________[ROWS:     1]
+TABLE "c20e_woocommerce_tax_rate_locations"_____________[ROWS:     0]
+TABLE "c20e_woocommerce_tax_rates"______________________[ROWS:     0]
+TABLE "c20e_wpforms_logs"_______________________________[ROWS:    22]
+TABLE "c20e_wpforms_payment_meta"_______________________[ROWS:     0]
+TABLE "c20e_wpforms_payments"___________________________[ROWS:     0]
+TABLE "c20e_wpforms_tasks_meta"_________________________[ROWS:    14]
+TABLE "c20e_wpmailsmtp_debug_events"____________________[ROWS:   128]
+TABLE "c20e_wpmailsmtp_tasks_meta"______________________[ROWS:     4]
+TABLE "c20e_wpo_404_detector"___________________________[ROWS:     0]
+TABLE "c20e_yoast_indexable"____________________________[ROWS:   648]
+TABLE "c20e_yoast_indexable_hierarchy"__________________[ROWS:   706]
+TABLE "c20e_yoast_migrations"___________________________[ROWS:    25]
+TABLE "c20e_yoast_primary_term"_________________________[ROWS:   440]
+TABLE "c20e_yoast_seo_links"____________________________[ROWS:  3248]
+
+INSERT DATA RUNTIME: 6.6362 sec.
+STEP-2 COMPLETE @ 10:23:01 - RUNTIME: 6.6362 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/u2084128/public_html REPLACE: C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://www.aryaautomation.com REPLACE: http://aryaautomation.local [SCOPE: ALL]
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR INSTALL-LOG
+STEP-3 START @ 10:23:03
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"latin1"
+CHARSET CLIENT:	"latin1"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 9223372036854775807], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = minor], [inWpConfig = 1]
+WP_CACHE______________: [value = 1], [inWpConfig = 1]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = 1]
+WP_DEBUG_DISPLAY______: [value = ], [inWpConfig = 1]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = 1], [inWpConfig = 1]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 768M], [inWpConfig = 1]
+WP_MAX_MEMORY_LIMIT___: [value = 1024M], [inWpConfig = 1]
+WP_TEMP_DIR___________: [value = C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/wp-content/uploads], [inWpConfig = 1]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000000
+throttling____________: 2000
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [c20e_options]
+	`option_name` = "dupli_opt_plugin_data_stats"
+	`option_name` = "dupli_opt_unique_id"
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("dupli_opt_ui_view_state","dupli_opt_settings")
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+DATABASE OPTIONS DELETED [ROWS:   697]
+DATABASE ACTIVITY LOGS DELETED [ROWS:     4]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "c20e_actionscheduler_actions"____________________[ROWS:   872][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_actionscheduler_actions][0]
+
+EVALUATE TABLE: "c20e_actionscheduler_claims"_____________________[ROWS:     3][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_actionscheduler_groups"_____________________[ROWS:    15][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_actionscheduler_groups][0]
+
+EVALUATE TABLE: "c20e_actionscheduler_logs"_______________________[ROWS:  2590][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_actionscheduler_logs][0]
+	CHUNK ACTION: CURRENT [search_replace][c20e_actionscheduler_logs][1]
+	CHUNK ACTION: CURRENT [search_replace][c20e_actionscheduler_logs][2]
+
+EVALUATE TABLE: "c20e_chaty_contact_form_leads"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_commentmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_comments"___________________________________[ROWS:   128][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_comments][0]
+
+EVALUATE TABLE: "c20e_duplicator_activity_logs"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_duplicator_backups"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_duplicator_entities"________________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_duplicator_entities][0]
+
+EVALUATE TABLE: "c20e_easywpsmtp_debug_events"____________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_easywpsmtp_debug_events][0]
+
+EVALUATE TABLE: "c20e_easywpsmtp_tasks_meta"______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_easywpsmtp_tasks_meta][0]
+
+EVALUATE TABLE: "c20e_ewwwio_images"______________________________[ROWS:   989][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_ewwwio_images][0]
+
+EVALUATE TABLE: "c20e_ewwwio_queue"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_e_events"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_e_notes"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_e_notes_users_relations"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_e_submissions"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_e_submissions_actions_log"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_e_submissions_values"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_links"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_litespeed_avatar"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_litespeed_url"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_litespeed_url_file"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_options"____________________________________[ROWS:  1276][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_options][0]
+	CHUNK ACTION: CURRENT [search_replace][c20e_options][1]
+
+EVALUATE TABLE: "c20e_postmeta"___________________________________[ROWS: 16255][PG:  17][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][6]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][7]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][8]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][9]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][10]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][11]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][12]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][13]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][14]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][15]
+	CHUNK ACTION: CURRENT [search_replace][c20e_postmeta][16]
+
+EVALUATE TABLE: "c20e_posts"______________________________________[ROWS:  1972][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_posts][0]
+ERRORS FOUND:	1
+DROPPED TABLES:	96
+RENAMED TABLES:	0
+QUERIES RAN:	324
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "c20e_actionscheduler_actions"____________________[ROWS:   872]
+TABLE "c20e_actionscheduler_claims"_____________________[ROWS:     3]
+TABLE "c20e_actionscheduler_groups"_____________________[ROWS:    15]
+TABLE "c20e_actionscheduler_logs"_______________________[ROWS:  2590]
+TABLE "c20e_chaty_contact_form_leads"___________________[ROWS:     0]
+TABLE "c20e_commentmeta"________________________________[ROWS:     0]
+TABLE "c20e_comments"___________________________________[ROWS:   128]
+TABLE "c20e_duplicator_activity_logs"___________________[ROWS:     0]
+TABLE "c20e_duplicator_backups"_________________________[ROWS:     0]
+TABLE "c20e_duplicator_entities"________________________[ROWS:     9]
+TABLE "c20e_e_events"___________________________________[ROWS:     0]
+TABLE "c20e_e_notes"____________________________________[ROWS:     0]
+TABLE "c20e_e_notes_users_relations"____________________[ROWS:     0]
+TABLE "c20e_e_submissions"______________________________[ROWS:     0]
+TABLE "c20e_e_submissions_actions_log"__________________[ROWS:     0]
+TABLE "c20e_e_submissions_values"_______________________[ROWS:     0]
+TABLE "c20e_easywpsmtp_debug_events"____________________[ROWS:     6]
+TABLE "c20e_easywpsmtp_tasks_meta"______________________[ROWS:     1]
+TABLE "c20e_ewwwio_images"______________________________[ROWS:   989]
+TABLE "c20e_ewwwio_queue"_______________________________[ROWS:     0]
+TABLE "c20e_links"______________________________________[ROWS:     0]
+TABLE "c20e_litespeed_avatar"___________________________[ROWS:     0]
+TABLE "c20e_litespeed_url"______________________________[ROWS:     0]
+TABLE "c20e_litespeed_url_file"_________________________[ROWS:     0]
+TABLE "c20e_options"____________________________________[ROWS:  1276]
+TABLE "c20e_postmeta"___________________________________[ROWS: 16255]
+TABLE "c20e_posts"______________________________________[ROWS:  1972]
+TABLE "c20e_revslider_css"______________________________[ROWS:   109]
+TABLE "c20e_revslider_layer_animations"_________________[ROWS:     0]
+TABLE "c20e_revslider_navigations"______________________[ROWS:     2]
+TABLE "c20e_revslider_sliders"__________________________[ROWS:     1]
+TABLE "c20e_revslider_sliders7"_________________________[ROWS:     1]
+TABLE "c20e_revslider_slides"___________________________[ROWS:     6]
+TABLE "c20e_revslider_slides7"__________________________[ROWS:     7]
+TABLE "c20e_revslider_static_slides"____________________[ROWS:     1]
+TABLE "c20e_term_relationships"_________________________[ROWS:  2907]
+TABLE "c20e_term_taxonomy"______________________________[ROWS:   431]
+TABLE "c20e_termmeta"___________________________________[ROWS:   171]
+TABLE "c20e_terms"______________________________________[ROWS:   431]
+TABLE "c20e_tm_taskmeta"________________________________[ROWS:     0]
+TABLE "c20e_tm_tasks"___________________________________[ROWS:     0]
+TABLE "c20e_trp_gettext_en"_____________________________[ROWS:  1669]
+TABLE "c20e_trp_gettext_original_meta"__________________[ROWS:     0]
+TABLE "c20e_trp_gettext_original_strings"_______________[ROWS:  1669]
+TABLE "c20e_usermeta"___________________________________[ROWS:   187]
+TABLE "c20e_users"______________________________________[ROWS:     4]
+TABLE "c20e_wc_admin_note_actions"______________________[ROWS:    86]
+TABLE "c20e_wc_admin_notes"_____________________________[ROWS:    57]
+TABLE "c20e_wc_category_lookup"_________________________[ROWS:    13]
+TABLE "c20e_wc_customer_lookup"_________________________[ROWS:    12]
+TABLE "c20e_wc_download_log"____________________________[ROWS:     0]
+TABLE "c20e_wc_email_unsubscribes"______________________[ROWS:     0]
+TABLE "c20e_wc_order_addresses"_________________________[ROWS:    40]
+TABLE "c20e_wc_order_coupon_lookup"_____________________[ROWS:     0]
+TABLE "c20e_wc_order_operational_data"__________________[ROWS:    20]
+TABLE "c20e_wc_order_product_lookup"____________________[ROWS:    20]
+TABLE "c20e_wc_order_stats"_____________________________[ROWS:    20]
+TABLE "c20e_wc_order_tax_lookup"________________________[ROWS:     0]
+TABLE "c20e_wc_orders"__________________________________[ROWS:    20]
+TABLE "c20e_wc_orders_meta"_____________________________[ROWS:   267]
+TABLE "c20e_wc_product_attributes_lookup"_______________[ROWS:   887]
+TABLE "c20e_wc_product_download_directories"____________[ROWS:     2]
+TABLE "c20e_wc_product_meta_lookup"_____________________[ROWS:   280]
+TABLE "c20e_wc_rate_limits"_____________________________[ROWS:     0]
+TABLE "c20e_wc_reserved_stock"__________________________[ROWS:     0]
+TABLE "c20e_wc_tax_rate_classes"________________________[ROWS:     2]
+TABLE "c20e_wc_webhooks"________________________________[ROWS:     0]
+TABLE "c20e_wdr_order_discounts"________________________[ROWS:     0]
+TABLE "c20e_wdr_order_item_discounts"___________________[ROWS:     0]
+TABLE "c20e_wdr_rules"__________________________________[ROWS:     4]
+TABLE "c20e_woocommerce_api_keys"_______________________[ROWS:     0]
+TABLE "c20e_woocommerce_attribute_taxonomies"___________[ROWS:    29]
+TABLE "c20e_woocommerce_downloadable_product_permissions"[ROWS:     0]
+TABLE "c20e_woocommerce_log"____________________________[ROWS:     0]
+TABLE "c20e_woocommerce_order_itemmeta"_________________[ROWS:   300]
+TABLE "c20e_woocommerce_order_items"____________________[ROWS:    40]
+TABLE "c20e_woocommerce_payment_tokenmeta"______________[ROWS:     0]
+TABLE "c20e_woocommerce_payment_tokens"_________________[ROWS:     0]
+TABLE "c20e_woocommerce_sessions"_______________________[ROWS:    19]
+TABLE "c20e_woocommerce_shipping_zone_locations"________[ROWS:     1]
+TABLE "c20e_woocommerce_shipping_zone_methods"__________[ROWS:     1]
+TABLE "c20e_woocommerce_shipping_zones"_________________[ROWS:     1]
+TABLE "c20e_woocommerce_tax_rate_locations"_____________[ROWS:     0]
+TABLE "c20e_woocommerce_tax_rates"______________________[ROWS:     0]
+TABLE "c20e_wpforms_logs"_______________________________[ROWS:    22]
+TABLE "c20e_wpforms_payment_meta"_______________________[ROWS:     0]
+TABLE "c20e_wpforms_payments"___________________________[ROWS:     0]
+TABLE "c20e_wpforms_tasks_meta"_________________________[ROWS:    14]
+TABLE "c20e_wpmailsmtp_debug_events"____________________[ROWS:   128]
+TABLE "c20e_wpmailsmtp_tasks_meta"______________________[ROWS:     4]
+TABLE "c20e_wpo_404_detector"___________________________[ROWS:     0]
+TABLE "c20e_yoast_indexable"____________________________[ROWS:   648]
+TABLE "c20e_yoast_indexable_hierarchy"__________________[ROWS:   706]
+TABLE "c20e_yoast_migrations"___________________________[ROWS:    25]
+TABLE "c20e_yoast_primary_term"_________________________[ROWS:   440]
+TABLE "c20e_yoast_seo_links"____________________________[ROWS:  3248]
+
+INSERT DATA RUNTIME: 9.0249 sec.
+STEP-2 COMPLETE @ 10:23:05 - RUNTIME: 9.0249 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+Previous deployment process exited unexpectedly, resuming from last saved position
+	
+STEP-3 CHUNK STOP @ 10:23:06 - RUNTIME: 5.2878 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+Previous deployment process exited unexpectedly, resuming from last saved position
+CHUNK ACTION: CURRENT [search_replace][c20e_posts][1]
+
+EVALUATE TABLE: "c20e_posts"______________________________________[ROWS:  1972][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_posts][0]
+	CHUNK ACTION: CURRENT [search_replace][c20e_posts][1]
+
+EVALUATE TABLE: "c20e_revslider_css"______________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_css][0]
+
+EVALUATE TABLE: "c20e_revslider_css"______________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_css][0]
+
+EVALUATE TABLE: "c20e_revslider_layer_animations"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_revslider_layer_animations"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_revslider_navigations"______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_navigations][0]
+
+EVALUATE TABLE: "c20e_revslider_navigations"______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_navigations][0]
+
+EVALUATE TABLE: "c20e_revslider_sliders"__________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_sliders][0]
+
+EVALUATE TABLE: "c20e_revslider_sliders"__________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_sliders][0]
+
+EVALUATE TABLE: "c20e_revslider_sliders7"_________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_sliders7][0]
+
+EVALUATE TABLE: "c20e_revslider_sliders7"_________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_sliders7][0]
+
+EVALUATE TABLE: "c20e_revslider_slides"___________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+
+EVALUATE TABLE: "c20e_revslider_slides"___________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_slides][0]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_slides][0]
+
+EVALUATE TABLE: "c20e_revslider_slides7"__________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_slides7][0]
+[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_slides7][0]
+
+EVALUATE TABLE: "c20e_revslider_static_slides"____________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_static_slides][0]
+
+EVALUATE TABLE: "c20e_revslider_static_slides"____________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_termmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][c20e_revslider_static_slides][0]
+
+EVALUATE TABLE: "c20e_termmeta"___________________________________[ROWS:   171][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_termmeta][0]
+
+EVALUATE TABLE: "c20e_terms"______________________________________[ROWS:   431][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_terms][0]
+
+EVALUATE TABLE: "c20e_terms"______________________________________[ROWS:   431][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_terms][0]
+
+EVALUATE TABLE: "c20e_term_relationships"_________________________[ROWS:  2907][PG:   3][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_term_taxonomy"______________________________[ROWS:   431][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_term_taxonomy][0]
+
+EVALUATE TABLE: "c20e_term_relationships"_________________________[ROWS:  2907][PG:   3][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_term_taxonomy"______________________________[ROWS:   431][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_term_taxonomy][0]
+
+EVALUATE TABLE: "c20e_tm_taskmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_tm_tasks"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_trp_gettext_en"_____________________________[ROWS:  1669][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_trp_gettext_en][0]
+
+EVALUATE TABLE: "c20e_tm_taskmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_tm_tasks"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_trp_gettext_en"_____________________________[ROWS:  1669][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_trp_gettext_en][0]
+	CHUNK ACTION: CURRENT [search_replace][c20e_trp_gettext_en][1]
+	CHUNK ACTION: CURRENT [search_replace][c20e_trp_gettext_en][1]
+
+EVALUATE TABLE: "c20e_trp_gettext_original_meta"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_trp_gettext_original_strings"_______________[ROWS:  1669][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_trp_gettext_original_strings][0]
+
+EVALUATE TABLE: "c20e_trp_gettext_original_meta"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_trp_gettext_original_strings"_______________[ROWS:  1669][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_trp_gettext_original_strings][0]
+	CHUNK ACTION: CURRENT [search_replace][c20e_trp_gettext_original_strings][1]
+	CHUNK ACTION: CURRENT [search_replace][c20e_trp_gettext_original_strings][1]
+
+EVALUATE TABLE: "c20e_usermeta"___________________________________[ROWS:   187][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_usermeta][0]
+
+EVALUATE TABLE: "c20e_usermeta"___________________________________[ROWS:   187][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_usermeta][0]
+
+EVALUATE TABLE: "c20e_users"______________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+_users"______________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	--- BASE STRINGS ---
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_users][0]
+
+EVALUATE TABLE: "c20e_wc_admin_notes"_____________________________[ROWS:    57][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+olumns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_admin_notes][0]
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_admin_notes][0]
+
+EVALUATE TABLE: "c20e_wc_admin_note_actions"______________________[ROWS:    86][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_admin_note_actions][0]
+
+EVALUATE TABLE: "c20e_wc_admin_note_actions"______________________[ROWS:    86][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_admin_note_actions][0]
+
+EVALUATE TABLE: "c20e_wc_category_lookup"_________________________[ROWS:    13][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_category_lookup"_________________________[ROWS:    13][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_customer_lookup"_________________________[ROWS:    12][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_customer_lookup][0]
+
+EVALUATE TABLE: "c20e_wc_customer_lookup"_________________________[ROWS:    12][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_customer_lookup][0]
+
+EVALUATE TABLE: "c20e_wc_download_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_download_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_email_unsubscribes"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_email_unsubscribes"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_orders"__________________________________[ROWS:    20][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_orders][0]
+
+EVALUATE TABLE: "c20e_wc_orders"__________________________________[ROWS:    20][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_orders][0]
+
+EVALUATE TABLE: "c20e_wc_orders_meta"_____________________________[ROWS:   267][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_orders_meta][0]
+
+EVALUATE TABLE: "c20e_wc_orders_meta"_____________________________[ROWS:   267][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_orders_meta][0]
+
+EVALUATE TABLE: "c20e_wc_order_addresses"_________________________[ROWS:    40][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_order_addresses][0]
+
+EVALUATE TABLE: "c20e_wc_order_addresses"_________________________[ROWS:    40][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_order_addresses][0]
+
+EVALUATE TABLE: "c20e_wc_order_coupon_lookup"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_order_coupon_lookup"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_order_operational_data"__________________[ROWS:    20][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+
+EVALUATE TABLE: "c20e_wc_order_operational_data"__________________[ROWS:    20][PG:   1][SCAN:text columns]
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_order_operational_data][0]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_order_operational_data][0]
+
+EVALUATE TABLE: "c20e_wc_order_product_lookup"____________________[ROWS:    20][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_order_stats"_____________________________[ROWS:    20][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_order_stats][0]
+
+EVALUATE TABLE: "c20e_wc_order_product_lookup"____________________[ROWS:    20][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_order_stats"_____________________________[ROWS:    20][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_order_stats][0]
+
+EVALUATE TABLE: "c20e_wc_order_tax_lookup"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_product_attributes_lookup"_______________[ROWS:   887][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_product_attributes_lookup][0]
+
+EVALUATE TABLE: "c20e_wc_order_tax_lookup"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_product_attributes_lookup"_______________[ROWS:   887][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_product_attributes_lookup][0]
+
+EVALUATE TABLE: "c20e_wc_product_download_directories"____________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_product_download_directories][0]
+
+EVALUATE TABLE: "c20e_wc_product_download_directories"____________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_product_download_directories][0]
+
+EVALUATE TABLE: "c20e_wc_product_meta_lookup"_____________________[ROWS:   280][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_product_meta_lookup][0]
+
+EVALUATE TABLE: "c20e_wc_product_meta_lookup"_____________________[ROWS:   280][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_product_meta_lookup][0]
+
+EVALUATE TABLE: "c20e_wc_rate_limits"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_reserved_stock"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_tax_rate_classes"________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_tax_rate_classes][0]
+
+EVALUATE TABLE: "c20e_wc_rate_limits"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_reserved_stock"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wc_tax_rate_classes"________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wc_tax_rate_classes][0]
+
+EVALUATE TABLE: "c20e_wc_webhooks"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wdr_order_discounts"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wdr_order_item_discounts"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wdr_rules"__________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wdr_rules][0]
+
+EVALUATE TABLE: "c20e_wc_webhooks"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wdr_order_discounts"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wdr_order_item_discounts"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wdr_rules"__________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wdr_rules][0]
+
+EVALUATE TABLE: "c20e_woocommerce_api_keys"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_attribute_taxonomies"___________[ROWS:    29][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_attribute_taxonomies][0]
+
+EVALUATE TABLE: "c20e_woocommerce_api_keys"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_attribute_taxonomies"___________[ROWS:    29][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_attribute_taxonomies][0]
+
+EVALUATE TABLE: "c20e_woocommerce_downloadable_product_permissions"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_order_itemmeta"_________________[ROWS:   300][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_order_itemmeta][0]
+
+EVALUATE TABLE: "c20e_woocommerce_downloadable_product_permissions"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_order_itemmeta"_________________[ROWS:   300][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_order_itemmeta][0]
+
+EVALUATE TABLE: "c20e_woocommerce_order_items"____________________[ROWS:    40][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_order_items][0]
+
+EVALUATE TABLE: "c20e_woocommerce_order_items"____________________[ROWS:    40][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_order_items][0]
+
+EVALUATE TABLE: "c20e_woocommerce_payment_tokenmeta"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_payment_tokens"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_sessions"_______________________[ROWS:    19][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_sessions][0]
+
+EVALUATE TABLE: "c20e_woocommerce_payment_tokenmeta"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_payment_tokens"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_sessions"_______________________[ROWS:    19][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_sessions][0]
+
+EVALUATE TABLE: "c20e_woocommerce_shipping_zones"_________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_shipping_zones][0]
+
+EVALUATE TABLE: "c20e_woocommerce_shipping_zones"_________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_shipping_zones][0]
+
+EVALUATE TABLE: "c20e_woocommerce_shipping_zone_locations"________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_shipping_zone_locations][0]
+
+EVALUATE TABLE: "c20e_woocommerce_shipping_zone_locations"________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_shipping_zone_locations][0]
+
+EVALUATE TABLE: "c20e_woocommerce_shipping_zone_methods"__________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_woocommerce_shipping_zone_methods][0]
+
+EVALUATE TABLE: "c20e_woocommerce_tax_rates"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_tax_rates"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_tax_rate_locations"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_woocommerce_tax_rate_locations"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wpforms_logs"_______________________________[ROWS:    22][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wpforms_logs][0]
+
+EVALUATE TABLE: "c20e_wpforms_payments"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wpforms_payments"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wpforms_payment_meta"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wpforms_payment_meta"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_wpforms_tasks_meta"_________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wpforms_tasks_meta][0]
+
+EVALUATE TABLE: "c20e_wpforms_tasks_meta"_________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wpforms_tasks_meta][0]
+	[PHP ERR][E_WARNING] MSG:rename(C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/dup_descriptors_[HASH]/installer-chunk-data.json.tmp.6aad110eb237a2.55129000,C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/dup_descriptors_[HASH]/installer-chunk-data.json): Erişim engellendi (code: 5) [CODE:2|FILE:C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\libs\Snap\SnapIO.php|LINE:582]
+	
+EXCEPTION ERROR:  Chunk error, message: Class "Duplicator\Utils\Logging\DupLog" not found[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\libs\Chunking\Persistance\FileJsonPersistanceAdapter.php|85][CODE:0]
+	FILE:C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.s3.funcs.php[128]
+	TRACE:
+#0 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php(238): DUPX_S3_Funcs->updateWebsite()
+#1 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\classes\class.ctrl.ajax.php(111): DUPX_Ctrl_ajax::actions('webupdate')
+#2 C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\main.installer.php(47): DUPX_Ctrl_ajax::controller()
+#3 {main}
+
+	AJAX ACTION [webupdate] FAIL, MESSAGE: Chunk error, message: Class &quot;Duplicator\Utils\Logging\DupLog&quot; not found[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\libs\Chunking\Persistance\FileJsonPersistanceAdapter.php|85]
+	-------------------------
+
+
+EVALUATE TABLE: "c20e_wpmailsmtp_debug_events"____________________[ROWS:   128][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wpmailsmtp_debug_events][0]
+
+EVALUATE TABLE: "c20e_wpmailsmtp_tasks_meta"______________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_wpmailsmtp_tasks_meta][0]
+
+EVALUATE TABLE: "c20e_wpo_404_detector"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_yoast_indexable"____________________________[ROWS:   648][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_yoast_indexable][0]
+
+EVALUATE TABLE: "c20e_yoast_indexable_hierarchy"__________________[ROWS:   706][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "c20e_yoast_migrations"___________________________[ROWS:    25][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_yoast_migrations][0]
+
+EVALUATE TABLE: "c20e_yoast_primary_term"_________________________[ROWS:   440][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_yoast_primary_term][0]
+
+EVALUATE TABLE: "c20e_yoast_seo_links"____________________________[ROWS:  3248][PG:   4][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u2084128/public_html" ======================> "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public"
+	SEARCH[urlnd]  2:"https://www.aryaautomation.com" ==================> "http://aryaautomation.local"
+	CHUNK ACTION: CURRENT [search_replace][c20e_yoast_seo_links][0]
+	CHUNK ACTION: CURRENT [search_replace][c20e_yoast_seo_links][1]
+	CHUNK ACTION: CURRENT [search_replace][c20e_yoast_seo_links][2]
+	CHUNK ACTION: CURRENT [search_replace][c20e_yoast_seo_links][3]
+--------------------------------------
+SCANNED:	Tables:96 	|	 Rows:35419 	|	 Cells:282190 
+UPDATED:	Tables:15 	|	 Rows:4672 	|	 Cells:6048 
+ERRORS:		0 
+RUNTIME:	7.840700 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/wp-config.php
+New .htaccess file created:C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "__DIR__ . '/'"
+	UPDATE DB_NAME ""local""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost:10004""
+	UPDATE DB_CHARSET "latin1"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_CACHE "true"
+	WP CONFIG UPDATE WP_DEBUG "false"
+	WP CONFIG UPDATE WP_DEBUG_LOG "false"
+	WP CONFIG UPDATE WP_DEBUG_DISPLAY "false"
+	WP CONFIG UPDATE DISABLE_WP_CRON "true"
+	WP CONFIG UPDATE WP_MEMORY_LIMIT "768M"
+	WP CONFIG UPDATE WP_MAX_MEMORY_LIMIT "1024M"
+	WP CONFIG UPDATE WP_TEMP_DIR "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/wp-content/uploads"
+	WP CONFIG UPDATE WP_AUTO_UPDATE_CORE "minor"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "__DIR__ . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+UPDATE OPTION home ON TABLE c20e_options
+UPDATE OPTION siteurl ON TABLE c20e_options
+UPDATE OPTION dupli_opt_exe_safe_mode ON TABLE c20e_options
+
+====================================
+MANAGE PLUGINS
+====================================
+Active plugins: Array
+(
+    [0] => contact-form-7/wp-contact-form-7.php
+    [1] => duplicate-page/duplicatepage.php
+    [2] => elementor/elementor.php
+    [3] => elementor-pro/elementor-pro.php
+    [4] => industrie-addons_off/industrie-addons.php
+    [5] => litespeed-cache/litespeed-cache.php
+    [6] => redis-cache/redis-cache.php
+    [7] => rs-header-footer-elementor_off/rs-header-footer-elementor.php
+    [8] => header-footer-elementor/header-footer-elementor.php
+    [9] => ultimate-elementor/ultimate-elementor.php
+    [10] => woocommerce/woocommerce.php
+    [11] => duplicator/duplicator.php
+)
+
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+ - REMOVED 1 storage items
+ - REMOVED 0 schedule items
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+\n SKIP FOLDER PERMISSION AFTER EXTRACTION
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 10:23:11 - RUNTIME: 5.8022 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+Previous deployment process exited unexpectedly, resuming from last saved position
+
+STEP-3 COMPLETE @ 10:23:15 - RUNTIME: 0.0077 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\src\Core\Bootstrap.php:75] RESET TIME
+STEP ACTION: "on-validate"
+
+====================================
+NEXT STEP NOTICES
+====================================
+-----------------------
+[WARNING] DATABASE ERROR: database error write
+	LONG MSG: DATABASE ERROR: 'Deadlock found when trying to get lock; try restarting transaction'
+	[SQL=INSERT IGNORE INTO `c20e_wpmailsmtp_debug_events` VALUES 
+("1","Mailer: Other SMTP\r\nSMTP Error: Could not connect to SMTP host.","{\"file\":\"\\/home\\/u2084128\\/public_html\\/wp-content\\/plugins\...]
+
+
+====================================
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[WARNING] DB EXTRACTION - INSTALL NOTICES (1)
+	SECTIONS: database
+	LONG MSG: Queries that error during the deploy step are logged to the         installer-log.txt
+                installer-log.txt
+        file and
+and marked with an **ERROR** status.   If you experience a few errors (under 5), in many cases they can be ignored as long as your site is working correctly.
+However if you see a large amount of errors or you experience an issue with your site then the error messages in the log file will need to be investigated.
+COMMON FIXES:
+        Unknown collation: See Online FAQ:
+        What is Compatibility mode & 'Unknown collation' errors?
+        Query Limits: Update MySQL server with the max_allowed_packet
+        setting for larger payloads.
+
+
+-----------------------
+[WARNING] DATABASE ERROR: Deadlock found when trying to get lock; try restarting transaction
+	SECTIONS: database
+	LONG MSG: DATABASE ERROR: 'Deadlock found when trying to get lock; try restarting transaction'
+	[SQL=INSERT IGNORE INTO `c20e_wpmailsmtp_debug_events` VALUES 
+("1","Mailer: Other SMTP\r\nSMTP Error: Could not connect to SMTP host.","{\"file\":\"\\/home\\/u2084128\\/public_html\\/wp-content\\/plugins\...]
+
+
+====================================
+LOG-TIME[C:\Users\Monster\Local Sites\aryaautomation-local-2\app\public\dup-installer\ctrls\ctrl.base.php:189][DELTA:   0.10754]  MESSAGE:END RENDER PAGE

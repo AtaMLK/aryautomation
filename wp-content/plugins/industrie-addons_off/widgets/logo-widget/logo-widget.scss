@@ -1,0 +1,134 @@
+@import '../../common';
+.clip-path-enable .rs-grid-figure {
+	clip-path: polygon(0% 0%, 80% 0, 100% 20%, 100% 100%, 0% 100%) !important
+}
+
+.rs-addon-slider {
+	&.rsl_logo_style1 {
+		.rs-grid-figure {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			
+			.logo-img {
+				img {
+					transition: all 0.3s ease;
+					&:hover {
+						transform: scale(1.2);
+					}
+				}
+				
+			}
+		}
+	}
+	&.rsl_logo_style2 {
+		.rs-grid-figure {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			margin: 15px 0px 15px 0px;
+			background-color: #F7F7F7;
+			height: 202px;
+			position: relative;
+			border-radius: 20px 0 0 0;
+
+			&:before {
+				position: absolute;
+				content: "";
+				top: -12px;
+				right: 0;
+				background-color: #F7F7F7;
+				width: 125px;
+				height: 12px;
+				border-radius: 15px 20px 0 0;
+			}
+			&:after {
+				position: absolute;
+				content: "";
+				bottom: -12px;
+				right: 0;
+				background-color: #F7F7F7;
+				width: 60px;
+				height: 12px;
+				border-radius: 0 0 20px 15px;
+			}
+
+			.left-bottom-shape {
+				position: absolute;
+				bottom: -12px;
+				left: 0;
+				width: 30px;
+				height: 12px;
+				background-color: #F7F7F7;
+				border-radius: 0 0 15px 20px;
+			}
+
+			.rs-grid-img {
+				width: 90px;
+			}
+			.logo-img {
+				img {
+					transition: all 0.3s ease;
+					&:hover {
+						transform: scale(1.2);
+					}
+				}
+				
+			}
+		}
+	}
+
+	&.rsl_logo_style3 {
+		.grid-item {
+			.rs-grid-figure{
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				margin: 15px 0px 15px 0px;
+				background-color: #F7F7F7;
+				height: 202px;
+				position: relative;
+				transition: all 0.3s linear;
+				.logo-img a {
+					img{
+						&.hovers-logos {
+							display: block;
+							position: absolute;
+							z-index: 1;
+							visibility: hidden;
+							left: 50%;
+    						top: 50%;
+							-webkit-transform: translate(-50%,-50%);
+							-moz-transform: translate(-50%,-50%);
+							-ms-transform: translate(-50%,-50%);
+							-o-transform: translate(-50%,-50%);
+						}
+					}
+					
+				}
+				&:hover {
+					background-color: #507a7c;
+					.logo-img a {
+						img {
+							&.mains-logos {
+								display: block;
+								visibility: hidden;
+								transform: translateY(100%);
+							}
+							&.hovers-logos {
+								display: block;
+								opacity: 3;
+								visibility: visible;
+							  }
+						}
+					}
+				}
+
+				.rs-grid-img {
+					width: 90px;
+				}
+			}
+		}
+	}
+
+}

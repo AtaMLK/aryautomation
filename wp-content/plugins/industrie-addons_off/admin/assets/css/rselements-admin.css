@@ -1,0 +1,88 @@
+
+
+.rselements_addon_field .checkbox{
+    display: inline-block;
+    position: relative;
+}
+.rselements_addon_field .checkbox input[type=checkbox]{
+    margin: 0;
+    visibility: hidden;
+    left: 1px;
+    top: 1px;
+}
+.rselements_addon_field .checkbox label{
+    position: absolute;
+    width: 46px;
+    height: 20px;
+    margin: 0;
+    border: 3px solid rgb(101,101,245);
+    border-radius: 20px;
+    cursor: pointer;
+    overflow: hidden;
+    transition: 0.5s ease;
+}
+.rselements_addon_field .checkbox label:before,
+.rselements_addon_field .checkbox label:after{
+    content: '';
+    /*background: #184d47;*/
+    background: rgb(101,101,245);
+    background: linear-gradient(90deg, rgba(101,101,245,1) 50%, rgba(188,0,255,1) 100%);
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    transition: all 0.3s;
+}
+.rselements_addon_field .checkbox label:after{
+    background: #fff;
+    left: auto;
+    right: -100px;
+}
+.rselements_addon_field .checkbox input[type=checkbox]:checked+label{
+    /*background-color: #184d47;*/
+    background: rgb(101,101,245);
+    background: linear-gradient(90deg, rgba(101,101,245,1) 50%, rgba(188,0,255,1) 100%);
+}
+.rselements_addon_field .checkbox input[type=checkbox]:checked+label:before{
+    left: -100px; }
+.rselements_addon_field .checkbox input[type=checkbox]:checked+label:after{ right: 2px;
+}
+@media only screen and (max-width:767px){
+    .rselements_addon_field .checkbox{
+        margin: 0 0 20px;
+    }
+}
+
+/*========================================*/
+.rselements_addon_field{
+    display: flex;
+    float: left;
+    margin-right: 20px;
+    border: 1px solid #d2d2d2;
+    padding: 0 57px 0 15px;
+    border-radius: 3px;
+    box-shadow: 0 1px 6px 1px #d2d2d2;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+
+/* Onepage Check Css */
+#rs_onepage_post_check_meta_box .inside .cmb2-wrap #cmb2-metabox-rs_onepage_post_check_meta_box .cmb2-id-rs-onepage-post-check,
+#rs_onepage_post_check_meta_box .inside .cmb2-wrap #cmb2-metabox-rs_onepage_post_check_meta_box .cmb2-id-rs-onepage-post-check .cmb-th label,
+#rs_onepage_post_check_meta_box .inside .cmb2-wrap #cmb2-metabox-rs_onepage_post_check_meta_box .cmb2-id-rs-onepage-post-check .cmb-td,
+#rs_onepage_post_check_meta_box .inside .cmb2-wrap #cmb2-metabox-rs_onepage_post_check_meta_box .cmb2-id-rs-onepage-post-check .cmb-th {
+    padding: 0;
+    margin: 0;
+    font-weight: 500;
+    width: auto;
+}
+#rs_onepage_post_check_meta_box .inside .cmb2-wrap #cmb2-metabox-rs_onepage_post_check_meta_box .cmb2-id-rs-onepage-post-check input[type=checkbox]{
+    margin-right: 10px;
+}
+#rs_onepage_post_check_meta_box .inside .cmb2-wrap #cmb2-metabox-rs_onepage_post_check_meta_box .cmb2-id-rs-onepage-post-check {
+    display: inline-flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}

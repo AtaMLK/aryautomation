@@ -1,0 +1,150 @@
+@import '../../common';
+
+
+.breadcrumb-area{
+    margin: 0 auto;
+    &.style2{
+        font-size: 0;
+        span{
+            position: relative;
+            font-size: 14px;
+            margin-left: 3px;
+            margin-right: 8px;
+            &:after{
+                content: "";
+                position: absolute;
+                background: #fff;
+                width: 1px;
+                height: 16px;
+                border-radius: 0;
+                right: -4px;
+                top: 1.5px;
+                transform: rotate(25deg);
+            }
+            span{
+                &:after{
+                    display: none;
+                }
+            }
+            &:last-child{
+                &:after{
+                    display: none;
+                }
+            }
+        }
+    }
+    &.style3{
+        font-size: 0;
+        margin-left: -6px;
+        span{
+            position: relative;
+            font-size: 16px;
+            font-weight: 500;
+            &:after{
+                content: "\EA6E";
+                position: absolute;
+                font-family: remixicon !important;
+                font-size: 19px;
+                top: 0px;
+                right: -7px;
+                opacity: 1;
+                transition: all 0.3s;
+                color: $whiteColor;
+            }
+            span{
+                &:after{
+                    display: none;
+                }
+            }
+            &:last-child{
+                &:after{
+                    display: none;
+                }
+            }
+            &.current-item{
+                color: $titleColor;
+            }
+        }
+    }
+}
+
+
+.btm-cate{
+    text-transform: capitalize;
+}
+
+.breadcrumb-area.style1{
+    .breadcrumbs-inner{
+        font-size: 0;
+        span {
+            font-size: 15px;
+        }
+    }
+}
+
+.breadcrumbs-inner{
+    display: flex;
+    flex-wrap: wrap;
+    span{
+        a{
+            position: relative;
+            margin-right: 15px;
+            span {
+                transition: $transition;
+            }
+        }
+        span{
+            &:before{
+                display: none;
+            }
+            &:after{
+                display: none;
+            }
+        }
+    }
+}
+
+
+
+.breadcrumbs-title{
+    background: rgba(255, 255, 255, 0.1);
+    padding: 14px 30px;
+    max-width: 300px;
+    margin: 20px auto 0;    
+    font-size: 0;
+    span{
+        position: relative;
+        font-size: 14px;
+        padding: 0px 10px 0px 10px;
+        &:after{
+            content: "";
+            position: absolute;
+            background: $secondaryColor;
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            right: -3px;
+            top: 5px;
+        }
+        span{
+            &:after{
+                display: none;
+            }
+        }
+        &:last-child{
+            &:after{
+                display: none;
+            }
+        }
+    }    
+}
+
+.rs-breadcrumbs .breadcrumbs-meta{
+    justify-content: center;
+}
+
+.single{
+    .breadcrumbs-title {
+      max-width: 700px;
+    }
+}

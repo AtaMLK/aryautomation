@@ -1,0 +1,522 @@
+@import '../../common';
+
+.rs-pricing-switcher {
+    position: relative;
+    // Switcher Button Style Start
+    .switcher-part {
+        margin-bottom: 50px !important;
+        .pricing-switcher-wrapper {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            text-align: center;
+            span {
+                cursor: pointer;
+                transition: $transition;
+                display: inline-block;
+                text-align: center;
+            }
+            
+        }
+    }
+    &.switcher-button-style1 {
+        .switcher-part {
+            text-align: center;
+            .pricing-switcher-wrapper {
+                gap: 20px;
+                span {
+                    &:not(.switcher) {
+                        padding: 0 !important;
+                        z-index: 1;
+                        position: relative;
+                        color: $titleColor;
+                        opacity: 1;
+                    }
+                    &.switcher {
+                        width: 50px;
+                        height: 30px;
+                        background: $primaryColor;
+                        border-radius: 30px;
+                        position: relative;
+                        box-shadow: inset 0px 0px 8px 3px rgba(0, 0, 0, 0.2);
+                        &:after {
+                            position: absolute;
+                            content: '';
+                            top: 50%;
+                            transform: translateY(-50%);
+                            left: 2px;
+                            height: 25px;
+                            width: 25px;
+                            border-radius: 50%;
+                            background: #fff;
+                            transition: all 0.3s;
+                        }
+                    }
+                }
+            }
+        }
+        &.switched {
+            .switcher-part {
+                .pricing-switcher-wrapper {
+                    span {
+                        &.btn-monthly {
+                            opacity: 0.6;
+                        }
+                        &.switcher {
+                            &:after {
+                                left: calc(100% - 27px);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        &:not(.switched) {
+            .switcher-part {
+                .pricing-switcher-wrapper {
+                    span {
+                        &.btn-yearly {
+                            opacity: 0.6;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &.switcher-button-style2 {
+        .switcher-part {
+            width: 100%;
+            max-width: 300px;
+            margin-left: auto;
+            margin-right: auto;
+            border: 1px solid #d2d2d2;
+            padding: 8px;
+            border-radius: 43px;
+            .pricing-switcher-wrapper {
+                border-radius: inherit;
+                width: 100%;
+                span {
+                    border-radius: inherit;
+                    &:not(.switcher) {
+                        padding: 6px 10px;
+                        z-index: 1;
+                        position: relative;
+                        width: 50%;
+                    }
+                    &.btn-yearly {
+                        color: $bodyColor;
+                    }
+                    &.btn-monthly {
+                        color: #ffff;
+                    }
+                    &.switcher {
+                        position: absolute;
+                        content: '';
+                        left: 0;
+                        top: 0;
+                        bottom: 0;
+                        width: 100%;
+                        max-width: 50%;
+                        background: $primaryColor;
+                        transition: $transition;
+                    }
+                }
+            }
+        }
+        &.switched {
+            .switcher-part {
+                .pricing-switcher-wrapper {
+                    span {
+                        &.switcher {
+                            left: 50%;
+                        }
+                        &.btn-monthly {
+                            color: $bodyColor;
+                        }
+                        &.btn-yearly {
+                            color: #ffff;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    // Switcher Button Style End
+    
+    .pricing-item {
+        position: relative;
+        transition: $transition;
+        &.yearly {
+            display: none;
+        }
+    }
+    &.switched {
+        .pricing-item {
+            &.monthly {
+                display: none;
+            }
+            &.yearly {
+                display: block;
+            }
+        }
+    }
+    &.switching {
+        .pricing-item {
+            opacity: 0;
+        }
+    }
+
+    // Pricing Card Style Start
+    &.style-1 {
+        .pricing-item {
+            background: #f7f7f7;
+            border-radius: 4px;
+            text-align: center;
+            border-top: 3px solid $primaryColor;
+            padding: 30px 0 50px;
+            .title-wrapper {
+                padding: 0 45px;
+                .title {
+                    margin: 0 0 8px 0;
+                    font-size: 30px;
+                    line-height: 40px;
+                }
+                .intro-txt {
+                    font-size: 16px;
+                    line-height: 26px;
+                }
+            }
+            .price-wrapper {
+                padding: 22px 45px 14px;
+                border-top: 1px solid rgba(217, 213, 213, 0.5);
+                margin: 30px 0 0;
+                display: flex;
+                flex-direction: column;
+                gap: 5px;
+                .price {
+                    color: $primaryColor;
+                    font-weight: 700;
+                    line-height: 1;
+                    font-size: 60px;
+                }
+                .plan-duration {
+                    font-size: 17px;
+                    line-height: 27px;
+                    font-weight: 500;
+                }
+            }
+            .description {
+                font-size: 16px;
+                line-height: 26px;
+                padding: 0 45px;
+            }
+            .pricing-feature {
+                text-align: left;
+                padding: 32px 45px 0;
+                width: 100%;
+                border-top: 1px solid rgba(217, 213, 213, 0.5);
+                margin: 30px 0 40px;
+                .feature-title {
+                    position: relative;
+                }
+                ul {
+                    margin: 0;
+                    padding: 0;
+                    list-style: none;
+                    li {
+                        position: relative;
+                        font-size: 17px;
+                        line-height: 27px;
+                        font-weight: 500;
+                        color: $titleColor;
+                        padding-right: 36px;
+                        margin: 13px 0;
+                        transition: all 0.5s ease;
+                        &:before {
+                            content: "\eb7b";
+                            color: $primaryColor;
+                            font-size: 20px;
+                            margin: 0;
+                            font-weight: 400;
+                            display: inline-block;
+                            font-family: remixicon;
+                            position: absolute;
+                            right: 0;
+                            transition: all 0.5s ease;
+                        }
+                        &.close {
+                            color: $bodyColor;
+                            &:before {
+                                color: inherit;
+                                content: "\eb99";
+                            }
+                        }
+                        &:first-child {
+                            margin-top: 0 !important;
+                        }
+                        &:last-child {
+                            margin-bottom: 0 !important;
+                        }
+                    }
+                }
+            }
+            .pricing-btn {
+                padding: 0 45px;
+                a {
+                    display: inline-flex;
+                    align-items: center;
+                    justify-content: center;
+                    gap: 10px;
+                    width: 100%;
+                    padding: 10px;
+                    font-size: 17px;
+                    font-weight: 500;
+                    text-align: center;
+                    background: transparent;
+                    border-radius: 4px;
+                    color: $bodyColor;
+                    border: 2px solid rgba(31, 31, 31, 0.10);
+                    > * {
+                        flex-shrink: 0;
+                    }
+                    svg {
+                        width: 18px;
+                        height: 18px;
+                        path {
+                            fill: $bodyColor;
+                            transition: $transition;
+                        }
+                    }
+                    i {
+                        font-size: 18px;
+                        color: $bodyColor;
+                        transition: $transition;
+                    }
+                    &:hover {
+                        background: $primaryColor;
+                        border-color: $primaryColor;
+                        color: #fff;
+                        svg {
+                            path {
+                                fill: #fff;
+                            }
+                        }
+                        i {
+                            color: #fff;
+                        }
+                    }
+                }
+            }
+            &.item-active {
+                background: #faf5f5;
+                .pricing-btn {
+                    a {
+                        background: $primaryColor;
+                        border-color: $primaryColor;
+                        color: #fff;
+                        &:hover {
+                            background: lighten($primaryColor, 5%);
+                            border-color: lighten($primaryColor, 5%);
+                        }
+                        svg {
+                            path {
+                                fill: #fff;
+                            }
+                        }
+                        i {
+                            color: #fff;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &.style-2 {
+        .pricing-item {
+            background: #f7f7f7;
+            padding: 60px;
+            border-radius: 20px;
+            .pricing-item-inner {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                gap: 30px;
+                .content-side {
+                    position: relative;
+                    width: 100%;
+                    max-width: 30%;
+                }
+            }
+            .title-wrapper {
+                .title {
+                    margin: 0 0 20px 0;
+                    font-size: 24px;
+                    line-height: 34px;
+                }
+                .intro-txt {
+                    font-size: 16px;
+                    line-height: 26px;
+                }
+            }
+            .price-wrapper {
+                display: flex;
+                flex-wrap: wrap;
+                align-items: flex-end;
+                gap: 5px;
+                .price {
+                    color: $primaryColor;
+                    font-weight: 700;
+                    line-height: 1;
+                    font-size: 40px;
+                }
+                .plan-duration {
+                    font-size: 17px;
+                    line-height: 27px;
+                }
+            }
+            .description {
+                font-size: 16px;
+                line-height: 26px;
+                margin: 20px 0 40px;
+            }
+            .pricing-feature {
+                text-align: left;
+                width: 100%;
+                max-width: 58%;
+                padding: 50px 60px 38px;
+                background: #fff;
+                border-radius: 20px;
+                .feature-title {
+                    text-align: center;
+                    position: relative;
+                    font-size: 20px;
+                    line-height: 30px;
+                }
+                ul {
+                    margin: 0;
+                    padding: 0;
+                    list-style: none;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: space-between;
+                    li {
+                        position: relative;
+                        font-size: 17px;
+                        line-height: 27px;
+                        font-weight: 600;
+                        width: calc(50% - 25px);
+                        color: $titleColor;
+                        padding-right: 36px;
+                        margin: 13px 0;
+                        transition: all 0.5s ease;
+                        &:before {
+                            content: "\eb81";
+                            color: $primaryColor;
+                            font-size: 20px;
+                            margin: 0;
+                            font-weight: 400;
+                            display: inline-block;
+                            font-family: remixicon;
+                            position: absolute;
+                            right: 0;
+                            transition: all 0.5s ease;
+                        }
+                        &.close {
+                            color: $bodyColor;
+                            &:before {
+                                color: inherit;
+                                content: "\eb97";
+                            }
+                        }
+                    }
+                }
+            }
+            .pricing-btn {
+                a {
+                    display: inline-flex;
+                    align-items: center;
+                    justify-content: center;
+                    gap: 10px;
+                    padding: 10px 24px;
+                    font-size: 17px;
+                    font-weight: 500;
+                    text-align: center;
+                    background: $titleColor;
+                    border-radius: 4px;
+                    color: #fff;
+                    > * {
+                        flex-shrink: 0;
+                    }
+                    svg {
+                        width: 18px;
+                        height: 18px;
+                        path {
+                            fill: #fff;
+                            transition: $transition;
+                        }
+                    }
+                    i {
+                        font-size: 18px;
+                        color: #fff;
+                        transition: $transition;
+                    }
+                    &:hover {
+                        background: $primaryColor;
+                        border-color: $primaryColor;
+                        color: #fff;
+                        svg {
+                            path {
+                                fill: #fff;
+                            }
+                        }
+                        i {
+                            color: #fff;
+                        }
+                    }
+                }
+            }
+            &.item-active {
+                .pricing-feature {
+                    background: $primaryColor;
+                    ul {
+                        li {
+                            color: #fff;
+                            &:before {
+                                color: inherit;
+                            }
+                            &.close {
+                                color: rgba(255,255,255,0.8);
+                                &:before {
+                                    color: inherit;
+                                }
+                            }
+                        }
+                    }
+                    
+                }
+                .pricing-btn {
+                    a {
+                        background: $primaryColor;
+                        border-color: $primaryColor;
+                        color: #fff;
+                        &:hover {
+                            background: lighten($primaryColor, 5%);
+                            border-color: lighten($primaryColor, 5%);
+                        }
+                        svg {
+                            path {
+                                fill: #fff;
+                            }
+                        }
+                        i {
+                            color: #fff;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    // Pricing Card Style Start
+}

@@ -1,0 +1,392 @@
+# Translation of Plugins - PDF Embedder - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - PDF Embedder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-17 21:58:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - PDF Embedder - Stable (latest release)\n"
+
+#: block/build/block.json
+msgctxt "block keyword"
+msgid "pdfs"
+msgstr "pdf belgeleri"
+
+#: block/build/block.json
+msgctxt "block keyword"
+msgid "pdf embed"
+msgstr "pdf yerleştir"
+
+#: block/build/block.json
+msgctxt "block keyword"
+msgid "pdf"
+msgstr "pdf"
+
+#: block/build/block.json
+msgctxt "block title"
+msgid "PDF Embedder"
+msgstr "PDF Embedder"
+
+#: src/Admin/Pages/Settings.php:123 block/build/index.js:3
+msgid "Always visible"
+msgstr "Her zaman görüntülensin"
+
+#: src/Options.php:384
+msgid "Unspecified error. Please review all the settings and try again."
+msgstr "Bilinmeyen sorun. Lütfen tüm ayarları gözden geçirip yeniden deneyin."
+
+#: src/Admin/WPorgReview.php:116
+msgid "I already did"
+msgstr "Zaten yaptım"
+
+#: src/Admin/WPorgReview.php:115
+msgid "Nope, maybe later"
+msgstr "Hayır, belki sonra"
+
+#: src/Admin/WPorgReview.php:115
+msgid "Dismiss for one month"
+msgstr "Bi ay sonra hatırlat"
+
+#: src/Admin/WPorgReview.php:114
+msgid "Ok, you deserve it"
+msgstr "Tamam bunu hakettiniz"
+
+#: src/Admin/WPorgReview.php:106
+msgid "Hey, it looks like you are using <strong>PDF Embedder</strong> for quite a while, which is great! Can you please give it a 5-star rating on WordPress.org to help us spread the word and stay motivated? Thanks!"
+msgstr "Merhaba, <strong>PDF Embedder</strong> eklentisini uzun süredir kullanıyorsunuz gibi görünüyor ve bu harika! Bunu yaymamıza ve motivasyonumuzu korumamıza yardımcı olmak için lütfen WordPress.org üzerinden 5 yıldız verebilir misiniz? Teşekkürler!"
+
+#. translators: %s - status.
+#: src/Admin/Partners.php:91
+msgid "Status: %s"
+msgstr "Durum: %s"
+
+#: src/Admin/Partners.php:69
+msgid "Inactive"
+msgstr "Etkin değil"
+
+#: src/Admin/Partners.php:65
+msgid "Active"
+msgstr "Etkin"
+
+#: src/Admin/Partners.php:63
+msgid "Install Plugin"
+msgstr "Eklenti kur"
+
+#: src/Admin/Partners.php:61
+msgid "Not Installed"
+msgstr "Kurulmamış"
+
+#: src/Admin/License.php:90
+msgid "License key was not provided."
+msgstr "Lisans anahtarı yazılmamış."
+
+#: src/Admin/License.php:89
+msgid "License key has been disabled."
+msgstr "Lisans anahtarı etkisizleştirilmiş."
+
+#: src/Admin/License.php:88
+msgid "License key is not active for this website."
+msgstr "Lisans anahtarı bu site için etkinleştirilmemiş."
+
+#: src/Admin/License.php:87
+msgid "License key is not permitted for this website."
+msgstr "Lisans anahtarının bu sitede kullanılmasına izin verilmiyor."
+
+#: src/Admin/License.php:86
+msgid "License key has expired."
+msgstr "Lisans anahtarının süresi dolmuş."
+
+#: src/Admin/License.php:85
+msgid "License key does not exist in our system."
+msgstr "Lisans anahtarını sistemimizde bulamadık."
+
+#: src/Admin/License.php:84
+msgid "License key failed to activate."
+msgstr "Lisans anahtarı etkinleştirilemedi."
+
+#. translators: %1$s - URL to wp-pdf.com.
+#: src/Admin/Education/SettingsTopBar.php:80
+msgid "<strong>You're using PDF Embedder Lite.</strong> To unlock more features <a href=\"%1$s\" target=\"_blank\"><strong>consider upgrading to Premium</strong></a> for %2$s off."
+msgstr "<strong>PDF Embedder Lite kullanıyorsunuz.</strong> Daha fazla özelliğe erişmek için %2$s indirimle <a href=\"%1$s\" target=\"_blank\"><strong>Premium sürümüne yükseltmeyi düşünün</strong></a>."
+
+#: src/Admin/Education/SettingsTopBar.php:96
+msgid "Dismiss this message"
+msgstr "Bu iletiyi yok say"
+
+#: src/Admin/Admin.php:583
+msgid "Premium"
+msgstr "Premium"
+
+#. translators: $1$s - PDF Embedder plugin name, $2$s - WP.org review link,
+#. $3$s - WP.org review link.
+#: src/Admin/Admin.php:450
+msgid "Please rate %1$s <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%3$s\" target=\"_blank\">WordPress.org</a> to help us spread the word."
+msgstr "Lütfen %1$s <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> eklentisini tanıtmak için <a href=\"%3$s\" target=\"_blank\">WordPress.org</a> sitesinde değerlendirin."
+
+#: src/Admin/Admin.php:424
+msgid "By allowing us to track usage data, we can better help you, as we will know which WordPress configurations, themes, and plugins we should test."
+msgstr "Kullanım verilerini izlememize izin verirseniz, hangi WordPress yapılandırmalarını, temalarını ve eklentileri üzerinde çalışmamız gerektiğini bileceğimiz için size daha iyi yardımcı olabiliriz."
+
+#: src/Admin/Admin.php:418
+msgid "Allow Usage Tracking"
+msgstr "Kullanım verileri izlensin"
+
+#: src/Admin/Admin.php:411
+msgid "Miscellaneous"
+msgstr "Diğer"
+
+#: src/Admin/Pages/Settings.php:101
+msgid "No Toolbar"
+msgstr "Araç çubuğunu kapat"
+
+#: src/Admin/Pages/Settings.php:37
+msgid "PDF Embedder Configuration"
+msgstr "PDF Embedder yapılandırması"
+
+#: src/Admin/Admin.php:370
+msgid "Free Plugins"
+msgstr "Ücretsiz eklentiler"
+
+#: src/Admin/Admin.php:368
+msgid "Docs"
+msgstr "Belgeler"
+
+#: src/Admin/Admin.php:366
+msgid "Support"
+msgstr "Destek"
+
+#: src/Admin/Admin.php:360
+msgid "Made with ♥ by the WP PDF Team"
+msgstr "WP PDF ekibi tarafından ♥ ile yapıldı"
+
+#: requirements.php:37
+msgid "<strong>Note:</strong> The PDF Embedder plugin is disabled on your site until you fix the issue."
+msgstr "<strong>Not:</strong> Siz sorunu çözene kadar PDF Embedder eklentisi sitenizde etkisizleştirildi."
+
+#. translators: %s - WPBeginner URL for recommended WordPress hosting.
+#: requirements.php:21
+msgid "Your site is running an <strong>insecure version</strong> of PHP that is no longer supported. Please contact your web hosting provider to update your PHP version or switch to a <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">recommended WordPress hosting company</a>."
+msgstr "Siteniz artık desteklenmeyen ve <strong>güvenli olmayan bir PHP sürümüyle</strong> çalışıyor. PHP sürümünüzü güncellemek ya da <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">önerilen bir WordPress barındırma hizmeti sağlayıcısına</a> geçmek için lütfen barındırma hizmeti sağlayıcınızla görüşün."
+
+#: src/Options.php:377
+msgid "Height must be \"max\" or an integer (number of pixels). This setting is reset to \"max\"."
+msgstr "Yükseklik \"max\" ya da bir tam sayı (piksel sayısı) olmalıdır. Bu ayar \"max\" olarak sıfırlandı."
+
+#: src/Options.php:376
+msgid "Width must be \"max\" or an integer (number of pixels). This setting is reset to \"max\"."
+msgstr "Genişlik \"max\" ya da bir tam sayı (piksel sayısı) olmalıdır. Bu ayar \"max\" olarak sıfırlandı."
+
+#: deprecated/install_skin.php:77
+msgid "There was an error installing the plugin. Please try again."
+msgstr "Eklenti yüklenirken bir sorun çıktı. Lütfen yeniden deneyin."
+
+#: src/Admin/Pages/About.php:23
+msgid "About"
+msgstr "Hakkında"
+
+#: src/Admin/Admin.php:172
+msgid "Proceed"
+msgstr "İlerle"
+
+#: src/Admin/Admin.php:171
+msgid "Installing..."
+msgstr "Kuruluyor..."
+
+#: src/Admin/Admin.php:169
+msgid "Install"
+msgstr "Kur"
+
+#: src/Admin/Admin.php:168
+msgid "Status: Inactive"
+msgstr "Durum : Etkin değil"
+
+#: src/Admin/Admin.php:166
+msgid "Deactivating..."
+msgstr "Etkisizleştiriliyor..."
+
+#: src/Admin/Admin.php:164 src/Admin/Partners.php:67
+msgid "Deactivate"
+msgstr "Etkisizleştir"
+
+#: src/Admin/Admin.php:162
+msgid "Activating..."
+msgstr "Etkinleştiriliyor..."
+
+#: src/Admin/Admin.php:161 src/Admin/Partners.php:71
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: src/Admin/Admin.php:160
+msgid "Status: Active"
+msgstr "Durum: Etkin"
+
+#. Description of the plugin
+#: pdf_embedder.php
+msgid "Embed PDFs straight into your posts and pages, with flexible width and height. No third-party services required. Compatible with Gutenberg Editor WordPress"
+msgstr "PDF belgelerini esnek genişlik ve yükseklikle doğrudan yazılarınıza ve sayfalarınıza yerleştirin. Üçüncü taraf hizmetleri kullanmanız gerekmez. Gutenberg düzenleyici ve WordPress ile uyumlu"
+
+#. translators: %s - URL to wp-pdf.com page.
+#: src/Admin/MediaLibrary.php:176
+msgid "Track downloads and views with <a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">PDF Embedder Premium</a> ile indirmeleri ve görüntülemeleri izleyin."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: pdf_embedder.php
+msgid "https://wp-pdf.com"
+msgstr "https://wp-pdf.com"
+
+#: src/Admin/Pages/Mobile.php:37
+msgid "Mobile-friendly embedding using PDF Embedder Premium"
+msgstr "PDF Embedder Premium ile mobil aygıtlara uygun PDF yerleştirme"
+
+#: src/Admin/Admin.php:605
+msgid "Settings saved."
+msgstr "Ayarlar kaydedildi."
+
+#: src/Admin/Admin.php:582 src/Admin/Pages/Settings.php:23
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: src/Admin/License.php:93
+msgid "Unspecified error"
+msgstr "Bilinmeyen hata"
+
+#. translators: %s - URL to wp-pdf.com doc.
+#: src/Admin/Pages/Settings.php:134
+msgid "You can override these defaults for specific embeds by modifying the shortcodes - see <a href=\"%s\" target=\"_blank\">instructions</a>."
+msgstr "Belirli yerleştirmeler için kısa kodları düzenleyerek bu varsayılan değerleri değiştirebilirsiniz. <a href=\"%s\" target=\"_blank\">Yönergelere</a> bakın."
+
+#: src/Admin/Pages/Settings.php:98 block/build/index.js:3
+msgid "Both"
+msgstr "İkisi de"
+
+#: src/Admin/Pages/Settings.php:95 block/build/index.js:3
+msgid "Bottom"
+msgstr "Altta"
+
+#: src/Admin/Pages/Settings.php:64 block/build/index.js:3
+msgid "Height"
+msgstr "Ağırlık"
+
+#: src/Admin/Pages/Settings.php:76 block/build/index.js:3
+msgid "Enter <code>max</code> or an integer number of pixels."
+msgstr "<code>max</code> ya da tam sayı olarak piksel sayısını yazın."
+
+#: src/Admin/Pages/Settings.php:92 block/build/index.js:3
+msgid "Top"
+msgstr "Üstte"
+
+#: src/Admin/Pages/Settings.php:88
+msgid "Toolbar Location"
+msgstr "Araç çubuğunun konumu"
+
+#: src/Admin/Pages/Settings.php:55 block/build/index.js:3
+msgid "Width"
+msgstr "Genişlik"
+
+#: src/Admin/Pages/Settings.php:50
+msgid "Default Viewer Settings"
+msgstr "Varsayılan görüntüleyici ayarları"
+
+#: src/Plugin.php:177
+msgid "PDF page width or height are invalid"
+msgstr "PDF sayfa genişliği ve yüksekliği geçersiz"
+
+#: src/Admin/Pages/Mobile.php:23 block/build/index.js:3
+msgid "Mobile"
+msgstr "Mobil"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: pdf_embedder.php src/Admin/Admin.php:122 src/Admin/Admin.php:130
+#: src/Admin/MediaLibrary.php:36 block/build/index.js:3
+msgid "PDF Embedder"
+msgstr "PDF Embedder"
+
+#: src/Admin/Admin.php:121 src/Admin/Admin.php:129
+msgid "PDF Embedder settings"
+msgstr "PDF Embedder ayarları"
+
+#. translators: %s - number of PDF files.
+#: src/Admin/MediaLibrary.php:221
+msgid "PDF <span class=\"count\">(%s)</span>"
+msgid_plural "PDFs <span class=\"count\">(%s)</span>"
+msgstr[0] "PDF <span class=\"count\">(%s)</span>"
+msgstr[1] "PDFler <span class=\"count\">(%s)</span>"
+
+#: src/Admin/Pages/Settings.php:44
+msgid "From the post editor, click Add Media, and then drag-and-drop your PDF file into the media library. When you insert the PDF into your post, it will automatically embed using the plugin's viewer."
+msgstr "Yazı düzenleyicide Ortam ekle üzerine tıklayın ve ardından PDF dosyanızı ortam kitaplığına sürükleyip bırakın. PDF belgesini yazınıza eklediğinizde eklentinin görüntüleyicisi kullanılarak otomatik olarak eklenir."
+
+#: src/Admin/Pages/Settings.php:162
+msgid "Save Changes"
+msgstr "Değişiklikleri kaydet"
+
+#: src/Admin/Pages/Settings.php:41
+msgid "To use the plugin, just embed PDFs in the same way as you would normally embed images in your posts/pages - but try with a PDF file instead."
+msgstr "Eklentiyi kullanırken, Ortam kitaplığından PDF belgelerini seçerek yazılarınıza/sayfalarınıza görsel dosyası ekler gibi ekleyin."
+
+#: src/Admin/MediaLibrary.php:219
+msgid "Manage PDFs"
+msgstr "PDF yönetimi"
+
+#: src/Admin/MediaLibrary.php:218
+msgid "PDFs"
+msgstr "PDF belgeleri"
+
+#: src/Plugin.php:178 block/build/index.js:3
+msgid "View in Full Screen"
+msgstr "Tam ekranda görüntüle"
+
+#: src/Plugin.php:176
+msgid "Click here for more info"
+msgstr "Ayrıntılı bilgi almak için buraya tıklayın"
+
+#: src/Plugin.php:175
+msgid "Error: URL to the PDF file must be on exactly the same domain as the current web page."
+msgstr "Hata: PDF dosyasının adresi, yerleştirilmek istendiği sayfa ile aynı etki alanı altında olmalıdır."
+
+#: src/Plugin.php:169
+msgid "Next page"
+msgstr "Sonraki sayfa"
+
+#: src/Admin/Admin.php:584 src/Admin/Pages/Secure.php:23 src/Plugin.php:171
+msgid "Secure"
+msgstr "Güvenli"
+
+#: src/Plugin.php:174
+msgid "Full Screen"
+msgstr "Tam ekran"
+
+#: src/Plugin.php:173
+msgid "Download PDF"
+msgstr "PDF belgesini indir"
+
+#: src/Plugin.php:172
+msgid "Zoom Out"
+msgstr "Uzaklaştır"
+
+#: src/Plugin.php:170
+msgid "Zoom In"
+msgstr "Yakınlaştır"
+
+#: src/Plugin.php:167 block/build/index.js:3
+msgid "Zoom"
+msgstr "Yakınlaşma"
+
+#: src/Plugin.php:168
+msgid "Previous page"
+msgstr "Önceki sayfa"
+
+#: src/Plugin.php:166
+msgid "Page"
+msgstr "Sayfa"
+
+#: src/Plugin.php:165
+msgid "Loading..."
+msgstr "Yükleniyor ..."

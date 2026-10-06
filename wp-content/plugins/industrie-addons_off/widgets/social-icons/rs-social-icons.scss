@@ -1,0 +1,82 @@
+@import '../../common';
+
+
+.rs-social-menu {
+	ul{
+		padding: 0;
+		margin: 0;
+		display: flex;
+		li{
+			list-style: none;
+			margin: 0 5px;
+
+			i {
+				font-size: 16px;
+				line-height: 40px;
+				transition: $transition;
+				color: #000;
+
+				&:hover {
+					color: #fff;
+				}
+			}
+
+			a {
+				position: relative;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				width: 40px;
+				height: 40px;
+				border-radius: 50%;
+				background: #fff;
+				text-align: center;
+				transition: $transition;
+				box-shadow: 0 5px 4px rgba(0,0,0,.5);
+				svg {
+					width: 18px;
+					height: 18px;
+					path {
+						transition: $transition;
+					}
+				}
+				&:hover {
+					transform: translate(0, -10%);
+					border-color: $primaryColor;
+					background: $primaryColor;
+				}
+			}
+		}
+	}
+}
+
+.rs-social-menu.style2 {
+	ul{
+		li {
+			
+			a {
+				&:hover {
+					transform: translate(0, 0);
+				}
+				position: relative;
+				display: inline-block;
+
+				span {
+					content: "";
+					position: absolute;
+					visibility: hidden;
+					z-index: 1;
+					top: 5px;
+					right: 130%;
+				}
+				&:hover {
+					span {
+						color: #05100B;
+						visibility: visible;
+					}
+				}
+			}
+			
+		}
+	}
+}

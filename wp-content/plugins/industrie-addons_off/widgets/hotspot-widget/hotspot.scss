@@ -1,0 +1,197 @@
+@import '../../common';
+.rs-hotspots {
+	position: relative;
+	.rs-hotspot-item {
+		position: absolute;
+		width: 25px;
+		.rs-hots-figure {
+			min-width: 250px;
+			text-align: left;
+			position: absolute;
+			bottom: 0;
+			left: 8px;
+			transition: all 0.4s ease;
+			z-index: 999;
+			opacity: 0;
+			background: $titleColor;
+			padding: 30px;
+			border-radius: 2px;
+			transition: all 500ms ease;
+			transform: translate3d(-50%, -70px, 0);
+			visibility: hidden;
+			.pre-title {
+                .title {
+                    margin: 0 0 10px;
+                    font-size: 22px;
+                    font-weight: 700;
+                    line-height: 32px;
+                    color: #fff;
+                }
+			}
+			.hotspot-desc p {
+				margin: 0;
+				font-size: 15px;
+				color: rgba(255,255,255,0.8);
+			}
+			&:after {
+				content: "";
+				position: absolute;
+				left: 0;
+				bottom: 0;
+				width: 0;
+				height: 0;
+				border-left: 10px solid transparent;
+				border-right: 10px solid transparent;
+				border-top: 12px solid $titleColor;
+				top: 100%;
+				right: 0;
+				margin: 0 auto;
+			}
+		}
+        .pre-circle-ripple {
+            position: relative;
+            cursor: pointer;
+            &:before {
+                content: "";
+                position: absolute;
+                top: 10px;
+                left: 10px;
+                height: 30px;
+                width: 30px;
+                border-radius: 50%;
+                background: $primaryColor;
+                transform-origin: center center;
+                z-index: 1;
+                opacity: 0;
+                pointer-events: none;
+            }
+            &:after {
+                content: "";
+                position: absolute;
+                top: 3px;
+                left: 3px;
+                height: 14px;
+                width: 14px;
+                border-radius: 50%;
+                background: #ffffffc2;
+                z-index: 9;
+                border: 3px solid $primaryColor;
+            }
+        }
+		&.hotspot__1 {
+			left: 20%;
+			top: 10%;
+		}
+		&.hotspot__2 {
+			left: 30%;
+			top: 40%;
+		}
+		&.hotspot__3 {
+			left: 30%;
+			top: 50%;
+		}
+		&.hotspot__4 {
+			left: 40%;
+			top: 10%;
+		}
+		&.hotspot__5 {
+			left: 40%;
+			top: 50%;
+		}
+		&.hotspot__6 {
+			left: 30%;
+			top: 60%;
+		}
+		&.hotspot__7 {
+			left: 20%;
+			top: 70%;
+		}
+		&.hotspot__8 {
+			left: 30%;
+			top: 50%;
+		}
+		&.hotspot__9 {
+			left: 90%;
+			top: 80%;
+		}
+		&.hotspot__10 {
+			left: 30%;
+			top: 50%;
+		}
+		&:hover .rs-hots-figure {
+			opacity: 1;
+			transform: translate3d(-50%, -35px, 0);
+			visibility: visible;
+		}
+	}
+    .desktop_item {
+        &:hover,
+        &.ripple {
+            .pre-circle-ripple {
+                &:before {
+                    -webkit-animation: pulse-border 1500ms ease-out infinite;
+                    animation: pulse-border 1500ms ease-out infinite;
+                    opacity: 1;
+                }
+            }
+        }
+    }
+	.mobile_item {
+		display: none;
+		position: absolute;
+		left: 50%;
+		top: 40%;
+		transform: translate(-50%, -50%);
+		width: 100%;
+		max-width: 280px;
+		color: #000;
+		background: #ffffff;
+		padding: 30px;
+		border-radius: 5px;
+		transition: all 500ms ease;
+		opacity: 0;
+		visibility: hidden;
+		z-index: 10;
+		pointer-events: none;
+		box-shadow: 0 0 40px rgba(0, 0, 0, 0.08);
+		.remove-icon {
+			border: 1px solid #d5d5d5;
+			width: 30px;
+			height: 30px;
+			display: flex;
+			align-items: center;
+			margin: 0 auto 10px;
+			justify-content: center;
+			text-align: center;
+			border-radius: 50%;
+		}
+		.pre-title .title {
+			margin: 0 0 10px;
+			font-size: 22px;
+			font-weight: 700;
+			line-height: 32px;
+		}
+		.hotspot-desc p {
+			margin: 0;
+			font-size: 15px;
+			color: #565656;
+		}
+		&.active {
+			top: 50%;
+			opacity: 1;
+			visibility: visible;
+			pointer-events: unset;
+			
+		}
+	}
+	@media screen and (max-width: 767px) {
+		.desktop_item {
+			.rs-hots-figure {
+				display: none;
+			}
+		}
+		.mobile_item {
+			display: block;
+		}
+	}
+}

@@ -1,0 +1,24 @@
+[Sep 18 10:09:29] 
+[Sep 18 10:09:29] ==DUPLICATOR INSTALLER BOOTSTRAP v5.0.2==
+[Sep 18 10:09:29] ----------------------------------------------------
+[Sep 18 10:09:29] Installer bootstrap start
+[Sep 18 10:09:29] Target dir dup folder "C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer"
+[Sep 18 10:09:29] Manual extract found so not going to extract C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer dir
+[Sep 18 10:09:29] EXTRACT C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer dir
+[Sep 18 10:09:29] NOTICE: Didn't need to extract the installer.
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/addons<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/api<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/assets<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/classes<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/ctrls<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/dup_descriptors_[HASH]<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/favicon<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/libs<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/src<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/templates<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/vendor<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/vendor-prefixed<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/index.php<br/>
+[Sep 18 10:09:29] Set permissions of C:/Users/Monster/Local Sites/aryaautomation-local-2/app/public/dup-installer/main.installer.php<br/>
+[Sep 18 10:09:29] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://aryaautomation.local/dup-installer/main.installer.php

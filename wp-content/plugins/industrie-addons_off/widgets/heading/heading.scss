@@ -1,0 +1,34 @@
+@import '../../common';
+
+.prelements-heading{
+	.title-inner{
+		position: relative;
+		.title {
+			margin-top: 20px;
+			span {
+				color: $primaryColor;
+				position: relative;
+				z-index: 2;
+			}
+		} 
+		span.sub-text{
+			font-size: 16px;
+			line-height: 25px;
+			display: inline-block;
+			font-weight: 500;
+			color:$primaryColor;
+			text-transform: uppercase;
+			font-family: $titleFont;
+			img{
+				width: 24px;
+				height: 24px;
+				margin-right: -2px;
+			}
+			svg {
+				width: 13px;
+				height: 15px;
+				margin: 0 3px 2px 0;
+			}
+		}
+	}
+}

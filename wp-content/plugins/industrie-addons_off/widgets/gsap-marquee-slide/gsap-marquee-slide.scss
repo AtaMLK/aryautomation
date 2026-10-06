@@ -1,0 +1,30 @@
+@import '../../common';
+
+.rs-marquee-slider-gsap {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+	text-transform: uppercase;
+	text-align: center;
+	.gsap-marquee {
+		.marquee-wrapper {
+			min-width: max-content;
+			.slider-item {
+				&:not(.image) {
+					font-size: 100px;
+					line-height: 1;
+					color: $titleColor;
+					font-weight: 700;
+				}
+				&.image {
+					img {
+						height: 80px;
+						width: auto;
+						margin: 0 50px;
+					}
+				}
+			}
+		}
+	}
+}

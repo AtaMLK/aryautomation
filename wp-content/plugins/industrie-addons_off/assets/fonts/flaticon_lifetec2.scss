@@ -1,0 +1,333 @@
+$flaticon_lifetec-font: "flaticon_lifetec";
+
+@font-face {
+    font-family: $flaticon_lifetec-font;
+    src: url("flaticon_lifetec.ttf?176837f85c2247758cd418376627b834") format("truetype"),
+url("flaticon_lifetec.woff?176837f85c2247758cd418376627b834") format("woff"),
+url("flaticon_lifetec.woff2?176837f85c2247758cd418376627b834") format("woff2"),
+url("flaticon_lifetec.eot?176837f85c2247758cd418376627b834#iefix") format("embedded-opentype"),
+url("flaticon_lifetec.svg?176837f85c2247758cd418376627b834#flaticon_lifetec") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_lifetec !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_lifetec-map: (
+    "training": "\f101",
+    "yoga": "\f102",
+    "discipline": "\f103",
+    "objective": "\f104",
+    "watching": "\f105",
+    "workout": "\f106",
+    "routine": "\f107",
+    "back": "\f108",
+    "counseling": "\f109",
+    "deadline": "\f10a",
+    "high-quality": "\f10b",
+    "video-content": "\f10c",
+    "report": "\f10d",
+    "bench-press": "\f10e",
+    "workout-1": "\f10f",
+    "lose-weight": "\f110",
+    "excercise": "\f111",
+    "video-tutorial": "\f112",
+    "heart": "\f113",
+    "deadline-1": "\f114",
+    "teamwork": "\f115",
+    "exercise-routine": "\f116",
+    "workout-2": "\f117",
+    "muscle": "\f118",
+    "training-2": "\f119",
+    "physical-wellbeing": "\f11a",
+    "target": "\f11b",
+    "physical-wellbeing-1": "\f11c",
+    "interview": "\f11d",
+    "muscle-man": "\f11e",
+    "spreadsheet": "\f11f",
+    "settings": "\f120",
+    "achievement": "\f121",
+    "champion": "\f122",
+    "effective": "\f123",
+    "customer-service": "\f124",
+    "time-management": "\f125",
+    "expertise": "\f126",
+    "whatsapp": "\f127",
+    "healthy-food": "\f128",
+    "healthy-food-1": "\f129",
+    "help": "\f12a",
+    "grid": "\f12b",
+    "conference": "\f12c",
+    "exercise": "\f12d",
+    "time-management-1": "\f12e",
+    "support": "\f12f",
+    "goal": "\f130",
+    "accounting": "\f131",
+    "motivation": "\f132",
+    "suitcase": "\f133",
+    "support-1": "\f134",
+    "woman": "\f135",
+    "network": "\f136",
+    "creativity": "\f137",
+    "spreadsheet-1": "\f138",
+    "spreadsheet-2": "\f139",
+    "telephone": "\f13a",
+    "layers": "\f13b",
+    "customer-service-1": "\f13c",
+    "customer-loyalty": "\f13d",
+    "suitcase-1": "\f13e",
+    "goal-1": "\f13f",
+    "time": "\f140",
+    "certificate": "\f141",
+    "handshake": "\f142",
+    "suitcase-2": "\f143",
+    "medal": "\f144",
+    "phone-call": "\f145",
+    "countdown": "\f146",
+    "excercise-1": "\f147",
+    "telephone-call": "\f148",
+    "conversation": "\f149",
+    "fitness": "\f14a",
+    "gym": "\f14b",
+    "customer-support": "\f14c",
+    "exercise-1": "\f14d",
+);
+
+.flaticon-training:before {
+    content: map-get($flaticon_lifetec-map, "training");
+}
+.flaticon-yoga:before {
+    content: map-get($flaticon_lifetec-map, "yoga");
+}
+.flaticon-discipline:before {
+    content: map-get($flaticon_lifetec-map, "discipline");
+}
+.flaticon-objective:before {
+    content: map-get($flaticon_lifetec-map, "objective");
+}
+.flaticon-watching:before {
+    content: map-get($flaticon_lifetec-map, "watching");
+}
+.flaticon-workout:before {
+    content: map-get($flaticon_lifetec-map, "workout");
+}
+.flaticon-routine:before {
+    content: map-get($flaticon_lifetec-map, "routine");
+}
+.flaticon-back:before {
+    content: map-get($flaticon_lifetec-map, "back");
+}
+.flaticon-counseling:before {
+    content: map-get($flaticon_lifetec-map, "counseling");
+}
+.flaticon-deadline:before {
+    content: map-get($flaticon_lifetec-map, "deadline");
+}
+.flaticon-high-quality:before {
+    content: map-get($flaticon_lifetec-map, "high-quality");
+}
+.flaticon-video-content:before {
+    content: map-get($flaticon_lifetec-map, "video-content");
+}
+.flaticon-report:before {
+    content: map-get($flaticon_lifetec-map, "report");
+}
+.flaticon-bench-press:before {
+    content: map-get($flaticon_lifetec-map, "bench-press");
+}
+.flaticon-workout-1:before {
+    content: map-get($flaticon_lifetec-map, "workout-1");
+}
+.flaticon-lose-weight:before {
+    content: map-get($flaticon_lifetec-map, "lose-weight");
+}
+.flaticon-excercise:before {
+    content: map-get($flaticon_lifetec-map, "excercise");
+}
+.flaticon-video-tutorial:before {
+    content: map-get($flaticon_lifetec-map, "video-tutorial");
+}
+.flaticon-heart:before {
+    content: map-get($flaticon_lifetec-map, "heart");
+}
+.flaticon-deadline-1:before {
+    content: map-get($flaticon_lifetec-map, "deadline-1");
+}
+.flaticon-teamwork:before {
+    content: map-get($flaticon_lifetec-map, "teamwork");
+}
+.flaticon-exercise-routine:before {
+    content: map-get($flaticon_lifetec-map, "exercise-routine");
+}
+.flaticon-workout-2:before {
+    content: map-get($flaticon_lifetec-map, "workout-2");
+}
+.flaticon-muscle:before {
+    content: map-get($flaticon_lifetec-map, "muscle");
+}
+.flaticon-training-2:before {
+    content: map-get($flaticon_lifetec-map, "training-2");
+}
+.flaticon-physical-wellbeing:before {
+    content: map-get($flaticon_lifetec-map, "physical-wellbeing");
+}
+.flaticon-target:before {
+    content: map-get($flaticon_lifetec-map, "target");
+}
+.flaticon-physical-wellbeing-1:before {
+    content: map-get($flaticon_lifetec-map, "physical-wellbeing-1");
+}
+.flaticon-interview:before {
+    content: map-get($flaticon_lifetec-map, "interview");
+}
+.flaticon-muscle-man:before {
+    content: map-get($flaticon_lifetec-map, "muscle-man");
+}
+.flaticon-spreadsheet:before {
+    content: map-get($flaticon_lifetec-map, "spreadsheet");
+}
+.flaticon-settings:before {
+    content: map-get($flaticon_lifetec-map, "settings");
+}
+.flaticon-achievement:before {
+    content: map-get($flaticon_lifetec-map, "achievement");
+}
+.flaticon-champion:before {
+    content: map-get($flaticon_lifetec-map, "champion");
+}
+.flaticon-effective:before {
+    content: map-get($flaticon_lifetec-map, "effective");
+}
+.flaticon-customer-service:before {
+    content: map-get($flaticon_lifetec-map, "customer-service");
+}
+.flaticon-time-management:before {
+    content: map-get($flaticon_lifetec-map, "time-management");
+}
+.flaticon-expertise:before {
+    content: map-get($flaticon_lifetec-map, "expertise");
+}
+.flaticon-whatsapp:before {
+    content: map-get($flaticon_lifetec-map, "whatsapp");
+}
+.flaticon-healthy-food:before {
+    content: map-get($flaticon_lifetec-map, "healthy-food");
+}
+.flaticon-healthy-food-1:before {
+    content: map-get($flaticon_lifetec-map, "healthy-food-1");
+}
+.flaticon-help:before {
+    content: map-get($flaticon_lifetec-map, "help");
+}
+.flaticon-grid:before {
+    content: map-get($flaticon_lifetec-map, "grid");
+}
+.flaticon-conference:before {
+    content: map-get($flaticon_lifetec-map, "conference");
+}
+.flaticon-exercise:before {
+    content: map-get($flaticon_lifetec-map, "exercise");
+}
+.flaticon-time-management-1:before {
+    content: map-get($flaticon_lifetec-map, "time-management-1");
+}
+.flaticon-support:before {
+    content: map-get($flaticon_lifetec-map, "support");
+}
+.flaticon-goal:before {
+    content: map-get($flaticon_lifetec-map, "goal");
+}
+.flaticon-accounting:before {
+    content: map-get($flaticon_lifetec-map, "accounting");
+}
+.flaticon-motivation:before {
+    content: map-get($flaticon_lifetec-map, "motivation");
+}
+.flaticon-suitcase:before {
+    content: map-get($flaticon_lifetec-map, "suitcase");
+}
+.flaticon-support-1:before {
+    content: map-get($flaticon_lifetec-map, "support-1");
+}
+.flaticon-woman:before {
+    content: map-get($flaticon_lifetec-map, "woman");
+}
+.flaticon-network:before {
+    content: map-get($flaticon_lifetec-map, "network");
+}
+.flaticon-creativity:before {
+    content: map-get($flaticon_lifetec-map, "creativity");
+}
+.flaticon-spreadsheet-1:before {
+    content: map-get($flaticon_lifetec-map, "spreadsheet-1");
+}
+.flaticon-spreadsheet-2:before {
+    content: map-get($flaticon_lifetec-map, "spreadsheet-2");
+}
+.flaticon-telephone:before {
+    content: map-get($flaticon_lifetec-map, "telephone");
+}
+.flaticon-layers:before {
+    content: map-get($flaticon_lifetec-map, "layers");
+}
+.flaticon-customer-service-1:before {
+    content: map-get($flaticon_lifetec-map, "customer-service-1");
+}
+.flaticon-customer-loyalty:before {
+    content: map-get($flaticon_lifetec-map, "customer-loyalty");
+}
+.flaticon-suitcase-1:before {
+    content: map-get($flaticon_lifetec-map, "suitcase-1");
+}
+.flaticon-goal-1:before {
+    content: map-get($flaticon_lifetec-map, "goal-1");
+}
+.flaticon-time:before {
+    content: map-get($flaticon_lifetec-map, "time");
+}
+.flaticon-certificate:before {
+    content: map-get($flaticon_lifetec-map, "certificate");
+}
+.flaticon-handshake:before {
+    content: map-get($flaticon_lifetec-map, "handshake");
+}
+.flaticon-suitcase-2:before {
+    content: map-get($flaticon_lifetec-map, "suitcase-2");
+}
+.flaticon-medal:before {
+    content: map-get($flaticon_lifetec-map, "medal");
+}
+.flaticon-phone-call:before {
+    content: map-get($flaticon_lifetec-map, "phone-call");
+}
+.flaticon-countdown:before {
+    content: map-get($flaticon_lifetec-map, "countdown");
+}
+.flaticon-excercise-1:before {
+    content: map-get($flaticon_lifetec-map, "excercise-1");
+}
+.flaticon-telephone-call:before {
+    content: map-get($flaticon_lifetec-map, "telephone-call");
+}
+.flaticon-conversation:before {
+    content: map-get($flaticon_lifetec-map, "conversation");
+}
+.flaticon-fitness:before {
+    content: map-get($flaticon_lifetec-map, "fitness");
+}
+.flaticon-gym:before {
+    content: map-get($flaticon_lifetec-map, "gym");
+}
+.flaticon-customer-support:before {
+    content: map-get($flaticon_lifetec-map, "customer-support");
+}
+.flaticon-exercise-1:before {
+    content: map-get($flaticon_lifetec-map, "exercise-1");
+}

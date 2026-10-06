@@ -1,0 +1,98 @@
+@import '../../common';
+.rs-work-process-wrap {
+    .work-item {
+        position: relative;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-top: 37px;
+        .rs-step-part {
+            position: relative;
+            width: 7.5%;
+            flex-shrink: 0;
+            span {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 54px;
+                height: 54px;
+                border-radius: 2px;
+                background-color: $page_color;
+                color: $bodyColor;
+                font-size: 18px;
+                -webkit-transition: all 0.3s ease;
+                transition: all 0.3s ease;
+            }
+            &:after {
+                content: "";
+                position: absolute;
+                height: 100%;
+                left: 27px;
+                border-left: 1px dashed #616161;
+            }
+        }
+        .divider {
+            position: absolute;
+            top: 0;
+            left: -10px;
+            bottom: 0;
+            width: 2px;
+
+            &:after {
+                content: '';
+                display: block;
+                margin-top: -32px;
+                width: 54px;
+                height: 54px;
+                margin-left: -15px;
+                border-radius: 2px;
+                background-color: $page_color;
+            }
+        }
+        .right-part {
+            width: 28%;
+           .item-period {
+                font-size: 22px;
+                line-height: 32px;
+                font-weight: 700;
+                margin-bottom: 0;
+            }
+            
+        }
+        .timeline-desc {
+            width: 64%;
+            p {
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 28px; /* 166.667% */
+                margin-bottom: 0;
+            }
+        }
+        &:hover {
+            .rs-step-part {
+                span {
+                    background-color: $primaryColor;
+                    color: #fff;
+                }
+            }
+        }
+    }
+    .work-item:last-child {
+        .rs-step-part {
+            &:after {
+                border-left: 0px dashed #616161;
+            }
+        }
+    }
+    .work-item:first-child {
+        margin-top: 0;
+    }
+}
+
+.clearfix:after {
+    clear: both;
+}
+.clearfix:after, .clearfix:before {
+    content: " ";
+    display: table;
+}

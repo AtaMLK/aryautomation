@@ -1,0 +1,323 @@
+.rs-contact-box {
+  text-align: left;
+}
+.rs-contact-box .address-item {
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.rs-contact-box .address-item:last-child {
+  margin-bottom: 0;
+}
+.rs-contact-box .address-item:last-child .address-icon:after {
+  display: none;
+}
+.rs-contact-box .address-item .address-icon {
+  display: inline-block;
+  position: relative;
+  height: 70px;
+  width: 70px;
+  line-height: 70px;
+  border-radius: 100%;
+  text-align: center;
+}
+.rs-contact-box .address-item .address-icon span {
+  z-index: 2;
+  position: relative;
+}
+.rs-contact-box .address-item .address-icon span:before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  display: block;
+  width: 70px;
+  height: 70px;
+  background: #071230;
+  border-radius: 50%;
+  animation: pulse-border 1500ms ease-out infinite;
+  opacity: 0.1;
+  visibility: visible;
+  z-index: -1;
+}
+.rs-contact-box .address-item .address-icon span:hover {
+  border-color: rgba(255, 255, 255, 0.7);
+}
+.rs-contact-box .address-item .address-icon:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  transform: translateX(-10px) translateY(-10px);
+  display: block;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  opacity: 0;
+  visibility: hidden;
+}
+.rs-contact-box .address-item .address-icon i {
+  text-align: center;
+  border-radius: 100%;
+  font-size: 30px;
+  position: relative;
+  line-height: 70px;
+  z-index: 9;
+  width: 100%;
+  vertical-align: middle;
+  margin-left: 0;
+  height: auto;
+  z-index: 1;
+}
+.rs-contact-box .address-item .address-icon svg {
+  position: relative;
+  z-index: 1;
+  top: -1px;
+}
+.rs-contact-box .address-item .address-icon img {
+  transition: transform 0.3s;
+}
+.rs-contact-box .address-item .address-text .des,
+.rs-contact-box .address-item .address-text .label {
+  display: block;
+}
+.rs-contact-box .address-item .address-text .contact-title {
+  margin-bottom: 1px;
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 6px;
+}
+.rs-contact-box .address-item .address-text .phone {
+  display: inline-grid;
+}
+.rs-contact-box .address-item .address-text .email {
+  display: inline-grid;
+}
+.rs-contact-box .address-item:hover .address-icon:after {
+  opacity: 1;
+  visibility: visible;
+}
+.rs-contact-box .address-item:hover .address-icon:before {
+  opacity: 1;
+  visibility: visible;
+}
+.rs-contact-box .address-item:hover .address-icon img, .rs-contact-box .address-item:hover .address-icon svg, .rs-contact-box .address-item:hover .address-icon i {
+  animation: vibrate 0.4s;
+}
+.rs-contact-box .address-item.vertical {
+  display: block;
+  text-align: center;
+}
+.rs-contact-box .address-item.vertical .address-text span.label {
+  display: block;
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 15px;
+}
+.rs-contact-box .address-item.vertical .address-text a {
+  transition: all 0.3s ease 0s;
+}
+.rs-contact-box .address-item.horizontal .address-icon {
+  margin-right: 20px;
+}
+.rs-contact-box.color_light_scheme .address-icon {
+  background: #ffffff;
+}
+.rs-contact-box.color_light_scheme .address-icon i {
+  color: #EA5501;
+}
+.rs-contact-box.color_light_scheme .address-icon svg path {
+  fill: #EA5501;
+}
+.rs-contact-box.color_light_scheme .address-icon:after, .rs-contact-box.color_light_scheme .address-icon:before {
+  background: #ffffff;
+}
+.rs-contact-box.color_light_scheme .address-text .label {
+  color: #ffffff;
+}
+.rs-contact-box.color_light_scheme .address-text div > a {
+  color: #ffffff;
+}
+.rs-contact-box.color_light_scheme .address-text div > a:hover {
+  color: #EA5501;
+}
+.rs-contact-box.color_light_scheme .address-text div > .des {
+  color: #ffffff;
+}
+.rs-contact-box.color_light_scheme .address-text div > .des a {
+  color: #ffffff;
+}
+.rs-contact-box.color_light_scheme .address-text div > .des a:hover {
+  color: #EA5501;
+}
+.rs-contact-box.color_dark_scheme .address-icon {
+  background: #1F1F1F;
+}
+.rs-contact-box.color_dark_scheme .address-icon i {
+  color: #ffffff;
+}
+.rs-contact-box.color_dark_scheme .address-icon svg path {
+  fill: #ffffff;
+}
+.rs-contact-box.color_dark_scheme .address-icon:after, .rs-contact-box.color_dark_scheme .address-icon:before {
+  background: #1F1F1F;
+}
+.rs-contact-box.color_dark_scheme .address-text div > a {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_dark_scheme .address-text div > a:hover {
+  color: #EA5501;
+}
+.rs-contact-box.color_dark_scheme .address-text div > .des {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_dark_scheme .address-text div > .des a {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_dark_scheme .address-text div > .des a:hover {
+  color: #EA5501;
+}
+.rs-contact-box.color_hover_scheme .address-text a:hover {
+  color: #EA5501;
+}
+.rs-contact-box.color_hover_scheme .address-text a span:hover {
+  color: #EA5501;
+}
+.rs-contact-box.color_socondary_scheme .address-icon {
+  background-color: #D2C007;
+}
+.rs-contact-box.color_socondary_scheme .address-icon i {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_socondary_scheme .address-icon svg path {
+  fill: #1F1F1F;
+}
+.rs-contact-box.color_socondary_scheme .address-text div > a {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_socondary_scheme .address-text div > a:hover {
+  color: #D2C007;
+}
+.rs-contact-box.color_socondary_scheme .address-text div > .des {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_socondary_scheme .address-text div > .des a {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_socondary_scheme .address-text div > .des a:hover {
+  color: #D2C007;
+}
+.rs-contact-box.color_socondary_scheme2 .address-icon i {
+  color: #D2C007;
+}
+.rs-contact-box.color_socondary_scheme2 .address-icon svg path {
+  fill: #D2C007;
+}
+.rs-contact-box.color_socondary_scheme2 .address-text div > a {
+  color: #D2C007;
+}
+.rs-contact-box.color_socondary_scheme2 .address-text div > a:hover {
+  color: #D2C007;
+}
+.rs-contact-box.color_socondary_scheme2 .address-text div > .des {
+  color: #D2C007;
+}
+.rs-contact-box.color_socondary_scheme2 .address-text div > .des a {
+  color: #D2C007;
+}
+.rs-contact-box.color_socondary_scheme2 .address-text div > .des a:hover {
+  color: #D2C007;
+}
+.rs-contact-box.color_primary_scheme .address-icon {
+  background-color: #EA5501;
+}
+.rs-contact-box.color_primary_scheme .address-icon i {
+  color: #ffffff;
+}
+.rs-contact-box.color_primary_scheme .address-icon svg path {
+  fill: #ffffff;
+}
+.rs-contact-box.color_primary_scheme .address-text div > a {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_primary_scheme .address-text div > a:hover {
+  color: #EA5501;
+}
+.rs-contact-box.color_primary_scheme .address-text div > .des {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_primary_scheme .address-text div > .des a {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_primary_scheme .address-text div > .des a:hover {
+  color: #EA5501;
+}
+.rs-contact-box.color_primary_scheme2 .address-icon i {
+  color: #EA5501;
+}
+.rs-contact-box.color_primary_scheme2 .address-icon svg path {
+  fill: #EA5501;
+}
+.rs-contact-box.color_primary_scheme2 .address-text div > a {
+  color: #EA5501;
+}
+.rs-contact-box.color_primary_scheme2 .address-text div > a:hover {
+  color: #EA5501;
+}
+.rs-contact-box.color_primary_scheme2 .address-text div > .des {
+  color: #EA5501;
+}
+.rs-contact-box.color_primary_scheme2 .address-text div > .des a {
+  color: #EA5501;
+}
+.rs-contact-box.color_primary_scheme2 .address-text div > .des a:hover {
+  color: #EA5501;
+}
+.rs-contact-box.color_gradient_scheme .address-icon {
+  background: linear-gradient(90deg, #EA5501 0%, #D2C007 100%);
+}
+.rs-contact-box.color_gradient_scheme .address-icon i {
+  color: #ffffff;
+}
+.rs-contact-box.color_gradient_scheme .address-icon svg path {
+  fill: #ffffff;
+}
+.rs-contact-box.color_gradient_scheme .address-text div > a {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_gradient_scheme .address-text div > a:hover {
+  color: #EA5501;
+}
+.rs-contact-box.color_gradient_scheme .address-text div > .des {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_gradient_scheme .address-text div > .des a {
+  color: #1F1F1F;
+}
+.rs-contact-box.color_gradient_scheme .address-text div > .des a:hover {
+  color: #EA5501;
+}
+
+@keyframes vibrate {
+  0% {
+    transform: translateX(-2px) rotate(0deg);
+  }
+  25% {
+    transform: translateX(2px) rotate(-2deg);
+  }
+  50% {
+    transform: translateX(-2px) rotate(2deg);
+  }
+  75% {
+    transform: translateX(2px) rotate(-2deg);
+  }
+  100% {
+    transform: translateX(-2px) rotate(0deg);
+  }
+}

@@ -1,0 +1,60 @@
+@import '../../common';
+.rs-iconbox-area {
+	.box-inner {
+		position: relative;
+		transition: 0.4s;
+		overflow: hidden;
+		.icon-area {
+			display: inline-block;
+			color: #010d14;
+			transition: all ease .3s;
+			svg{
+				width: 10px;
+				height: 10px;
+			}
+			i {
+				transition: all ease .3s;
+				font-size: 30px;
+			}
+			img {
+				transform: scale(1.05);
+				
+			}
+			&.clip-path-enable{
+				clip-path: polygon(0% 0%, 78% 0, 100% 18%, 100% 100%, 0% 100%) !important;
+			}
+		}
+		.text-area {
+			position: relative;
+			.iconbox-title {
+				position: relative;
+				.title {
+					font-size: 20px;
+					margin: 0;
+					color: #121933;
+					font-weight: 500;
+					line-height: 1.5;
+					a {
+						color: #121933;
+						&:hover {
+							color: #1273eb;
+						}
+					}
+				}
+			}
+			p{
+				font-size: 20px;
+				margin: 0;
+				color: #121933;
+				font-weight: 500;
+				line-height: 1.5;
+				a{
+					margin: 0;
+					&:hover{
+						color: #f00;
+					}
+				}
+			}
+		}
+	}
+}

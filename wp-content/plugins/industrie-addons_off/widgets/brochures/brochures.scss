@@ -1,0 +1,50 @@
+@import '../../common';
+
+.rs-brochures {
+	.brochures-content{
+		.brochure-title {
+			margin-bottom: 16px;
+		}
+		.desc {
+			margin-bottom: 20px;
+		}	
+		ul {
+			list-style: none;
+			margin: 0;
+			li {
+				list-style: none;
+				margin: 0;
+				margin-bottom: 7px;
+				display: block;
+				a{
+					display: flex;
+					justify-content: space-between;
+					.brochures-left{
+						display: flex;
+						align-items: center;
+					}
+
+					.brochures-left{
+						.list-brochures-img{
+							img {
+								width: 30px;
+								margin-right: 12px;
+							}
+							i {
+								margin-right: 10px;
+								color: #2b59ff;
+								margin-top: 4px;
+							}
+						}
+					}
+					.brochures-right{
+						img{
+							width: 22px;
+						}
+					}
+				}	
+				
+			}
+		}
+	}
+}

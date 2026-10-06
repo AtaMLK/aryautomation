@@ -1,0 +1,29 @@
+$bodyFont:        'Space Grotesk', sans-serif;
+$titleFont:       'Space Grotesk', sans-serif;
+$titleFont2:      'Space Grotesk', sans-serif;
+$bodyColor:       #616161;
+$titleColor:      #1F1F1F;
+$primaryColor:    #EA5501;
+$primaryShadow:   rgba(82, 235, 44, 0.1);
+$secondaryColor:  #D2C007;
+$whiteColor:      #ffffff;
+$footer_contact:  #202a45;
+$transition:      all 0.3s ease 0s;
+$manufacture_primary: #507A7C;
+$manufacture_heading: #023B4A;
+$oilgas_primary: #F7C600;
+$oilgas_secondary: #1F1F1F;
+$energry_primary: #F7C600;
+$labratory_primary: #0D80CE;
+$labratory_heading: #142340;
+$page_color: #F7F7F7;
+$metallurgy_primary: #EE0D08;
+$architecture_primary: #3B37FD;
+
+// Mixin
+@mixin flex_asign($justify_content, $gap) {
+    display: flex;
+    align-items: center;
+    justify-content: $justify_content;
+    gap: $gap;
+}

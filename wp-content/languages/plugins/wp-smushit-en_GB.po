@@ -1,0 +1,2413 @@
+# Translation of Plugins - Smush – Image Optimization, Compression, Lazy Load, WebP &amp; CDN - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Smush – Image Optimization, Compression, Lazy Load, WebP &amp; CDN - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-09-16 12:47:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Smush – Image Optimization, Compression, Lazy Load, WebP &amp; CDN - Stable (latest release)\n"
+
+#: core/lazy-load/video-embed/class-video-thumbnail-controller.php:65
+msgid "Unable to create video embed object."
+msgstr "Unable to create video embed object."
+
+#. translators: %s: image size
+#: core/class-error-handler.php:266
+msgid "Skipped (%s). File size limit of 5MB exceeded."
+msgstr "Skipped (%s). File size limit of 5MB exceeded."
+
+#. translators: 1: Original path, 2: Image id.
+#: core/resize/class-file-resizer.php:87
+msgid "Cannot resize image [%1$s]."
+msgstr "Cannot resize image [%1$s]."
+
+#: core/media-library/class-media-library-row.php:803
+msgid "Super Optimize"
+msgstr "Super Optimise"
+
+#: core/media-library/class-media-library-row.php:800
+msgid "Ultra Optimize"
+msgstr "Ultra Optimise"
+
+#: core/media-library/class-media-library-row.php:759
+msgid "Reoptimize"
+msgstr "Reoptimise"
+
+#: core/media-library/class-media-library-row.php:756
+msgid "Optimize image including original file"
+msgstr "Optimise image including original file"
+
+#: core/media-library/class-media-library-row.php:725
+msgid "Optimize"
+msgstr "Optimise"
+
+#: core/media-library/class-background-media-library-scanner.php:204
+msgid "Scanned over a year ago"
+msgstr "Scanned over a year ago"
+
+#. translators: Time difference between two dates, in months. %s: Number of
+#. months.
+#: core/media-library/class-background-media-library-scanner.php:202
+msgid "Scanned %d mo ago"
+msgstr "Scanned %d mo ago"
+
+#. translators: Time difference between two dates, in weeks. %s: Number of
+#. weeks.
+#: core/media-library/class-background-media-library-scanner.php:197
+msgid "Scanned %d weeks ago"
+msgstr "Scanned %d weeks ago"
+
+#: core/media-library/class-background-media-library-scanner.php:192
+msgid "Scanned last week"
+msgstr "Scanned last week"
+
+#. translators: Time difference between two dates, in days. %s: Number of days.
+#: core/media-library/class-background-media-library-scanner.php:189
+msgid "Scanned %d days ago"
+msgstr "Scanned %d days ago"
+
+#: core/media-library/class-background-media-library-scanner.php:183
+msgid "Scanned a day ago"
+msgstr "Scanned a day ago"
+
+#. translators: Time difference between two dates, in hours. %s: Number of
+#. hours.
+#: core/media-library/class-background-media-library-scanner.php:179
+msgid "Scanned %dh ago"
+msgstr "Scanned %dh ago"
+
+#: core/media-library/class-background-media-library-scanner.php:174
+msgid "Scanned 1h ago"
+msgstr "Scanned 1h ago"
+
+#. translators: Time difference between two dates, in minutes. %s: Number of
+#. minutes.
+#: core/media-library/class-background-media-library-scanner.php:171
+msgid "Scanned %d mins ago"
+msgstr "Scanned %d mins ago"
+
+#: core/media-library/class-background-media-library-scanner.php:166
+msgid "Scanned a min ago"
+msgstr "Scanned a min ago"
+
+#: core/media-library/class-background-media-library-scanner.php:163
+msgid "Scanned just now"
+msgstr "Scanned just now"
+
+#: core/media-library/class-background-media-library-scanner.php:156
+msgid "No scans yet"
+msgstr "No scans yet"
+
+#: core/frontend/class-frontend-controller.php:883
+msgid "Directory Optimization"
+msgstr "Directory Optimisation"
+
+#: core/frontend/class-frontend-controller.php:300
+msgid "Settings saved successfully"
+msgstr "Settings saved successfully"
+
+#: core/frontend/class-frontend-controller.php:293
+msgid "No handler found for the provided settings context"
+msgstr "No handler found for the provided settings context"
+
+#: core/frontend/class-frontend-controller.php:204
+msgid "Security verification failed."
+msgstr "Security verification failed."
+
+#. translators: %s is the admin page title (e.g. "Dashboard", "Settings").
+#: core/frontend/class-frontend-controller.php:189
+msgid "Smush - %s"
+msgstr "Smush - %s"
+
+#: core/class-hub-connector.php:1061
+msgid "Authentication required. Please log in."
+msgstr "Authentication required. Please log in."
+
+#. translators: %1$s Hub Account URL, %2$s: Switch to Free URL.
+#: core/class-hub-connector.php:988
+msgid "Login failed — your WPMU DEV membership has expired. Renew now to regain full access, or switch to our free plan to continue managing all your site in The Hub.<br/><br/><a class=\"sui-button sui-button-blue\" href=\"%1$s\" target=\"_blank\">Renew Membership</a>&nbsp;<a class=\"sui-button sui-button-ghost\" href=\"%2$s\" target=\"_blank\">Switch to Free</a>"
+msgstr "Login failed — your WPMU DEV membership has expired. Renew now to regain full access, or switch to our free plan to continue managing all your site in The Hub.<br/><br/><a class=\"sui-button sui-button-blue\" href=\"%1$s\" target=\"_blank\">Renew Membership</a>&nbsp;<a class=\"sui-button sui-button-ghost\" href=\"%2$s\" target=\"_blank\">Switch to Free</a>"
+
+#: core/class-hub-connector.php:971
+msgid "a different user"
+msgstr "a different user"
+
+#. translators: %1$s Rest URL, %2$s Upgrade URL, %3$s Trial URL.
+#: core/class-hub-connector.php:951
+msgid "This domain has previously been registered with us by the user %1$s. To use WPMU DEV on this domain, you can either log in with the original account (you can <a target=\"_blank\" href=\"%2$s\"><strong>reset your password</strong></a>) or <a target=\"_blank\" href=\"%3$s\">upgrade your trial</a> to a full membership. Trial accounts can't use previously registered domains - <a target=\"_blank\" href=\"%4$s\">here's why</a>."
+msgstr "This domain has previously been registered with us by the user %1$s. To use WPMU DEV on this domain, you can either log in with the original account (you can <a target=\"_blank\" href=\"%2$s\"><strong>reset your password</strong></a>) or <a target=\"_blank\" href=\"%3$s\">upgrade your trial</a> to a full membership. Trial accounts can't use previously registered domains - <a target=\"_blank\" href=\"%4$s\">here's why</a>."
+
+#. translators: %1$s Account detail URL, %2$s Reset URL.
+#: core/class-hub-connector.php:926
+msgid "Due to security improvements, you will need to re-link your Google account in The Hub. Please log in with your WPMU DEV email & password for now, then set up your preferred <strong>Login Method</strong> in <a href=\"%1$s\" target=\"_blank\">your WPMU DEV account</a>. Forgot your password? You can <a href=\"%2$s\" target=\"_blank\"><strong>reset it here</strong></a>."
+msgstr "Due to security improvements, you will need to re-link your Google account in The Hub. Please log in with your WPMU DEV email & password for now, then set up your preferred <strong>Login Method</strong> in <a href=\"%1$s\" target=\"_blank\">your WPMU DEV account</a>. Forgot your password? You can <a href=\"%2$s\" target=\"_blank\"><strong>reset it here</strong></a>."
+
+#: core/class-configs.php:789
+msgid "Usage tracking"
+msgstr "Usage tracking"
+
+#: core/class-configs.php:776
+msgid "Image sizes"
+msgstr "Image sizes"
+
+#: core/class-configs.php:775
+msgid "Set image dimensions"
+msgstr "Set image dimensions"
+
+#: core/class-configs.php:766
+msgid "CDN file format"
+msgstr "CDN file format"
+
+#: core/class-configs.php:765
+msgid "Dynamic resizing"
+msgstr "Dynamic resizing"
+
+#: core/class-configs.php:762
+msgid "CDN network"
+msgstr "CDN network"
+
+#: core/class-configs.php:761
+msgid "Single location"
+msgstr "Single location"
+
+#: core/class-configs.php:758
+msgid "Noscript fallback"
+msgstr "Noscript fallback"
+
+#: core/class-configs.php:755
+msgid "Excluded content"
+msgstr "Excluded content"
+
+#: core/class-configs.php:754
+msgid "Youtube/Vimeo preview images"
+msgstr "YouTube/Vimeo preview images"
+
+#: core/class-configs.php:753
+msgid "Lazy loaded locations"
+msgstr "Lazy loaded locations"
+
+#: core/class-configs.php:752
+msgid "Lazy loaded media types"
+msgstr "Lazy loaded media types"
+
+#: core/class-configs.php:751
+msgid "Lazy loading appearance"
+msgstr "Lazy loading appearance"
+
+#: core/class-configs.php:750
+msgid "Fetchpriority"
+msgstr "Fetchpriority"
+
+#: core/class-configs.php:749
+msgid "Preload critical images"
+msgstr "Preload critical images"
+
+#: core/class-configs.php:748
+msgid "Lazyload offscreen images"
+msgstr "Lazyload offscreen images"
+
+#: core/class-configs.php:743
+msgid "Original"
+msgstr "Original"
+
+#: core/class-configs.php:740
+msgid "Ultra 5X"
+msgstr "Ultra 5X"
+
+#: core/class-configs.php:739
+msgid "Super 2X"
+msgstr "Super 2X"
+
+#: core/class-configs.php:738
+msgid "Basic 1X"
+msgstr "Basic 1X"
+
+#: core/class-configs.php:129
+msgid "Recommended Smush config by WPMU DEV developers"
+msgstr "Recommended Smush config by WPMU DEV developers"
+
+#: core/class-configs.php:129
+msgid "Recommended config"
+msgstr "Recommended config"
+
+#: core/class-activity-log-controller.php:249
+msgid "CDN setup complete."
+msgstr "CDN setup complete."
+
+#: core/class-activity-log-controller.php:235
+msgid "Bulk Optimization failed."
+msgstr "Bulk Optimisation failed."
+
+#: core/class-activity-log-controller.php:220
+msgid "Bulk Optimization completed."
+msgstr "Bulk Optimisation completed."
+
+#: core/class-activity-log-controller.php:171
+msgid "Welcome to Smush"
+msgstr "Welcome to Smush"
+
+#: core/class-activity-log-controller.php:138
+msgid "Failed to save notification."
+msgstr "Failed to save notification."
+
+#: core/class-activity-log-controller.php:132
+msgid "Invalid notification data."
+msgstr "Invalid notification data."
+
+#: core/class-activity-log-controller.php:125
+#: core/class-activity-log-controller.php:155
+#: core/frontend/class-frontend-controller.php:260
+#: core/frontend/class-frontend-controller.php:271
+#: core/frontend/class-frontend-controller.php:1224
+msgid "Insufficient permissions"
+msgstr "Insufficient permissions"
+
+#: core/bulk/class-background-bulk-smush-controller.php:114
+msgid "You need to run a scan before bulk Smush can be started."
+msgstr "You need to run a scan before bulk Smush can be started."
+
+#: core/bulk/class-background-bulk-smush-controller.php:105
+#: core/class-optimization-controller.php:102
+msgid "A WPMU DEV Hub connection is required to optimize images."
+msgstr "A WPMU DEV Hub connection is required to optimise images."
+
+#: app/class-media-library.php:850
+msgid "Show in bulk optimization"
+msgstr "Show in bulk optimisation"
+
+#: app/class-media-library.php:704
+msgid "I'm happy with 1X Smush"
+msgstr "I'm happy with 1X Smush"
+
+#: app/class-media-library.php:589 app/class-media-library.php:591
+msgid "Optimizing..."
+msgstr "Optimising..."
+
+#. translators: 1: first failure clause, 2: second failure clause
+#: app/class-media-library.php:281
+msgid "%1$s, and %2$s."
+msgstr "%1$s, and %2$s."
+
+#. translators: %d: number of images
+#: app/class-media-library.php:252
+msgid "%d image couldn't be restored as no backup exists"
+msgid_plural "%d images couldn't be restored as no backup exists"
+msgstr[0] "%d image couldn't be restored as no backup exists"
+msgstr[1] "%d images couldn't be restored as no backup exists"
+
+#. translators: 1: opening strong tag, 2: restored count, 3: total count, 4:
+#. closing strong tag
+#: app/class-media-library.php:218
+msgid "%1$s%2$d/%3$d image was restored successfully%4$s."
+msgid_plural "%1$s%2$d/%3$d images were restored successfully%4$s."
+msgstr[0] "%1$s%2$d/%3$d image was restored successfully%4$s."
+msgstr[1] "%1$s%2$d/%3$d images were restored successfully%4$s."
+
+#: app/class-admin.php:281
+msgid "You have multiple image optimization plugins installed that could conflict with Smush and cause issues. For best results, we recommend deactivating the following plugin(s):"
+msgstr "You have multiple image optimisation plugins installed that could conflict with Smush and cause issues. For best results, we recommend deactivating the following plugin(s):"
+
+#: core/media-library/class-media-library-row.php:837
+msgid "No backup image available. Enable Back up original images to restore them in the future."
+msgstr "No backup image available. Enable Back up original images to restore them in the future."
+
+#: core/media-library/class-media-library-row.php:831
+#: core/media-library/class-media-library-row.php:838
+msgid "Restore original"
+msgstr "Restore original"
+
+#: core/lazy-load/video-embed/class-video-thumbnail-controller.php:87
+msgid "Thumbnail URL not found."
+msgstr "Thumbnail URL not found."
+
+#: core/lazy-load/video-embed/class-video-thumbnail-controller.php:70
+msgid "Video thumbnail not found."
+msgstr "Video thumbnail not found."
+
+#: core/lazy-load/video-embed/class-video-thumbnail-controller.php:60
+msgid "Invalid video URL or dimensions."
+msgstr "Invalid video URL or dimensions."
+
+#: core/external/hub-connector/inc/class-upgrader.php:164
+msgid "Invalid or empty slug."
+msgstr "Invalid or empty slug."
+
+#: core/external/hub-connector/inc/class-rest.php:62
+msgid "Should do a force sync."
+msgstr "Should do a force sync."
+
+#: core/external/hub-connector/inc/class-remote.php:288
+msgid "Nonce check failed"
+msgstr "Nonce check failed"
+
+#: core/external/hub-connector/inc/class-remote.php:277
+msgid "Incorrect authentication"
+msgstr "Incorrect authentication"
+
+#: core/external/hub-connector/inc/class-remote.php:259
+msgid "Missing authentication header"
+msgstr "Missing authentication header"
+
+#: core/external/hub-connector/inc/class-remote.php:246
+msgid "Remote calls are disabled in wp-config.php"
+msgstr "Remote calls are disabled in wp-config.php"
+
+#: core/external/hub-connector/inc/class-remote.php:150
+msgid "This action is not registered. The required plugin is not installed, updated, or configured properly."
+msgstr "This action is not registered. The required plugin is not installed, updated, or configured properly."
+
+#: core/external/hub-connector/inc/class-remote.php:109
+msgid "The \"params\" object is missing"
+msgstr "The \"params\" object is missing"
+
+#: core/external/hub-connector/inc/class-remote.php:99
+msgid "The \"action\" parameter is missing"
+msgstr "The \"action\" parameter is missing"
+
+#. translators: %s Support URL.
+#: core/external/hub-connector/inc/class-api.php:612
+msgid "This site is currently registered to a different user. Please <a target=\"_blank\" href=\"%s\">contact support for assistance</a>."
+msgstr "This site is currently registered to a different user. Please <a target=\"_blank\" href=\"%s\">contact support for assistance</a>."
+
+#: core/external/hub-connector/inc/class-api.php:448
+msgid "Error unserializing remote response."
+msgstr "Error unserialising remote response."
+
+#: core/external/hub-connector/inc/class-api.php:270
+msgid "Invalid remote API response."
+msgstr "Invalid remote API response."
+
+#: core/external/hub-connector/inc/class-api.php:175
+#: core/external/hub-connector/inc/class-api.php:323
+#: core/external/hub-connector/inc/class-api.php:358
+#: core/external/hub-connector/inc/class-api.php:422
+msgid "Not logged in."
+msgstr "Not logged in."
+
+#: core/external/hub-connector/inc/class-admin.php:693
+msgid "Create a free account"
+msgstr "Create a free account"
+
+#: core/external/hub-connector/inc/class-admin.php:692
+msgid "OR continue with email"
+msgstr "OR continue with email"
+
+#: core/external/hub-connector/inc/class-admin.php:691
+msgid "I am an existing user"
+msgstr "I am an existing user"
+
+#: core/external/hub-connector/inc/class-admin.php:690
+msgid "I am a new user"
+msgstr "I am a new user"
+
+#: core/external/hub-connector/inc/class-admin.php:689
+msgid "Login"
+msgstr "Login"
+
+#: core/external/hub-connector/inc/class-admin.php:688
+msgid "Keep me logged in"
+msgstr "Keep me logged in"
+
+#: core/external/hub-connector/inc/class-admin.php:687
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+#: core/external/hub-connector/inc/class-admin.php:686
+msgid "Sign in with Google"
+msgstr "Sign in with Google"
+
+#: core/external/hub-connector/inc/class-admin.php:685
+msgid "You do not have the permission to view this page."
+msgstr "You do not have the permission to view this page."
+
+#: core/external/hub-connector/inc/class-admin.php:684
+msgid "Create a free account to connect your site to WPMU DEV and activate cloud-based link checker. <i>It's fast, seamless, and free.</i>"
+msgstr "Create a free account to connect your site to WPMU DEV and activate cloud-based link checker. <i>It's fast, seamless, and free.</i>"
+
+#: core/external/hub-connector/inc/class-admin.php:683
+msgid "Unknown API error occurred. Please try again."
+msgstr "Unknown API error occurred. Please try again."
+
+#: core/external/hub-connector/inc/class-admin.php:682
+msgid "We've noticed that you are a member of multiple teams in The Hub. Which team would you like to connect to this site?"
+msgstr "We've noticed that you are a member of multiple teams in The Hub. Which team would you like to connect to this site?"
+
+#: core/external/hub-connector/inc/class-admin.php:681
+msgid "Choose The Hub Team"
+msgstr "Choose The Hub Team"
+
+#: core/external/hub-connector/inc/class-admin.php:680
+msgid "Please wait a few moments while we connect your website."
+msgstr "Please wait a few moments while we connect your website."
+
+#: core/external/hub-connector/inc/class-admin.php:679
+msgid "Once your website is connected to The Hub, you will be able to perform updates, manage services - all from one place."
+msgstr "Once your website is connected to The Hub, you will be able to perform updates, manage services - all from one place."
+
+#: core/external/hub-connector/inc/class-admin.php:678
+msgid "The Hub connects WPMU DEV to your website and unlocks all the power of our all-in-one platform services."
+msgstr "The Hub connects WPMU DEV to your website and unlocks all the power of our all-in-one platform services."
+
+#: core/external/hub-connector/inc/class-admin.php:677
+msgid "Could not sync with The Hub. Please try again."
+msgstr "Could not sync with The Hub. Please try again."
+
+#: core/external/hub-connector/inc/class-admin.php:676
+msgid "To manage your site from The Hub, log in with your WPMU DEV account email and password."
+msgstr "To manage your site from The Hub, log in with your WPMU DEV account email and password."
+
+#: core/external/hub-connector/inc/class-admin.php:675
+msgid "Let’s connect your site"
+msgstr "Let’s connect your site"
+
+#: core/class-hub-connector.php:1022
+#: core/external/hub-connector/inc/class-admin.php:591
+msgid "Your API Key was invalid. Please try again."
+msgstr "Your API Key was invalid. Please try again."
+
+#. translators: url to API.
+#: core/class-hub-connector.php:1016
+#: core/external/hub-connector/inc/class-admin.php:585
+msgid "\"Is PHP on my server properly configured to be able to contact %s with a POST HTTP request via fsockopen or CURL?\""
+msgstr "\"Is PHP on my server properly configured to be able to contact %s with a POST HTTP request via fsockopen or CURL?\""
+
+#: core/class-hub-connector.php:1013
+#: core/external/hub-connector/inc/class-admin.php:582
+msgid "If this problem continues, please contact your host with this error message and ask:"
+msgstr "If this problem continues, please contact your host with this error message and ask:"
+
+#: core/class-hub-connector.php:1012
+#: core/external/hub-connector/inc/class-admin.php:581
+msgid "Your server had a problem connecting to WPMU DEV. Please try again."
+msgstr "Your server had a problem connecting to WPMU DEV. Please try again."
+
+#: core/class-hub-connector.php:1004
+#: core/external/hub-connector/inc/class-admin.php:573
+msgid "Unknown error. Please update the WPMU DEV Dashboard plugin and try again."
+msgstr "Unknown error. Please update the WPMU DEV Dashboard plugin and try again."
+
+#: core/class-hub-connector.php:1000
+#: core/external/hub-connector/inc/class-admin.php:569
+msgid "Google login failed. Please try again."
+msgstr "Google login failed. Please try again."
+
+#. translators: %s Support URL.
+#: core/class-hub-connector.php:981
+#: core/external/hub-connector/inc/class-admin.php:550
+msgid "This domain cannot be registered to your WPMU DEV account.<br><a href=\"%s\">Contact Accounts & Billing if you need further assistance »</a>"
+msgstr "This domain cannot be registered to your WPMU DEV account.<br><a href=\"%s\">Contact Accounts & Billing if you need further assistance »</a>"
+
+#. translators: %1$d Account name, %2$s Security info, %3$s Hub URL, %4$s
+#. Support URL.
+#: core/class-hub-connector.php:967
+#: core/external/hub-connector/inc/class-admin.php:537
+msgid "This site is currently registered to %1$s. For <a target=\"_blank\" href=\"%2$s\">security reasons</a> they will need to go to the <a target=\"_blank\" href=\"%3$s\">WPMU DEV Hub</a> and remove this domain before you can log in. If you do not have access to that account, and have no way of contacting that user, please <a target=\"_blank\" href=\"%4$s\">contact support for assistance</a>."
+msgstr "This site is currently registered to %1$s. For <a target=\"_blank\" href=\"%2$s\">security reasons</a> they will need to go to the <a target=\"_blank\" href=\"%3$s\">WPMU DEV Hub</a> and remove this domain before you can log in. If you do not have access to that account, and have no way of contacting that user, please <a target=\"_blank\" href=\"%4$s\">contact support for assistance</a>."
+
+#: core/class-hub-connector.php:961
+#: core/external/hub-connector/inc/class-admin.php:531
+msgid "Contact support if you need further assistance &raquo;"
+msgstr "Contact support if you need further assistance &raquo;"
+
+#. translators: %1$s Rest URL, %2$s Upgrade URL, %3$s Trial URL.
+#: core/external/hub-connector/inc/class-admin.php:521
+msgid "This domain has previously been registered with us by the user %1$s. To use WPMU DEV on this domain, you can either log in with the original account (you can <a target=\"_blank\" href=\"%2$s\">reset your password</a>) or <a target=\"_blank\" href=\"%3$s\">upgrade your trial</a> to a full membership. Trial accounts can't use previously registered domains - <a target=\"_blank\" href=\"%4$s\">here's why</a>."
+msgstr "This domain has previously been registered with us by the user %1$s. To use WPMU DEV on this domain, you can either log in with the original account (you can <a target=\"_blank\" href=\"%2$s\">reset your password</a>) or <a target=\"_blank\" href=\"%3$s\">upgrade your trial</a> to a full membership. Trial accounts can't use previously registered domains - <a target=\"_blank\" href=\"%4$s\">here's why</a>."
+
+#: core/class-hub-connector.php:940
+#: core/external/hub-connector/inc/class-admin.php:510
+msgid "Forgot your password?"
+msgstr "Forgot your password?"
+
+#: core/class-hub-connector.php:938
+#: core/external/hub-connector/inc/class-admin.php:508
+msgid "Your login details were incorrect. Please make sure you're using your WPMU DEV email and password and try again."
+msgstr "Your login details were incorrect. Please make sure you're using your WPMU DEV email and password and try again."
+
+#. translators: %1$s Account detail URL, %2$s Reset URL.
+#: core/external/hub-connector/inc/class-admin.php:496
+msgid "Due to security improvements, you will need to re-link your Google account in the Hub. Please log in with your WPMU DEV email & password for now, then set up your preferred <strong>Login Method</strong> in <a href=\"%1$s\" target=\"_blank\">your WPMU DEV account</a>. Forgot your password? You can <a href=\"%2$s\" target=\"_blank\">reset it here</a>."
+msgstr "Due to security improvements, you will need to re-link your Google account in the Hub. Please log in with your WPMU DEV email & password for now, then set up your preferred <strong>Login Method</strong> in <a href=\"%1$s\" target=\"_blank\">your WPMU DEV account</a>. Forgot your password? You can <a href=\"%2$s\" target=\"_blank\">reset it here</a>."
+
+#. translators: %s Account detail URL.
+#: core/class-hub-connector.php:916
+#: core/external/hub-connector/inc/class-admin.php:486
+msgid "You are currently using your WPMU DEV email & password as your preferred login method. If you wish to login with your Google account instead, please change the <strong>Login Method</strong> in <a href=\"%s\" target=\"_blank\">your WPMU DEV account</a>."
+msgstr "You are currently using your WPMU DEV email & password as your preferred login method. If you wish to login with your Google account instead, please change the <strong>Login Method</strong> in <a href=\"%s\" target=\"_blank\">your WPMU DEV account</a>."
+
+#. translators: %s Account detail URL.
+#: core/class-hub-connector.php:906
+#: core/external/hub-connector/inc/class-admin.php:476
+msgid "You are currently using your Google account as your preferred login method. If you wish to login with your WPMU DEV email & password instead, please change the <strong>Login Method</strong> in <a href=\"%s\" target=\"_blank\">your WPMU DEV account</a>."
+msgstr "You are currently using your Google account as your preferred login method. If you wish to login with your WPMU DEV email & password instead, please change the <strong>Login Method</strong> in <a href=\"%s\" target=\"_blank\">your WPMU DEV account</a>."
+
+#: core/cli/class-cli.php:86
+msgid "Super 2X Smush requires your site to be connected to a free WPMU DEV account. Connect your site via plugin and try again."
+msgstr "Super 2X Smush requires your site to be connected to a free WPMU DEV account. Connect your site via plugin and try again."
+
+#: core/class-settings.php:377
+msgid "Automatically add width and height attributes to images missing dimensions for better layout stability and performance."
+msgstr "Automatically add width and height attributes to images missing dimensions for better layout stability and performance."
+
+#: core/class-settings.php:375
+msgid "Automatically add missing image dimensions"
+msgstr "Automatically add missing image dimensions"
+
+#: core/class-settings.php:357
+msgid "Keep a backup of your original images so you can restore them anytime. Be aware this may increase the size of your uploads folder."
+msgstr "Keep a backup of your original images so you can restore them anytime. Be aware this may increase the size of your uploads folder."
+
+#: core/class-settings.php:352
+msgid "Control how Smush processes your original image files when running bulk smush."
+msgstr "Control how Smush processes your original image files when running bulk smush."
+
+#: core/class-settings.php:347
+msgid "When enabled, WordPress won’t create scaled versions of large images; only your original upload is kept."
+msgstr "When enabled, WordPress won’t create scaled versions of large images; only your original upload is kept."
+
+#: core/class-settings.php:342
+msgid "WordPress scales large images (over 2560px) and keeps the originals as a backup. You can adjust the size limit or turn scaling off entirely."
+msgstr "WordPress scales large images (over 2560px) and keeps the originals as a backup. You can adjust the size limit or turn scaling off entirely."
+
+#: core/class-settings.php:341
+msgid "Large Image Resizing"
+msgstr "Large Image Resizing"
+
+#: core/class-configs.php:777 core/class-settings.php:340
+msgid "Resize large images"
+msgstr "Resize large images"
+
+#: core/class-settings.php:337
+msgid "Photos can include camera settings, date or location. Removing this EXIF data reduces the file size."
+msgstr "Photos can include camera settings, date or location. Removing this EXIF data reduces the file size."
+
+#: core/class-settings.php:335
+msgid "Remove image metadata"
+msgstr "Remove image metadata"
+
+#: core/class-settings.php:317
+msgid "WordPress creates multiple thumbnails for each uploaded image. Select which sizes to include in bulk smushing."
+msgstr "WordPress creates multiple thumbnails for each uploaded image. Select which sizes to include in bulk smushing."
+
+#: core/class-hub-connector.php:708
+msgid "Site disconnected successfully."
+msgstr "Site disconnected successfully."
+
+#: core/class-hub-connector.php:640
+msgid "Note: disconnecting your site from WPMU DEV will disable other services that rely on this connection."
+msgstr "Note: disconnecting your site from WPMU DEV will disable other services that rely on this connection."
+
+#: core/class-hub-connector.php:623
+msgid "Connects your site to the WPMU DEV Free Plan, unlocking the plugin's Free plan features."
+msgstr "Connects your site to the WPMU DEV Free Plan, unlocking the plugin's Free plan features."
+
+#: core/class-hub-connector.php:621
+msgid "Hub Connector"
+msgstr "Hub Connector"
+
+#. translators: %s: Feature
+#: core/class-hub-connector.php:487
+msgid "Log in with your WPMU DEV account credentials to activate %s."
+msgstr "Log in with your WPMU DEV account credentials to activate %s."
+
+#. translators: %1$s: Feature, %2$s: Opening italic tag, %3$s: Closing italic
+#. tag.
+#: core/class-hub-connector.php:480
+msgid "Create a free account to connect your site to WPMU DEV and activate %1$s. %2$s It`s fast, seamless, and free. %3$s"
+msgstr "Create a free account to connect your site to WPMU DEV and activate %1$s. %2$s It`s fast, seamless, and free. %3$s"
+
+#: core/class-hub-connector.php:200
+msgid "Library Error"
+msgstr "Library Error"
+
+#: core/class-hub-connector.php:199
+msgid "Required library is missing. Please reinstall the plugin."
+msgstr "Required library is missing. Please reinstall the plugin."
+
+#: app/class-media-library.php:589 app/class-media-library.php:591
+#: core/class-core.php:277
+msgid "Smushing..."
+msgstr "Smushing..."
+
+#: core/class-configs.php:920 core/class-settings.php:376
+msgid "Add Missing Image Dimensions"
+msgstr "Add Missing Image Dimensions"
+
+#: core/class-configs.php:919
+msgid "Auto Resizing"
+msgstr "Auto Resizing"
+
+#. translators: 1: link start tag, 2: link end tag
+#: app/class-media-library.php:242
+msgid "Ensure %1$sBackup original images%2$s is enabled to keep copies of your originals."
+msgstr "Ensure %1$sBackup original images%2$s is enabled to keep copies of your originals."
+
+#. translators: %d: number of images
+#: app/class-media-library.php:267
+msgid "%d image couldn't be restored due to a backup copy error"
+msgid_plural "%d images couldn't be restored due to a backup copy error"
+msgstr[0] "%d image couldn't be restored due to a backup copy error"
+msgstr[1] "%d images couldn't be restored due to a backup copy error"
+
+#: core/class-activity-log-controller.php:191
+msgid "Scan completed."
+msgstr "Scan completed."
+
+#: core/class-hub-connector.php:631
+msgid "Disconnect site"
+msgstr "Disconnect site"
+
+#: app/views/deactivation-survey.php:107
+msgid "Requires connecting site to Smush API"
+msgstr "Requires connecting site to Smush API"
+
+#: app/views/deactivation-survey.php:98
+msgid "Tell us more (optional)"
+msgstr "Tell us more (optional)"
+
+#: app/class-media-library.php:702
+msgid "Connect my site"
+msgstr "Connect my site"
+
+#. translators: %s - strong tags
+#: app/class-media-library.php:694
+msgid "Connect your site to WPMU DEV for %1$sfree%2$s and start Smushing with Super 2X—takes just a few seconds, no credit card or API key needed."
+msgstr "Connect your site to WPMU DEV for %1$sfree%2$s and start Smushing with Super 2X—takes just a few seconds, no credit card or API key needed."
+
+#: app/class-media-library.php:689
+msgid "Unlock 2X Smush instantly!"
+msgstr "Unlock 2X Smush instantly!"
+
+#. translators: %1$d: restored count, %2$d: total count
+#: app/class-media-library.php:234
+msgid "All selected images were restored successfully (%1$d/%2$d)."
+msgstr "All selected images were restored successfully (%1$d/%2$d)."
+
+#: app/class-media-library.php:111
+msgid "Smush restore"
+msgstr "Smush restore"
+
+#: app/class-admin.php:613
+msgid "If your site’s feeling faster, we’d be so grateful for a quick 5-star review. It really helps us out!"
+msgstr "If your site’s feeling faster, we’d be so grateful for a quick 5-star review. It really helps us out!"
+
+#: app/class-admin.php:612
+msgid "Thanks for choosing Smush! 💙"
+msgstr "Thanks for choosing Smush! 💙"
+
+#. translators: 1: <br>, 2: Open the link <a>, 3: Close the link </a>
+#: app/class-admin.php:574
+msgid "Your site’s faster and lighter than ever. Plus, Smush will keep every new image optimized, free for life. %1$sHappy with the results? Share the love with a 5-star review on %2$sWordPress.org%3$s."
+msgstr "Your site’s faster and lighter than ever. Plus, Smush will keep every new image optimised, free for life. %1$sHappy with the results? Share the love with a 5-star review on %2$sWordPress.org%3$s."
+
+#: app/class-admin.php:569
+msgid "100% of your images are now optimized! 🎉"
+msgstr "100% of your images are now optimised! 🎉"
+
+#: app/class-admin.php:542 app/class-admin.php:585 app/class-admin.php:618
+msgid "I already did"
+msgstr "I already did"
+
+#: app/class-admin.php:541 app/class-admin.php:584 app/class-admin.php:617
+msgid "Remind me later"
+msgstr "Remind me later"
+
+#: app/class-admin.php:537
+msgid "Seeing faster speeds? We’d really appreciate a quick review. It keeps us growing and helps more WordPress users discover Smush."
+msgstr "Seeing faster speeds? We’d really appreciate a quick review. It keeps us growing and helps more WordPress users discover Smush."
+
+#. translators: %d: optimized images count
+#: app/class-admin.php:534
+msgid "You’ve optimized %d images! 🎉"
+msgstr "You’ve optimised %d images! 🎉"
+
+#: app/class-admin.php:527 app/class-admin.php:565 app/class-admin.php:608
+msgid "Smush review prompts icon"
+msgstr "Smush review prompts icon"
+
+#: core/smush/class-smusher.php:623
+msgid "The request is taking longer than expected. Please check back in a few moments."
+msgstr "The request is taking longer than expected. Please check back in a few moments."
+
+#: core/lazy-load/class-lazy-load-video-embed.php:326
+msgid "Play video"
+msgstr "Play video"
+
+#: core/class-configs.php:1007
+msgid "Replace Video Embed with preview images"
+msgstr "Replace Video Embed with preview images"
+
+#: core/class-configs.php:998
+msgid "Embedded Content"
+msgstr "Embedded Content"
+
+#: core/frontend/class-frontend-controller.php:892
+msgid "Preload"
+msgstr "Preload"
+
+#: core/frontend/class-frontend-controller.php:826
+msgid "Lazy Load & Preload"
+msgstr "Lazy Load & Preload"
+
+#: core/class-configs.php:898
+msgid "Preload Critical Images"
+msgstr "Preload Critical Images"
+
+#. Author URI of the plugin
+#: wp-smush.php
+msgid "https://wpmudev.com/"
+msgstr "https://wpmudev.com/"
+
+#. Plugin URI of the plugin
+#: wp-smush.php
+msgid "https://wpmudev.com/project/wp-smush-pro/"
+msgstr "https://wpmudev.com/project/wp-smush-pro/"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:276
+msgid "Store backups for 50 days"
+msgstr "Store backups for 50 days"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:275
+msgid "Comes with up to 50GB storage"
+msgstr "Comes with up to 50GB storage"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:274
+msgid "Our PRO-only backup plugin"
+msgstr "Our PRO-only backup plugin"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:272
+msgid "Space-efficient backups that happen effortlessly while you sleep."
+msgstr "Space-efficient backups that happen effortlessly while you sleep."
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:271
+msgid "Snapshot Pro"
+msgstr "Snapshot Pro"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:256
+msgid "Automatic integrated linking"
+msgstr "Automatic integrated linking"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:255
+msgid "SEO health audit reports"
+msgstr "SEO health audit reports"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:254
+msgid "Site crawler SEO scan & reports"
+msgstr "Site crawler SEO scan & reports"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:251
+msgid "SmartCrawl Pro"
+msgstr "SmartCrawl Pro"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:236
+msgid "Turbocharged asset optimization"
+msgstr "Turbocharged asset optimisation"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:235
+msgid "Automated critical CSS generation"
+msgstr "Automated critical CSS generation"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:234
+msgid "Delay JavaScript execution"
+msgstr "Delay JavaScript execution"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:232
+msgid "For sites that load in one flap of a hummingbird’s wing."
+msgstr "For sites that load in one flap of a hummingbird’s wing."
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:231
+msgid "Hummingbird Pro"
+msgstr "Hummingbird Pro"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:216
+msgid "Comprehensive audit logging"
+msgstr "Comprehensive audit logging"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:215
+msgid "AntiBot Global Firewall"
+msgstr "AntiBot Global Firewall"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:214
+msgid "Scheduled malware scanning"
+msgstr "Scheduled malware scanning"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:211
+msgid "Defender Pro"
+msgstr "Defender Pro"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:196
+msgid "Unlimited bulk and auto smushing"
+msgstr "Unlimited bulk and auto smushing"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:195
+msgid "123 point CDN + 50GB bandwidth"
+msgstr "123 point CDN + 50GB bandwidth"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:194
+msgid "Ultra Smush with 5X compression"
+msgstr "Ultra Smush with 5X compression"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:176
+msgid "Get form submitter’s geolocation"
+msgstr "Get form submitter’s geolocation"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:175
+msgid "Accept recurring payment"
+msgstr "Accept recurring payment"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:174
+msgid "Generate and send PDF files"
+msgstr "Generate and send PDF files"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:171
+msgid "Forminator Pro"
+msgstr "Forminator Pro"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:153
+msgid "Check posts, pages & content for broken links to improve SEO. "
+msgstr "Check posts, pages & content for broken links to improve SEO. "
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:152
+msgid "Broken Link Checker"
+msgstr "Broken Link Checker"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:137
+msgid "Customizable Google Analytics dashboards, statistics, and reports."
+msgstr "Customisable Google Analytics dashboards, statistics, and reports."
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:136
+msgid "Beehive"
+msgstr "Beehive"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:121
+msgid "Rebrand, customize, and white label WordPress without code."
+msgstr "Rebrand, customise, and white label WordPress without code."
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:120
+msgid "Branda"
+msgstr "Branda"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:105
+msgid "Create high-converting and targeted marketing campaigns in minutes."
+msgstr "Create high-converting and targeted marketing campaigns in minutes."
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:104
+msgid "Hustle"
+msgstr "Hustle"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:89
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:252
+msgid "Take the mystery out of optimizing your site."
+msgstr "Take the mystery out of optimising your site."
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:88
+msgid "SmartCrawl"
+msgstr "SmartCrawl"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:73
+msgid "For sites that load in one flap of a hummingbird’s wing. "
+msgstr "For sites that load in one flap of a hummingbird’s wing. "
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:72
+msgid "Hummingbird"
+msgstr "Hummingbird"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:57
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:212
+msgid "Automated and reliable WordPress security in a matter of clicks."
+msgstr "Automated and reliable WordPress security in a matter of clicks."
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:56
+msgid "Defender"
+msgstr "Defender"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:41
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:172
+msgid "Surveys, subscriptions, feedback, quizzes: Forminator makes it easy."
+msgstr "Surveys, subscriptions, feedback, quizzes: Forminator makes it easy."
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:40
+msgid "Forminator"
+msgstr "Forminator"
+
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:25
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:192
+msgid "Smush images down to size for faster page loading."
+msgstr "Smush images down to size for faster page loading."
+
+#: core/external/plugins-cross-sell-page/app/submenus/class-cross-sell.php:266
+#: core/external/plugins-cross-sell-page/app/submenus/class-cross-sell.php:267
+msgid "More free Plugins?"
+msgstr "More free Plugins?"
+
+#: core/external/plugins-cross-sell-page/app/rest-endpoints/class-install-plugin.php:118
+msgid "Plugin already installed."
+msgstr "Plugin already installed."
+
+#: core/external/plugins-cross-sell-page/app/rest-endpoints/class-install-plugin.php:115
+msgid "Plugin installed successfully."
+msgstr "Plugin installed successfully."
+
+#: core/external/plugins-cross-sell-page/app/rest-endpoints/class-install-plugin.php:106
+msgid "You are already using this plugin."
+msgstr "You are already using this plugin."
+
+#: core/external/plugins-cross-sell-page/app/rest-endpoints/class-activate-plugin.php:102
+msgid "Plugin not found."
+msgstr "Plugin not found."
+
+#: core/resize/class-resize-optimization.php:66
+msgid "Resize"
+msgstr "Resize"
+
+#: core/png2jpg/class-png2jpg-optimization.php:87
+msgid "PNG to JPG"
+msgstr "PNG to JPG"
+
+#. translators: %s: Optimization name
+#: core/media-library/class-media-library-row.php:669
+msgid "%s Savings"
+msgstr "%s Savings"
+
+#: core/class-configs.php:745 core/class-settings.php:1405
+msgid "AVIF"
+msgstr "AVIF"
+
+#: core/frontend/class-frontend-controller.php:894
+msgid "Next-Gen Formats"
+msgstr "Next-Gen Formats"
+
+#. translators: %s: Error message.
+#: core/smush/class-smusher.php:359
+msgid "Smush was successful but we were unable to save from URL: %s."
+msgstr "Smush was successful but we were unable to save from URL: %s."
+
+#: core/media/class-media-item.php:821
+msgid "Missing attached file data in image metadata"
+msgstr "Missing attached file data in image metadata"
+
+#: core/cli/class-cli.php:360
+msgid ", and "
+msgstr ", and "
+
+#. translators: 1. unsmushed images message, 2. 'and' text for when having both
+#. unsmushed and re-smush images, 3. re-smush images message.
+#: core/cli/class-cli.php:358
+msgid "You have %1$s%2$s%3$s. %4$s"
+msgstr "You have %1$s%2$s%3$s. %4$s"
+
+#: core/cli/class-cli.php:353
+msgid "Run \"wp smush compress\" to smush all images."
+msgstr "Run \"wp smush compress\" to smush all images."
+
+#. translators: %d - number of attachments.
+#: core/cli/class-cli.php:340
+msgid "Found %d attachment that needs re-smushing"
+msgid_plural "Found %d attachments that need re-smushing"
+msgstr[0] "Found %d attachment that needs re-smushing"
+msgstr[1] "Found %d attachments that need re-smushing"
+
+#. translators: %d - number of attachments.
+#: core/cli/class-cli.php:324
+msgid "Found %d attachment that needs smushing"
+msgid_plural "Found %d attachments that need smushing"
+msgstr[0] "Found %d attachment that needs smushing"
+msgstr[1] "Found %d attachments that need smushing"
+
+#: core/cli/class-cli.php:299
+msgid "Resmush Count"
+msgstr "Resmush Count"
+
+#: core/cli/class-cli.php:298
+msgid "Unsmushed Count"
+msgstr "Unsmushed Count"
+
+#: core/cli/class-cli.php:297
+msgid "Optimized Percent(%)"
+msgstr "Optimised Percent(%)"
+
+#: core/cli/class-cli.php:295
+msgid "Savings Percent(%)"
+msgstr "Savings Percent(%)"
+
+#: core/cli/class-cli.php:278
+msgid "Media library scan complete."
+msgstr "Media library scan complete."
+
+#: core/cli/class-cli.php:274
+msgid "The background process is cancelled."
+msgstr "The background process is cancelled."
+
+#: core/cli/class-cli.php:269
+msgid "Unfortunately the scan could not be completed due to an unknown error. Please restart the scan."
+msgstr "Unfortunately the scan could not be completed due to an unknown error. Please restart the scan."
+
+#: core/cli/class-cli.php:247
+msgid "Starting media library scan"
+msgstr "Starting media library scan"
+
+#: core/cli/class-cli.php:235
+msgid "Your site seems to have an issue with loopback requests. Please try again and if the problem persists find out more here: https://wpmudev.com/docs/wpmu-dev-plugins/smush/#background-processing"
+msgstr "Your site seems to have an issue with loopback requests. Please try again and if the problem persists find out more here: https://wpmudev.com/docs/wpmu-dev-plugins/smush/#background-processing"
+
+#. translators: %s Restore image Id(s)
+#: core/cli/class-cli.php:218
+msgid "Restoring %s image"
+msgid_plural "Restoring %s images"
+msgstr[0] "Restoring %s image"
+msgstr[1] "Restoring %s images"
+
+#: core/cli/class-cli.php:207
+msgid "Restoring all images"
+msgstr "Restoring all images"
+
+#: core/cli/class-cli.php:169
+msgid "Images that need to be smushed:"
+msgstr "Images that need to be smushed:"
+
+#: core/cli/class-cli.php:102
+msgid "Missing image id(s)."
+msgstr "Missing image ID(s)."
+
+#: core/cli/class-cli-optimizer.php:267
+msgid "We did not find any images that need smushing."
+msgstr "We did not find any images that need smushing."
+
+#. translators: %s: Error message
+#: core/cli/class-cli-optimizer.php:231
+msgid "Image could not be smushed: %s"
+msgstr "Image could not be smushed: %s"
+
+#: core/cli/class-cli-optimizer.php:224
+msgid "Image smushed."
+msgstr "Image smushed."
+
+#: core/cli/class-cli-optimizer.php:179 core/cli/class-cli-optimizer.php:181
+msgid "Starting smush ..."
+msgstr "Starting smush ..."
+
+#: core/cli/class-cli-optimizer.php:163
+msgid "Found %d attachments that need smushing!"
+msgstr "Found %d attachments that need smushing!"
+
+#: core/cli/class-cli-optimizer.php:156
+msgid "No images available to smush."
+msgstr "No images available to smush."
+
+#: core/cli/class-cli-optimizer.php:142
+msgid "{{smushed}}/{{total}} images restored successfully, {{errors}} images were not restored. Find out why and how to resolve the issue(s) below."
+msgstr "{{smushed}}/{{total}} images restored successfully, {{errors}} images were not restored. Find out why and how to resolve the issue(s) below."
+
+#: core/cli/class-cli-optimizer.php:139
+msgid "All of your images failed to restore. Find out why and how to resolve the issue(s) below."
+msgstr "All of your images failed to restore. Find out why and how to resolve the issue(s) below."
+
+#. translators: %s: Error message
+#: core/cli/class-cli-optimizer.php:118
+msgid "Image could not be restored: %s"
+msgstr "Image could not be restored: %s"
+
+#: core/cli/class-cli-optimizer.php:111
+msgid "Image restored successfully!"
+msgstr "Image restored successfully!"
+
+#: core/cli/class-cli-optimizer.php:79
+msgid "Starting bulk restoration ..."
+msgstr "Starting bulk restoration ..."
+
+#: core/cli/class-cli-optimizer.php:77
+msgid "Starting restoration ..."
+msgstr "Starting restoration ..."
+
+#: core/cli/class-cli-optimizer.php:61
+msgid "Found %d attachments that need to be restored!"
+msgstr "Found %d attachments that need to be restored!"
+
+#: core/cli/class-cli-optimizer.php:59 core/cli/class-cli-optimizer.php:160
+#: core/cli/class-cli.php:252
+msgid "Progress:"
+msgstr "Progress:"
+
+#: core/class-configs.php:925
+msgid "Noscript Tag"
+msgstr "Noscript Tag"
+
+#: app/views/deactivation-survey.php:180
+msgid "Submit & Deactivate"
+msgstr "Submit & Deactivate"
+
+#: app/views/deactivation-survey.php:178
+msgid "Skip & Deactivate"
+msgstr "Skip & Deactivate"
+
+#: app/views/deactivation-survey.php:164
+msgid "Other"
+msgstr "Other"
+
+#: app/views/deactivation-survey.php:155
+msgid "Please tell us why. (Optional)"
+msgstr "Please tell us why. (Optional)"
+
+#: app/views/deactivation-survey.php:150
+msgid "No longer required"
+msgstr "No longer required"
+
+#: app/views/deactivation-survey.php:141 app/views/deactivation-survey.php:168
+msgid "Please tell us why. (optional)"
+msgstr "Please tell us why. (optional)"
+
+#: app/views/deactivation-survey.php:136
+msgid "Found a better plugin"
+msgstr "Found a better plugin"
+
+#: app/views/deactivation-survey.php:127
+msgid "Which plugin and how is it better? (optional)"
+msgstr "Which plugin and how is it better? (optional)"
+
+#: app/views/deactivation-survey.php:122
+msgid "Doesn't meet expectations"
+msgstr "Doesn't meet expectations"
+
+#: app/views/deactivation-survey.php:113
+msgid "What could we do better? (optional)"
+msgstr "What could we do better? (optional)"
+
+#: app/views/deactivation-survey.php:91
+msgid "Breaks the site or other plugins/services"
+msgstr "Breaks the site or other plugins/services"
+
+#: app/views/deactivation-survey.php:77
+msgid "Can't make it work"
+msgstr "Can't make it work"
+
+#: app/views/deactivation-survey.php:68 app/views/deactivation-survey.php:82
+msgid "What issue did you face? (optional)"
+msgstr "What issue did you face? (optional)"
+
+#: app/views/deactivation-survey.php:63
+msgid "Temporary deactivation for debugging"
+msgstr "Temporary deactivation for debugging"
+
+#: app/views/deactivation-survey.php:54
+msgid "What issue are you debugging? (optional)"
+msgstr "What issue are you debugging? (optional)"
+
+#: app/views/deactivation-survey.php:49
+msgid "Need Help?"
+msgstr "Need Help?"
+
+#. translators: %s: Support link
+#: app/views/deactivation-survey.php:48
+msgid "Please tell us why. Your feedback helps us improve. %s"
+msgstr "Please tell us why. Your feedback helps us improve. %s"
+
+#: app/views/deactivation-survey.php:34
+msgid "Deactivate Smush?"
+msgstr "Deactivate Smush?"
+
+#: core/frontend/class-frontend-controller.php:1527
+msgid "Rate our plugin"
+msgstr "Rate our plugin"
+
+#: core/class-activity-log-controller.php:206
+msgid "Scan failed."
+msgstr "Scan failed."
+
+#: core/class-configs.php:772 core/class-settings.php:350
+msgid "Optimize original images"
+msgstr "Optimise original images"
+
+#: core/cache/class-cache-controller.php:88
+msgid "Next-Gen conversion method has been updated.<br/>If you have a page caching plugin or server caching, please clear it to ensure everything works as expected."
+msgstr "Next-Gen conversion method has been updated.<br/>If you have a page caching plugin or server caching, please clear it to ensure everything works as expected."
+
+#: core/cache/class-cache-controller.php:87
+msgid "Next-Gen Formats status has changed.<br/>If you have a page caching plugin or server caching, please clear it to ensure everything works as expected."
+msgstr "Next-Gen Formats status has changed.<br/>If you have a page caching plugin or server caching, please clear it to ensure everything works as expected."
+
+#: core/cache/class-cache-controller.php:83
+msgid "CDN status has changed.<br/>If you have a page caching plugin or server caching, please clear it to ensure everything works as expected."
+msgstr "CDN status has changed.<br/>If you have a page caching plugin or server caching, please clear it to ensure everything works as expected."
+
+#. translators: 1: Open a link, 2: Close the link
+#: app/class-admin.php:486
+msgid "If you wish to also convert your original uploaded images to .%1$s format, please enable the %2$sOptimize original images%3$s setting below."
+msgstr "If you wish to also convert your original uploaded images to .%1$s format, please enable the %2$sOptimise original images%3$s setting below."
+
+#. translators: %1$s - Requires PHP version - %2$s URL to an article about our
+#. hosting benefits.
+#: wp-smush.php:119
+msgid "Your site is running an outdated version of PHP that is no longer supported or receiving security updates. Please update PHP to at least version %1$s at your hosting provider in order to activate Smush, or consider switching to <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">WPMU DEV Hosting</a>."
+msgstr "Your site is running an outdated version of PHP that is no longer supported or receiving security updates. Please update PHP to at least version %1$s at your hosting provider in order to activate Smush, or consider switching to <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">WPMU DEV Hosting</a>."
+
+#. translators: 1: Opening <strong> 2: Closing </strong>
+#: core/class-settings.php:329
+msgid "Choose the level of compression that suits your needs. We recommend %1$sUltra%2$s for faster sites and impressive image quality."
+msgstr "Choose the level of compression that suits your needs. We recommend %1$sUltra%2$s for faster sites and impressive image quality."
+
+#: core/class-settings.php:325
+msgid "Choose Compression Level"
+msgstr "Choose Compression Level"
+
+#: core/class-settings.php:326
+msgid "Smush Mode"
+msgstr "Smush Mode"
+
+#: core/class-settings.php:1520
+msgid "Ultra"
+msgstr "Ultra"
+
+#: core/class-settings.php:1519
+msgid "Super"
+msgstr "Super"
+
+#: core/class-settings.php:1518
+msgid "Basic"
+msgstr "Basic"
+
+#: core/class-hub-connector.php:637
+msgid "Connect site"
+msgstr "Connect site"
+
+#: core/media-library/class-media-library-row.php:800
+msgid "Ultra Smush"
+msgstr "Ultra Smush"
+
+#: core/media-library/class-media-library-row.php:271
+msgid "Upgrade to Pro to Smush larger images."
+msgstr "Upgrade to Pro to Smush larger images."
+
+#: core/media-library/class-media-library-row.php:148
+msgid "Upgrade to Serve GIFs faster with CDN."
+msgstr "Upgrade to Serve GIFs faster with CDN."
+
+#. translators: %s: File path.
+#: core/smush/class-smusher.php:375
+msgid "Smush was successful but we were unable to save the file due to a file system error: [%s]."
+msgstr "Smush was successful but we were unable to save the file due to a file system error: [%s]."
+
+#. translators: 1: Resized path, 2: Original path.
+#: core/resize/class-file-resizer.php:134
+msgid "Failed to copy from [%1$s] to [%2$s]"
+msgstr "Failed to copy from [%1$s] to [%2$s]"
+
+#. translators: 1: Resized path, 2: Resized file size, 3: Original path, 4:
+#. Original file size
+#: core/resize/class-file-resizer.php:117
+msgid "The resized image [%1$s](%2$s) is larger than the original image [%3$s](%4$s)."
+msgstr "The resized image [%1$s](%2$s) is larger than the original image [%3$s](%4$s)."
+
+#. translators: %s: Resized path
+#: core/resize/class-file-resizer.php:95
+msgid "The resized image [%s] does not exist."
+msgstr "The resized image [%s] does not exist."
+
+#. translators: %d: Image id.
+#: core/resize/class-resize-optimization.php:189
+msgid "Could not find a suitable source image for resizing media item [%d]."
+msgstr "Could not find a suitable source image for resizing media item [%d]."
+
+#. translators: %s: Error message.
+#: core/png2jpg/class-png2jpg-optimization.php:480
+msgid "The image editor was unable to save the image: %s"
+msgstr "The image editor was unable to save the image: %s"
+
+#. translators: 1: Image path, 2: Image id, 3: Error message.
+#: core/png2jpg/class-png2jpg-optimization.php:464
+msgid "Image Editor cannot load file [%1$s(%2$d)]: %3$s."
+msgstr "Image Editor cannot load file [%1$s(%2$d)]: %3$s."
+
+#. translators: 1: Converted path, 2: Converted file size, 3: Original path, 4:
+#. Original file size
+#: core/png2jpg/class-png2jpg-optimization.php:415
+msgid "The new file [%1$s](%2$s) is larger than the original file [%3$s](%4$s)."
+msgstr "The new file [%1$s](%2$s) is larger than the original file [%3$s](%4$s)."
+
+#: core/png2jpg/class-png2jpg-optimization.php:409
+#: core/resize/class-file-resizer.php:111
+msgid "Skipped: Smushed file is larger than the original file."
+msgstr "Skipped: Smushed file is larger than the original file."
+
+#. translators: %1$s - <a>, %2$s - </a>
+#: core/photon/class-photon-controller.php:40
+msgid "We noticed that your site is configured to completely offload intermediate thumbnail sizes (they don't exist in your Media Library), so Smush can't optimize those images. You can still optimize your %1$sOriginal Images%2$s if you want to."
+msgstr "We noticed that your site is configured to completely offload intermediate thumbnail sizes (they don't exist in your Media Library), so Smush can't optimise those images. You can still optimise your %1$sOriginal Images%2$s if you want to."
+
+#. translators: %s: Error message
+#: core/backups/class-backups-controller.php:157
+msgid "Image not restored. %s"
+msgstr "Image not restored. %s"
+
+#. translators: %s: Smush image filter
+#: core/media/class-media-item.php:853
+msgid "Skipped with %s filter."
+msgstr "Skipped with %s filter."
+
+#. translators: 1: Exceeded size limit file name, 2: Image size limit
+#: core/media/class-media-item.php:845
+msgid "Skipped (%1$s). File size limit of %2$s exceeded"
+msgstr "Skipped (%1$s). File size limit of %2$s exceeded"
+
+#. translators: %s: Image mime type
+#: core/media/class-media-item.php:812
+msgid "The mime type %s is not supported by Smush."
+msgstr "The mime type %s is not supported by Smush."
+
+#: core/media/class-media-item.php:804
+msgid "Attachment is not an image so it can't be smushed."
+msgstr "Attachment is not an image so it can't be smushed."
+
+#: core/media/class-media-item-controller.php:86
+msgid "Not found any failed items."
+msgstr "Not found any failed items."
+
+#. translators: 1: <br/> tag, 2: Image file size
+#: core/media-library/class-media-library-row.php:609
+msgid "%1$sMain Image size: %2$s"
+msgstr "%1$sMain Image size: %2$s"
+
+#: core/media-library/class-media-library-row.php:394
+msgid "Skipped: Image is already optimized."
+msgstr "Skipped: Image is already optimised."
+
+#: core/media-library/class-media-library-row.php:312
+msgid "We recommend regenerating the thumbnails."
+msgstr "We recommend regenerating the thumbnails."
+
+#: core/media-library/class-media-library-row.php:310
+msgid "We recommend using the restore image function to regenerate the thumbnails."
+msgstr "We recommend using the restore image function to regenerate the thumbnails."
+
+#: core/media-library/class-background-media-library-scanner.php:91
+msgid "Background scan is already in processing."
+msgstr "Background scan is already in processing."
+
+#. translators: %s Email address
+#: core/class-settings.php:306
+msgid "Be notified via email about the bulk smush status when the process has completed. You'll receive an email at %s."
+msgstr "Be notified via email about the bulk smush status when the process has completed. You'll receive an email at %s."
+
+#: core/bulk/class-mail.php:179
+msgid "Images failed to smush"
+msgstr "Images failed to smush"
+
+#: core/bulk/class-mail.php:177
+msgid "Images smushed successfully"
+msgstr "Images smushed successfully"
+
+#: core/bulk/class-mail.php:165 core/bulk/class-mail.php:178
+msgid "The number of images successfully compressed."
+msgstr "The number of images successfully compressed."
+
+#: core/bulk/class-mail.php:155
+msgid "The number of images unsuccessfully compressed."
+msgstr "The number of images unsuccessfully compressed."
+
+#: core/bulk/class-mail.php:153
+msgid "The number of images unsuccessfully compressed (find out why below)."
+msgstr "The number of images unsuccessfully compressed (find out why below)."
+
+#. translators: %s: Email address
+#: core/bulk/class-background-bulk-smush-controller.php:357
+msgid "Feel free to close this page while Smush works its magic in the background. We’ll email you at <strong>%s</strong> when it’s done."
+msgstr "Feel free to close this page while Smush works its magic in the background. We’ll email you at <strong>%s</strong> when it’s done."
+
+#. translators: %s: a link
+#: core/bulk/class-background-bulk-smush-controller.php:351
+msgid "Feel free to close this page while Smush works its magic in the background. %s to receive an email when the process finishes."
+msgstr "Feel free to close this page while Smush works its magic in the background. %s to receive an email when the process finishes."
+
+#: core/bulk/class-background-bulk-smush-controller.php:347
+msgid "Enable the email notification"
+msgstr "Enable the email notification"
+
+#. translators: %s: Cron interval in minutes
+#: core/background/class-background-process.php:334
+msgid "Every %d Minutes"
+msgstr "Every %d Minutes"
+
+#: core/class-configs.php:780 core/class-settings.php:312
+msgid "Email Notification"
+msgstr "Email Notification"
+
+#: core/class-settings.php:311
+msgid "Enable email notification"
+msgstr "Enable email notification"
+
+#: core/media-library/class-media-library-row.php:256
+#: core/media-library/class-media-library-row.php:277
+msgid "Ignored."
+msgstr "Ignored."
+
+#. translators: %s: File path
+#. translators: %s: The missing file name
+#. translators: %s: file path
+#: core/class-error-handler.php:272 core/media/class-media-item.php:831
+#: core/media/class-media-item.php:837 core/smush/class-smusher.php:271
+#: core/smush/class-smusher.php:292
+msgid "Skipped (%s). File not found."
+msgstr "Skipped (%s). File not found."
+
+#. translators: %s: image size
+#: core/class-error-handler.php:268
+msgid "Skipped (%s). File size limit of 256MB exceeded."
+msgstr "Skipped (%s). File size limit of 256MB exceeded."
+
+#. translators: %s: file path
+#: core/smush/class-smusher.php:305
+msgid "Skipped (%s). File size limit of 5MB exceeded"
+msgstr "Skipped (%s). File size limit of 5MB exceeded"
+
+#: core/class-core.php:298
+msgid "Cancelling ..."
+msgstr "Cancelling ..."
+
+#: app/class-media-library.php:592 core/class-core.php:286
+msgid "Ignored"
+msgstr "Ignored"
+
+#: core/class-core.php:280
+msgid "Images optimized successfully. No further action required."
+msgstr "Images optimised successfully. No further action required."
+
+#: core/class-core.php:279
+msgid "View Details"
+msgstr "View Details"
+
+#: core/class-core.php:273
+msgid "All of your images failed to optimize. Find out why and how to resolve the issue(s) below."
+msgstr "All of your images failed to optimise. Find out why and how to resolve the issue(s) below."
+
+#: core/class-core.php:272
+msgid "{{smushed}}/{{total}} images optimized successfully, {{errors}} images were not optimized, find out why and how to resolve the issue(s) below."
+msgstr "{{smushed}}/{{total}} images optimised successfully, {{errors}} images were not optimised, find out why and how to resolve the issue(s) below."
+
+#: app/views/email/index.php:80
+msgid "The WPMU DEV Team."
+msgstr "The WPMU DEV Team."
+
+#: app/views/email/index.php:78
+msgid "Cheers,"
+msgstr "Cheers,"
+
+#. translators: %s - Name
+#: app/views/email/bulk-smush.php:21
+msgid "Hi %s,"
+msgstr "Hi %s,"
+
+#: core/media-library/class-media-library-row.php:195
+msgid "Revert back to previous state"
+msgstr "Revert back to previous state"
+
+#: app/class-media-library.php:533
+#: core/frontend/class-frontend-controller.php:607
+msgid "Smush: Failed Processing"
+msgstr "Smush: Failed Processing"
+
+#: app/class-admin.php:458
+msgid "Smush images in the background"
+msgstr "Smush images in the background"
+
+#. translators: 1: Current MYSQL version, 2: Required MYSQL version
+#: app/class-admin.php:448
+msgid "Smush was unable to activate background processing on your site as your web hosting provider is using an old version of MySQL on your server (version %1$s). We highly recommend contacting your hosting provider to upgrade MySQL to version %2$s or higher to optimize images in the background."
+msgstr "Smush was unable to activate background processing on your site as your web hosting provider is using an old version of MySQL on your server (version %1$s). We highly recommend contacting your hosting provider to upgrade MySQL to version %2$s or higher to optimise images in the background."
+
+#: app/class-admin.php:414
+msgid "Smush images faster with parallel image optimization"
+msgstr "Smush images faster with parallel image optimisation"
+
+#. translators: %s: <strong>curl_multi_exec()</strong>
+#: app/class-admin.php:404
+msgid "Smush was unable to activate parallel processing on your site as your web hosting provider has disabled the %s function on your server. We highly recommend contacting your hosting provider to enable that function to optimize images on your site faster."
+msgstr "Smush was unable to activate parallel processing on your site as your web hosting provider has disabled the %s function on your server. We highly recommend contacting your hosting provider to enable that function to optimise images on your site faster."
+
+#: core/class-settings.php:356
+msgid "Backup Original Images"
+msgstr "Backup Original Images"
+
+#: core/class-error-handler.php:259
+#: core/media-library/class-media-library-row.php:106
+msgid "File processing is in progress."
+msgstr "File processing is in progress."
+
+#. translators: %d - attachment ID
+#: core/cli/class-cli-optimizer.php:89
+msgid "Image %d cannot be restored."
+msgstr "Image %d cannot be restored."
+
+#. translators: %1$s: bytes savings, %2$s: percentage savings, %3$d: number of
+#. images
+#: core/media-library/class-media-library-row.php:584
+msgid "%3$d images reduced by %1$s (%2$s)"
+msgstr "%3$d images reduced by %1$s (%2$s)"
+
+#: core/integrations/class-gravity-forms.php:80
+msgid "To use this feature you need be using Gravity Forms."
+msgstr "To use this feature you need be using Gravity Forms."
+
+#: core/class-settings.php:399
+msgid "Allow compressing images uploaded with Gravity Forms."
+msgstr "Allow compressing images uploaded with Gravity Forms."
+
+#: core/class-configs.php:785 core/class-settings.php:398
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+#: core/class-settings.php:397
+msgid "Enable Gravity Forms integration"
+msgstr "Enable Gravity Forms integration"
+
+#: core/class-optimization-controller.php:90
+msgid "Nonce verification failed"
+msgstr "Nonce verification failed"
+
+#: core/class-error-handler.php:263
+msgid "Webp no response was received."
+msgstr "WebP no response was received."
+
+#: core/class-error-handler.php:258
+#: core/media-library/class-media-library-row.php:140
+msgid "Skipped animated file."
+msgstr "Skipped animated file."
+
+#: core/class-error-handler.php:257
+msgid "Skip ignored file."
+msgstr "Skip ignored file."
+
+#. translators: %s Method name
+#: core/external/wdev-logger/wdev-logger.php:448
+msgid "Method %s does not exist."
+msgstr "Method %s does not exist."
+
+#. translators: %s Method name
+#: core/external/wdev-logger/wdev-logger.php:435
+msgid "Module %s does not exist."
+msgstr "Module %s does not exist."
+
+#: core/class-configs.php:193
+msgid "Undefined"
+msgstr "Undefined"
+
+#: app/class-media-library.php:834
+msgid "Image not found!"
+msgstr "Image not found!"
+
+#: core/backups/class-backups-controller.php:57
+msgid "Image not restored, nonce verification failed."
+msgstr "Image not restored, nonce verification failed."
+
+#: core/backups/class-backups-controller.php:48
+msgid "Error in processing restore action, fields empty."
+msgstr "Error in processing restore action, fields empty."
+
+#: core/class-settings.php:346
+msgid "Disable Scaled Images"
+msgstr "Disable Scaled Images"
+
+#: core/class-configs.php:778 core/class-settings.php:345
+msgid "Disable scaled images"
+msgstr "Disable scaled images"
+
+#: core/class-settings.php:1029
+msgid "The tab these settings belong to is missing."
+msgstr "The tab these settings belong to is missing."
+
+#: core/class-settings.php:960
+msgid "The page these settings belong to is missing."
+msgstr "The page these settings belong to is missing."
+
+#: core/class-settings.php:370
+msgid "Allow usage tracking"
+msgstr "Allow usage tracking"
+
+#: core/class-configs.php:973 core/class-configs.php:989
+msgid "none"
+msgstr "none"
+
+#: core/class-configs.php:962 core/class-configs.php:1000
+msgid "No"
+msgstr "No"
+
+#: core/class-configs.php:962 core/class-configs.php:1004
+msgid "Yes"
+msgstr "Yes"
+
+#: core/class-configs.php:958
+msgid ". Fade in delay: "
+msgstr ". Fade in delay: "
+
+#: core/class-configs.php:957
+msgid ". Fade in duration: "
+msgstr ". Fade in duration: "
+
+#: core/class-configs.php:955
+msgid "Selected: "
+msgstr "Selected: "
+
+#: core/class-configs.php:924
+msgid "Native Lazy Load Enabled"
+msgstr "Native Lazy Load Enabled"
+
+#: core/class-configs.php:923
+msgid "Load Scripts In Footer"
+msgstr "Load Scripts In Footer"
+
+#: core/class-configs.php:922
+msgid "Display And Animation"
+msgstr "Display And Animation"
+
+#: core/class-configs.php:921
+msgid "Included Post Types"
+msgstr "Included Post Types"
+
+#: core/class-configs.php:839
+msgid "Keep Data On Uninstall"
+msgstr "Keep Data On Uninstall"
+
+#: core/class-configs.php:322
+msgid "The given config ID does not exist"
+msgstr "The given config ID does not exist"
+
+#: core/class-configs.php:286
+msgid "The provided configs list isn’t correct. Please make sure the uploaded file is the correct one."
+msgstr "The provided configs list isn’t correct. Please make sure the uploaded file is the correct one."
+
+#: core/class-configs.php:271
+msgid "The uploaded config must have a name and a set of settings. Please make sure the uploaded file is the correct one."
+msgstr "The uploaded config must have a name and a set of settings. Please make sure the uploaded file is the correct one."
+
+#: core/class-configs.php:266
+msgid "There was an error decoding the file."
+msgstr "There was an error decoding the file."
+
+#: core/class-configs.php:261
+msgid "There was an error getting the contents of the file."
+msgstr "There was an error getting the contents of the file."
+
+#: core/class-configs.php:256
+msgid "The file must be a JSON."
+msgstr "The file must be a JSON."
+
+#. translators: error message
+#: core/class-configs.php:254
+msgid "Error: %s."
+msgstr "Error: %s."
+
+#: core/class-configs.php:251
+msgid "The configs file is required"
+msgstr "The configs file is required"
+
+#: core/class-configs.php:97
+msgid "Missing configs data"
+msgstr "Missing configs data"
+
+#: core/api/class-hub.php:140
+msgid "Missing config data"
+msgstr "Missing config data"
+
+#: core/api/class-abstract-api.php:55
+msgid "API instances require a version and name properties"
+msgstr "API instances require a version and name properties"
+
+#: core/class-configs.php:631 core/class-configs.php:816
+#: core/class-configs.php:882 core/class-configs.php:888
+msgid "Inactive"
+msgstr "Inactive"
+
+#: core/frontend/class-frontend-controller.php:898
+msgid "Accessibility"
+msgstr "Accessibility"
+
+#: core/frontend/class-frontend-controller.php:897
+msgid "Data & Settings"
+msgstr "Data & Settings"
+
+#: core/frontend/class-frontend-controller.php:896
+msgid "General"
+msgstr "General"
+
+#: core/class-configs-controller.php:83
+msgid "Missing config ID"
+msgstr "Missing config ID"
+
+#: core/class-core.php:282
+msgid "Something went wrong with the request. Please reload the page and try again."
+msgstr "Something went wrong with the request. Please reload the page and try again."
+
+#: core/class-configs.php:744 core/class-settings.php:1404
+msgid "WebP"
+msgstr "WebP"
+
+#: core/bulk/class-ajax-bulk-smush-controller.php:47
+#: core/class-settings.php:946 core/media/class-media-item-controller.php:80
+msgid "You don't have permission to do this."
+msgstr "You don't have permission to do this."
+
+#: app/views/deactivation-survey.php:39
+msgid "Close this dialog window"
+msgstr "Close this dialogue window"
+
+#: app/class-admin.php:337
+msgid " and "
+msgstr " and "
+
+#. translators: 1. username, 2. unsmushed images message, 3. 'and' text for
+#. when having both unsmushed and re-smush images, 4. re-smush images message.
+#: app/class-admin.php:334
+msgid "%1$s, you have %2$s%3$s%4$s!"
+msgstr "%1$s, you have %2$s%3$s%4$s!"
+
+#. translators: 1. opening strong tag, 2: re-smush images count,3. closing
+#. strong tag.
+#: app/class-admin.php:325
+msgid "%1$s%2$d attachment%3$s that needs re-smushing"
+msgid_plural "%1$s%2$d attachments%3$s that need re-smushing"
+msgstr[0] "%1$s%2$d attachment%3$s that needs re-smushing"
+msgstr[1] "%1$s%2$d attachments%3$s that need re-smushing"
+
+#. translators: 1. opening strong tag, 2: unsmushed images count,3. closing
+#. strong tag.
+#: app/class-admin.php:314
+msgid "%1$s%2$d attachment%3$s that needs smushing"
+msgid_plural "%1$s%2$d attachments%3$s that need smushing"
+msgstr[0] "%1$s%2$d attachment%3$s that needs smushing"
+msgstr[1] "%1$s%2$d attachments%3$s that need smushing"
+
+#: core/class-core.php:290
+msgid "Dismiss notice"
+msgstr "Dismiss notice"
+
+#: core/class-configs.php:757
+msgid "Native lazy load"
+msgstr "Native lazy load"
+
+#: core/class-configs.php:767
+msgid "REST API"
+msgstr "REST API"
+
+#: core/backups/class-backups-controller.php:170
+msgid "Error getting file name"
+msgstr "Error getting file name"
+
+#: core/lazy-load/class-lazy-load-video-embed.php:317
+msgid "Play"
+msgstr "Play"
+
+#. translators: %1$s: bytes savings, %2$s: percentage savings
+#: core/media-library/class-media-library-row.php:591
+msgid "Reduced by %1$s (%2$s)"
+msgstr "Reduced by %1$s (%2$s)"
+
+#: app/class-media-library.php:531
+#: core/frontend/class-frontend-controller.php:605
+msgid "Smush: Not processed"
+msgstr "Smush: Not processed"
+
+#: app/class-admin.php:287
+msgid "Manage Plugins"
+msgstr "Manage plugins"
+
+#: core/frontend/class-frontend-controller.php:1512
+msgid "Premium Support"
+msgstr "Premium Support"
+
+#: core/frontend/class-frontend-controller.php:1508
+msgid "View details"
+msgstr "View details"
+
+#: app/class-admin.php:540 app/class-admin.php:583 app/class-admin.php:616
+#: core/frontend/class-frontend-controller.php:1502
+msgid "Rate Smush"
+msgstr "Rate Smush"
+
+#: core/frontend/class-frontend-controller.php:1477
+msgid "Go to Smush Dashboard"
+msgstr "Go to Smush dashboard"
+
+#: core/frontend/class-frontend-controller.php:1472
+msgid "View Smush Documentation"
+msgstr "View Smush documentation"
+
+#: core/frontend/class-frontend-controller.php:1457
+#: core/frontend/class-frontend-controller.php:1458
+msgid "Renew Membership"
+msgstr "Renew membership"
+
+#: core/modules/class-dir.php:308
+msgid "Potential Phar PHP Object Injection detected"
+msgstr "Potential Phar PHP Object Injection detected"
+
+#: app/class-media-library.php:527
+msgid "Filter by Smush status"
+msgstr "Filter by Smush status"
+
+#: core/integrations/class-composer.php:74
+msgid "To use this feature you need be using WPBakery Page Builder."
+msgstr "To use this feature you need be using WPBakery Page Builder."
+
+#: app/class-media-library.php:852 core/class-core.php:278
+#: core/media-library/class-media-library-row.php:217
+msgid "Ignore"
+msgstr "Ignore"
+
+#: core/class-helper.php:348
+msgid "Couldn't process image due to bad headers. Try re-saving the image in an image editor, then upload it again."
+msgstr "Couldn't process image due to bad headers. Try re-saving the image in an image editor, then upload it again."
+
+#: core/frontend/class-frontend-controller.php:804
+#: core/frontend/class-frontend-controller.php:1477
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: core/class-hub-connector.php:505
+msgid "Subsite Controls"
+msgstr "Subsite Controls"
+
+#: core/class-configs.php:764
+msgid "Background Images"
+msgstr "Background Images"
+
+#: core/class-settings.php:404
+msgid "Allow smushing images resized in WPBakery Page Builder editor."
+msgstr "Allow smushing images resized in WPBakery Page Builder editor."
+
+#: core/class-configs.php:784 core/class-settings.php:403
+msgid "WPBakery Page Builder"
+msgstr "WPBakery Page Builder"
+
+#: core/class-settings.php:402
+msgid "Enable WPBakery Page Builder integration"
+msgstr "Enable WPBakery Page Builder integration"
+
+#: core/class-configs.php:770 core/class-settings.php:321
+msgid "Automatic compression"
+msgstr "Automatic compression"
+
+#: core/class-settings.php:316
+msgid "Image Sizes"
+msgstr "Image Sizes"
+
+#: core/class-configs.php:631 core/class-configs.php:882
+#: core/external/plugins-cross-sell-page/assets/js/crosssellpage.js:2343
+#: core/external/plugins-cross-sell-page/assets/js/crosssellpage.js:1571
+msgid "Active"
+msgstr "Active"
+
+#: core/api/class-smush-api.php:95
+msgid "[WPMUDEV API] Skipped sync due to API error exponential backoff."
+msgstr "[WPMUDEV API] Skipped sync due to API error exponential backoff."
+
+#: core/class-configs.php:1023
+msgid "All"
+msgstr "All"
+
+#: core/class-configs.php:893
+msgid "Lazy Load"
+msgstr "Lazy Load"
+
+#: core/class-core.php:284
+msgid "Ignore this image from bulk smushing"
+msgstr "Ignore this image from bulk smushing"
+
+#: core/class-error-handler.php:260 core/media/class-media-item.php:817
+msgid "No file data found in image meta"
+msgstr "No file data found in image meta"
+
+#: core/class-error-handler.php:256
+msgid "No attachment ID was received."
+msgstr "No attachment ID was received."
+
+#: core/class-configs.php:756
+msgid "Scripts"
+msgstr "Scripts"
+
+#: core/class-configs.php:1023 core/class-settings.php:1403
+msgid "None"
+msgstr "None"
+
+#: core/class-configs.php:918
+msgid "Output Locations"
+msgstr "Output Locations"
+
+#: core/class-configs.php:917 core/class-configs.php:984
+msgid "Media Types"
+msgstr "Media Types"
+
+#: core/frontend/class-frontend-controller.php:891
+msgid "Lazyload"
+msgstr "Lazyload"
+
+#: core/class-settings.php:372
+msgid "Help make Smush better by letting our designers learn how you’re using the plugin."
+msgstr "Help make Smush better by letting our designers learn how you’re using the plugin."
+
+#: core/class-settings.php:371
+msgid "Usage Tracking"
+msgstr "Usage Tracking"
+
+#: core/class-settings.php:367
+msgid "Increase the visibility and accessibility of elements and components to meet WCAG AAA requirements."
+msgstr "Increase the visibility and accessibility of elements and components to meet WCAG AAA requirements."
+
+#: core/class-settings.php:366
+msgid "Color Accessibility"
+msgstr "Colour Accessibility"
+
+#: core/class-settings.php:365
+msgid "Enable high contrast mode"
+msgstr "Enable high contrast mode"
+
+#: core/cli/class-cli-optimizer.php:147
+msgid "All images restored."
+msgstr "All images restored."
+
+#: core/cli/class-cli-optimizer.php:55
+msgid "No images available to restore"
+msgstr "No images available to restore"
+
+#: core/cli/class-cli.php:129
+msgid "Smushing all images"
+msgstr "Smushing all images"
+
+#. translators: %d - number of images
+#: core/cli/class-cli.php:124
+msgid "Smushing first %d images"
+msgstr "Smushing first %d images"
+
+#. translators: %s Smush image Id(s)
+#: core/cli/class-cli.php:112
+msgid "Smushing image ID: %d"
+msgid_plural "Smushing images %s"
+msgstr[0] "Smushing image ID: %d"
+msgstr[1] ""
+
+#: app/views/email/ultra-upsell.php:67
+#: core/frontend/class-frontend-controller.php:1606
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: core/frontend/class-frontend-controller.php:1454
+#: core/frontend/class-frontend-controller.php:1603
+msgid "Upgrade to Smush Pro"
+msgstr "Upgrade to Smush Pro"
+
+#: core/frontend/class-frontend-controller.php:610
+msgid "Select an image to view Smush stats."
+msgstr "Select an image to view Smush stats."
+
+#: core/class-helper.php:350
+msgid "Timeout error. You can increase the request timeout to make sure Smush has enough time to process larger files. `define('WP_SMUSH_TIMEOUT', 150);`"
+msgstr "Timeout error. You can increase the request timeout to make sure Smush has enough time to process larger files. `define('WP_SMUSH_TIMEOUT', 150);`"
+
+#: core/class-configs.php:774
+msgid "Automatic resizing"
+msgstr "Automatic resizing"
+
+#: core/api/class-request.php:82
+msgid "Invalid API service."
+msgstr "Invalid API service."
+
+#: core/frontend/class-frontend-controller.php:1472
+msgid "Docs"
+msgstr "Docs"
+
+#: core/frontend/class-frontend-controller.php:1503
+msgid "Support"
+msgstr "Support"
+
+#: core/frontend/class-frontend-controller.php:1526
+msgid "Roadmap"
+msgstr "Roadmap"
+
+#: core/class-configs.php:763
+msgid "Supported Media Types: %s"
+msgstr "Supported Media Types: %s"
+
+#: app/views/email/ultra-upsell.php:69
+#: core/frontend/class-frontend-controller.php:316
+#: core/frontend/class-frontend-controller.php:1607
+msgid "Pro"
+msgstr "Pro"
+
+#: app/class-media-library.php:532
+#: core/frontend/class-frontend-controller.php:606
+msgid "Smush: Bulk ignored"
+msgstr "Smush: Bulk ignored"
+
+#: app/class-media-library.php:530
+#: core/frontend/class-frontend-controller.php:604
+msgid "Smush: All images"
+msgstr "Smush: All images"
+
+#: core/class-error-handler.php:261
+msgid "Skipped with wp_smush_image filter"
+msgstr "Skipped with wp_smush_image filter"
+
+#: core/class-settings.php:351
+msgid "Original Images"
+msgstr "Original Images"
+
+#: core/class-core.php:297
+msgid "Cancel"
+msgstr "Cancel"
+
+#: core/integrations/class-gutenberg.php:81
+msgid "To use this feature you need to install and activate the Gutenberg plugin."
+msgstr "To use this feature you need to install and activate the Gutenberg plugin."
+
+#: core/class-settings.php:409
+msgid "Add statistics and the manual smush button to Gutenberg blocks that display images."
+msgstr "Add statistics and the manual smush button to Gutenberg blocks that display images."
+
+#: core/class-configs.php:783 core/class-settings.php:408
+msgid "Gutenberg Support"
+msgstr "Gutenberg Support"
+
+#: core/class-settings.php:407
+msgid "Show Smush stats in Gutenberg blocks"
+msgstr "Show Smush stats in Gutenberg blocks"
+
+#. translators: %1$s - opening <a>, %2$s - closing </a>
+#: app/class-admin.php:152
+msgid "Smush uses the Stackpath Content Delivery Network (CDN). Stackpath may store web log information of site visitors, including IPs, UA, referrer, Location and ISP info of site visitors for 7 days. Files and images served by the CDN may be stored and served from countries other than your own. Stackpath's privacy policy can be found %1$shere%2$s."
+msgstr "Smush uses the Stackpath Content Delivery Network (CDN). Stackpath may store web log information of site visitors, including IPs, UA, referrer, Location and ISP info of site visitors for 7 days. Files and images served by the CDN may be stored and served from countries other than your own. Stackpath's Privacy Policy can be found %1$shere%2$s."
+
+#: core/modules/class-dir.php:958
+msgid "Empty Directory Path"
+msgstr "Empty Directory Path"
+
+#: core/modules/class-dir.php:757
+msgid "There was a problem getting the selected directories"
+msgstr "There was a problem getting the selected directories"
+
+#: app/class-media-library.php:765
+#: core/backups/class-backups-controller.php:147
+#: core/backups/class-backups-controller.php:187
+#: core/bulk/class-background-bulk-smush-controller.php:185
+#: core/bulk/class-bulk-smush-session-savings.php:50
+#: core/cache/class-cache-controller.php:45 core/class-hub-connector.php:655
+#: core/class-hub-connector.php:692 core/class-settings.php:837
+#: core/frontend/class-frontend-controller.php:111
+#: core/frontend/class-frontend-controller.php:124
+#: core/frontend/class-frontend-controller.php:1307
+#: core/frontend/class-frontend-controller.php:1544
+#: core/frontend/class-frontend-controller.php:1581
+#: core/modules/class-dir.php:201 core/modules/class-dir.php:218
+#: core/modules/class-dir.php:243 core/modules/class-dir.php:274
+#: core/modules/class-dir.php:550 core/modules/class-dir.php:561
+#: core/modules/class-dir.php:570 core/modules/class-dir.php:577
+#: core/modules/class-dir.php:833 core/modules/class-dir.php:950
+#: core/modules/class-dir.php:1389
+#: core/rating-notification/class-rating-notification-controller.php:28
+#: core/rating-notification/class-rating-notification-controller.php:48
+#: core/rating-notification/class-rating-notification-controller.php:67
+#: core/rating-notification/class-rating-notification-controller.php:86
+msgid "Unauthorized"
+msgstr "Unauthorised"
+
+#: core/media-library/class-media-library-row.php:759
+msgid "Resmush"
+msgstr "Resmush"
+
+#: core/class-core.php:275
+msgid "All attachments have been optimized. Awesome!"
+msgstr "All attachments have been optimised. Awesome!"
+
+#: app/class-media-library.php:800
+msgid "PRO"
+msgstr "PRO"
+
+#: core/cli/class-cli.php:296
+msgid "Images Smushed"
+msgstr "Images Smushed"
+
+#: core/cli/class-cli.php:294
+msgid "Total Savings"
+msgstr "Total Savings"
+
+#: core/frontend/class-frontend-controller.php:895
+msgid "Integrations"
+msgstr "Integrations"
+
+#: core/bulk/class-mail.php:93 core/class-hub-connector.php:501
+msgid "Bulk Smush"
+msgstr "Bulk Smush"
+
+#: core/class-rest.php:76
+msgid "Smushing in progress"
+msgstr "Smushing in progress"
+
+#: core/class-rest.php:52
+msgid "Smush data."
+msgstr "Smush data."
+
+#: core/media-library/class-media-library-row.php:329
+#: core/external/plugins-cross-sell-page/assets/js/crosssellpage.js:1336
+#: core/external/plugins-cross-sell-page/assets/js/crosssellpage.js:739
+msgid "Learn more"
+msgstr "Learn more"
+
+#: core/frontend/class-frontend-controller.php:883
+msgid "Directory Smush"
+msgstr "Directory Smush"
+
+#: core/class-configs.php:838 core/frontend/class-frontend-controller.php:848
+#: core/frontend/class-frontend-controller.php:893
+msgid "CDN"
+msgstr "CDN"
+
+#: core/class-configs.php:771 core/class-settings.php:336
+msgid "Metadata"
+msgstr "Metadata"
+
+#: core/modules/class-dir.php:1314
+msgid "Directory smushing requires custom tables and it seems there was an error creating tables. For help, please contact our team on the support forums."
+msgstr "Directory smushing requires custom tables and it seems there was an error creating tables. For help, please contact our team on the support forums."
+
+#. Plugin Name of the plugin
+#: wp-smush.php app/views/deactivation-survey.php:33
+#: core/bulk/class-mail.php:65 core/class-configs.php:128
+#: core/class-installer.php:349
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:24
+#: core/frontend/class-frontend-controller.php:311
+#: core/frontend/class-frontend-controller.php:315
+#: core/frontend/class-frontend-controller.php:318
+#: core/frontend/class-frontend-controller.php:603
+#: core/media-library/class-media-library-row.php:725
+#: core/smush/class-smush-optimization.php:102
+msgid "Smush"
+msgstr "Smush"
+
+#: core/bulk/class-mail.php:65
+#: core/external/plugins-cross-sell-page/core/plugins-list.php:191
+#: core/frontend/class-frontend-controller.php:311
+msgid "Smush Pro"
+msgstr "Smush Pro"
+
+#: app/class-admin.php:160
+msgid "Smush uses a third-party email service (Drip) to send informational emails to the site administrator. The administrator's email address is sent to Drip and a cookie is set by the service. Only administrator information is collected by Drip."
+msgstr "Smush uses a third-party email service (Drip) to send informational emails to the site administrator. The administrator's email address is sent to Drip and a cookie is set by the service. Only administrator information is collected by Drip."
+
+#: app/class-admin.php:149
+msgid "Smush sends images to the WPMU DEV servers to optimize them for web use. This includes the transfer of EXIF data. The EXIF data will either be stripped or returned as it is. It is not stored on the WPMU DEV servers."
+msgstr "Smush sends images to the WPMU DEV servers to optimise them for web use. This includes the transfer of EXIF data. The EXIF data will either be stripped or returned as it is. It is not stored on the WPMU DEV servers."
+
+#: app/class-admin.php:147
+msgid "Note: Smush does not interact with end users on your website. The only input option Smush has is to a newsletter subscription for site admins only. If you would like to notify your users of this in your privacy policy, you can use the information below."
+msgstr "Note: Smush does not interact with end users on your website. The only input option Smush has is to a newsletter subscription for site admins only. If you would like to notify your users of this in your privacy policy, you can use the information below."
+
+#: app/class-admin.php:145
+msgid "Plugin: Smush"
+msgstr "Plugin: Smush"
+
+#: core/frontend/class-frontend-controller.php:609
+msgid "Smush Stats"
+msgstr "Smush Stats"
+
+#: core/smush/class-smusher.php:590
+msgid "Skipped due to a timeout error. You can increase the request timeout to make sure Smush has enough time to process larger files. define('WP_SMUSH_TIMEOUT', 150);"
+msgstr "Skipped due to a timeout error. You can increase the request timeout to make sure Smush has enough time to process larger files. define('WP_SMUSH_TIMEOUT', 150);"
+
+#. translators: %1$s - <a>, %2$s - </a>
+#: core/class-settings.php:388
+msgid "Storing your image on S3 buckets using %1$sWP Offload Media%2$s? Smush can detect and smush those assets for you, including when you're removing files from your host server."
+msgstr "Storing your image on S3 buckets using %1$sWP Offload Media%2$s? Smush can detect and smush those assets for you, including when you're removing files from your host server."
+
+#: core/class-configs.php:786 core/class-configs.php:837
+#: core/class-settings.php:386
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+#: core/class-settings.php:385
+msgid "Enable Amazon S3 support"
+msgstr "Enable Amazon S3 support"
+
+#: core/class-settings.php:381
+msgid "NextGen Gallery"
+msgstr "NextGen Gallery"
+
+#: core/class-settings.php:362
+msgid "When you compress a PNG, Smush will check if converting it to JPEG could further reduce its size."
+msgstr "When you compress a PNG, Smush will check if converting it to JPEG could further reduce its size."
+
+#: core/class-configs.php:779 core/class-settings.php:361
+msgid "PNG to JPEG Conversion"
+msgstr "PNG to JPEG Conversion"
+
+#: core/class-settings.php:360
+msgid "Auto-convert PNGs to JPEGs (lossy)"
+msgstr "Auto-convert PNGs to JPEGs (lossy)"
+
+#: core/media-library/class-media-library-row.php:803
+msgid "Super Smush"
+msgstr "Super Smush"
+
+#: core/class-settings.php:322
+msgid "When you upload images to your site, we will automatically optimize and compress them for you."
+msgstr "When you upload images to your site, we will automatically optimise and compress them for you."
+
+#: core/modules/class-dir.php:329
+msgid "Image couldn't be optimized"
+msgstr "Image couldn't be optimised"
+
+#: core/modules/class-dir.php:292
+msgid "Incorrect image id"
+msgstr "Incorrect image id"
+
+#: core/modules/class-dir.php:973
+msgid "We could not find any images in the selected directory."
+msgstr "We could not find any images in the selected directory."
+
+#: core/media-library/class-media-library-row.php:756
+msgid "Smush image including original file"
+msgstr "Smush image including original file"
+
+#: core/media-library/class-media-library-row.php:828
+msgid "Restore original image"
+msgstr "Restore original image"
+
+#: app/class-media-library.php:793
+msgid "Image couldn't be smushed as it exceeded the 5Mb size limit, Pro users can smush images without any size restriction."
+msgstr "Image couldn't be smushed as it exceeded the 5Mb size limit, Pro users can smush images without any size restriction."
+
+#. translators: %s: number of thumbnails
+#: app/class-media-library.php:787
+msgid "When you upload an image to WordPress it automatically creates %s thumbnail sizes that are commonly used in your pages. WordPress also stores the original full-size image, but because these are not usually embedded on your site we don’t Smush them. Pro users can override this."
+msgstr "When you upload an image to WordPress it automatically creates %s thumbnail sizes that are commonly used in your pages. WordPress also stores the original full-size image, but because these are not usually embedded on your site we don’t Smush them. Pro users can override this."
+
+#: core/media-library/class-media-library-row.php:845
+msgid "Detailed stats for all the image sizes"
+msgstr "Detailed stats for all the image sizes"
+
+#: core/backups/class-backups-controller.php:84
+msgid "Unable to restore image"
+msgstr "Unable to restore image"
+
+#: core/cli/class-cli.php:316
+msgid "Yay! All images are optimized as per your current settings."
+msgstr "Yay! All images are optimised as per your current settings."
+
+#: app/class-media-library.php:590 core/class-core.php:276
+msgid "Restoring image..."
+msgstr "Restoring image..."
+
+#: core/class-core.php:274
+msgid "All images are fully optimized."
+msgstr "All images are fully optimised."
+
+#: core/class-settings.php:382
+msgid "Allow smushing images directly through NextGen Gallery settings."
+msgstr "Allow smushing images directly through NextGen Gallery settings."
+
+#: core/class-settings.php:380
+msgid "Enable NextGen Gallery integration"
+msgstr "Enable NextGen Gallery integration"
+
+#: core/class-settings.php:320
+msgid "Automatically compress my images on upload"
+msgstr "Automatically compress my images on upload"
+
+#: app/class-admin.php:293 app/class-admin.php:421 app/class-admin.php:465
+#: core/cache/class-cache-controller.php:67 core/class-core.php:289
+msgid "Dismiss"
+msgstr "Dismiss"
+
+#. Author of the plugin
+#: wp-smush.php
+#: core/external/plugins-cross-sell-page/assets/js/crosssellpage.js:1382
+#: core/external/plugins-cross-sell-page/assets/js/crosssellpage.js:762
+msgid "WPMU DEV"
+msgstr "WPMU DEV"
+
+#. Description of the plugin
+#: wp-smush.php
+msgid "Reduce image file sizes, improve performance and boost your SEO using the free <a href=\"https://wpmudev.com/\">WPMU DEV</a> WordPress Smush API."
+msgstr "Reduce image file sizes, improve performance and boost your SEO using the free <a href=\"https://wpmudev.com/\">WPMU DEV</a> WordPress Smush API."
+
+#: core/frontend/class-frontend-controller.php:612
+msgid "Savings"
+msgstr "Savings"
+
+#: core/frontend/class-frontend-controller.php:611
+#: core/media-library/class-media-library-row.php:666
+msgid "Image size"
+msgstr "Image size"
+
+#: app/class-media-library.php:658
+msgid "Smush Now!"
+msgstr "Smush Now!"
+
+#: app/class-media-library.php:593 app/class-media-library.php:834
+#: core/class-core.php:287 core/class-error-handler.php:264
+#: core/class-rest.php:82 core/media-library/class-media-library-row.php:102
+#: core/media-library/class-media-library-row.php:368
+msgid "Not processed"
+msgstr "Not processed"
+
+#: core/smush/class-smusher.php:653
+msgid "Image couldn't be smushed"
+msgstr "Image couldn't be smushed"
+
+#: core/smush/class-smusher.php:689
+msgid "Smush data corrupted, try again."
+msgstr "Smush data corrupted, try again."
+
+#. translators: 1: Error code, 2: Error message.
+#: core/smush/class-smusher.php:635
+msgid "Error posting to API: %1$s %2$s"
+msgstr "Error posting to API: %1$s %2$s"
+
+#. translators: %s: Error message.
+#: core/smush/class-smusher.php:602
+msgid "Error posting to API: %s"
+msgstr "Error posting to API: %s"
+
+#: core/smush/class-smusher.php:665
+msgid "Unknown API error"
+msgstr "Unknown API error"
+
+#. translators: %s: Directory path
+#. translators: %s: directory name
+#: core/class-error-handler.php:270 core/smush/class-smusher.php:281
+msgid "%s is not writable"
+msgstr "%s is not writable"
+
+#: core/class-error-handler.php:262 core/smush/class-smusher.php:262
+msgid "File path is empty"
+msgstr "File path is empty"
+
+#: core/class-optimization-controller.php:84
+msgid "No attachment ID was provided."
+msgstr "No attachment ID was provided."
+
+#: core/backups/class-backups-controller.php:65
+#: core/class-optimization-controller.php:96
+#: core/media/class-media-item-controller.php:29
+#: core/media/class-media-item-controller.php:56
+msgid "You don't have permission to work with uploaded files."
+msgstr "You don't have permission to work with uploaded files."
+
+#: core/frontend/class-frontend-controller.php:968
+msgid "Settings"
+msgstr "Settings"
+
+#: core/class-configs.php:773 core/class-settings.php:355
+msgid "Backup original images"
+msgstr "Backup original images"
+
+#: core/class-core.php:271
+msgid "Super-Smush"
+msgstr "Super-Smush"
+
+#: app/class-media-library.php:657
+msgid "Smushing in progress..."
+msgstr "Smushing in progress..."
+
+#: app/class-admin.php:164
+msgid "WP Smush"
+msgstr "WP Smush"

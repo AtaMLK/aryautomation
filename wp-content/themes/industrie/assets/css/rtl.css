@@ -1,0 +1,409 @@
+html {
+  direction: rtl;
+}
+
+.wpcf7-form {
+  direction: rtl;
+}
+
+body {
+  direction: rtl;
+  unicode-bidi: embed;
+  text-align: right;
+}
+body.rtl .rs-addon-services.style5 .services-inner .btn-part svg,
+body.rtl .rs-addon-services.style4 .services-inner .btn-part svg,
+body.rtl .content--teb-area .tab-button-area a em,
+body.rtl .rs-services-slider.service-style-1 .service-title-holder .read__more .btn-area .btn-icon svg,
+body.rtl .rs-portfolio-style2.rs-portfolio-slider .portfolio-item .p-icon .btn_icon_1,
+body.rtl .rs-portfolio-style2 .portfolio-item.rsportfolio-grid-style2 .p-icon svg,
+body.rtl .rs-portfolio-style4 .rsportfolio-grid-style4.portfolio-item .p-icon a.prs_btn em,
+body.rtl .rs-pricing-switcher.style-1 .pricing-item .pricing-btn a svg,
+body.rtl .rs-portfolio-style4.rs-portfolio-slider .portfolio-item .p-icon a.prs_btn span,
+body.rtl .rs-portfolio-style5.rs-portfolio-slider .portfolio-item .p-icon2 a.prs_btn span.pbtn_icon,
+body.rtl .prelements-blog-grid .pre-blog-item .pre-blog-content .blog-btn-part li i,
+body.rtl .rs-blog .blog-item:not(.rs-flat) .blog-button a:before,
+body.rtl .rs-service-list .services-inner .btn-part svg,
+body.rtl .rs-portfolio-style3 .portfolio-item .p-icon a.prs_btn span,
+body.rtl .rs-pricing-switcher.style-2 .pricing-item .pricing-btn a svg,
+body.rtl .rs-testimonial-slider .testimonial-inner .quote_icon,
+body.rtl .hfe-nav-menu__layout-vertical .rs__menu_sp_dyc,
+body.rtl .hfe-nav-menu__layout-vertical.icon-enable .rs__menu_sp_dyc,
+body.rtl .rs-portfolio-style2 .portfolio-item.rsportfolio-grid-style2 .p-icon a.prs_btn:hover .btn_icon_2 svg,
+body.rtl .rs-button .rs-btn em {
+  transform: scaleX(-1);
+}
+body.rtl .rs_newsletterstyle1 .mc4wp-form-fields em code.news-icon-btn2,
+body.rtl .rs_newsletterstyle1 .mc4wp-form-fields em code.news-icon-btn1 {
+  top: 9px;
+  right: unset;
+  left: 30px;
+  transform: scaleX(-1);
+}
+body.rtl .rs_newsletterstyle1 .mc4wp-form-fields em code.news-icon-btn1 {
+  top: 9px;
+  right: unset;
+  transform: scaleX(-1) !important;
+  left: 38px;
+}
+body.rtl .footer-width-fixer .hfe-nav-menu__layout-vertical .rs__menu_sp_dyc {
+  transform: scaleX(-1) translate(100%, -20%);
+}
+body.rtl .hfe-nav-menu__layout-vertical .rs__menu_sp_dyc {
+  right: auto;
+  left: 20px;
+  top: 30%;
+}
+body.rtl .hfe-nav-menu__layout-horizontal .hfe-nav-menu ul.sub-menu .sub-arrow {
+  right: unset;
+  left: 30px;
+}
+body.rtl .hfe-nav-menu .menu-item-has-children:not(.rs-mega-menu) .menu-item-has-children .sub-menu {
+  left: -100%;
+}
+body.rtl .hfe-nav-menu .menu-item-has-children .menu-item-has-children .sub-menu {
+  top: 0;
+  left: -100%;
+}
+body.rtl .rs_newsletterstyle1 .mc4wp-form-fields em code.news-icon-btn1,
+body.rtl .rs_newsletterstyle1 .mc4wp-form-fields em code.news-icon-btn2 {
+  transform: scaleX(-1) rotate(180deg);
+}
+body.rtl .rs_newsletterstyle1 .mc4wp-form-fields em code.news-icon-btn2,
+body.rtl .rs_newsletterstyle1 .mc4wp-form-fields em code.news-icon-btn1 {
+  top: 9px;
+  right: 40px;
+  left: unset;
+}
+body.rtl .elementor-2144 .elementor-element.elementor-element-e8ef57e .mc4wp-form-fields input[type=submit] {
+  top: -17px !important;
+  right: unset;
+  left: 10px;
+}
+body.rtl .rs-portfolio-style5.rs-portfolio-slider .portfolio-item .p-icon2 a.prs_btn {
+  right: unset;
+  left: 0;
+}
+body.rtl .rs-work-process-wrap .work-item .rs-step-part:after {
+  border-right: 1px dashed #616161;
+  border-left: unset;
+  right: 27px;
+}
+body.rtl .rs-work-process-wrap .work-item:last-child .rs-step-part:after {
+  border-right: 0px dashed #616161 !important;
+}
+body.rtl .rs-addon-services.style6 .services-inner {
+  padding: 35px 40px 70px 60px;
+}
+body.rtl .rs-addon-services.style6 .services-inner .numbering {
+  right: unset;
+  left: 20px;
+}
+body.rtl .rs-portfolio-style5.rs-portfolio-slider .portfolio-item .p-icon2 a.prs_btn .pbtn_text {
+  padding: 10px 15px 10px 0px;
+}
+body.rtl .rstab-main.style2 .tab-menu-wrapper .nav-tabs .nav-link i,
+body.rtl .rstab-main.style2 .tab-menu-wrapper .nav-tabs .nav-link svg {
+  transform: scaleX(-1) translate(50%, -50%);
+}
+body.rtl .rs-addon-services.style2 .services-inner .services-title {
+  padding: 0 0px 0 30px;
+}
+body.rtl .prelements-blog-grid .pre-blog-item .pre-image-wrap .rs-cate {
+  right: 30px;
+  left: unset;
+}
+body.rtl .prelements-blog-grid .pre-blog-item .pre-blog-content .pre-blog-meta li:last-child::before {
+  left: unset;
+  right: 0;
+}
+body.rtl.blog .rs-blog .blog-item .blog-img .blog-meta, body.rtl.archive .rs-blog .blog-item .blog-img .blog-meta {
+  left: unset !important;
+  right: 30px !important;
+}
+body.rtl .prelements-blog-grid .pre-blog-item .pre-blog-content .pre-blog-meta li:last-child {
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 20px;
+  margin-right: 20px;
+}
+body.rtl .rs-portfolio-style4 .rsportfolio-grid-style4.portfolio-item .portfolio-details {
+  left: unset;
+  right: 0;
+}
+body.rtl .rs-portfolio-style3 .portfolio-item .portfolio-details {
+  right: 40px;
+  left: unset;
+  padding-right: unset;
+}
+body.rtl .rs-portfolio-style3 .portfolio-item:hover .p-icon {
+  right: auto;
+  left: 20px;
+}
+body.rtl .rs-addon-services.style2 .services-inner .media_wrap {
+  top: 2px;
+  left: 2px;
+  right: unset;
+}
+body.rtl .rs-portfolio-style2 .portfolio-item.rsportfolio-grid-style2 .portfolio-details {
+  padding-right: 60px;
+}
+body.rtl .rs-portfolio-style2 .portfolio-item.rsportfolio-grid-style2 .p-icon a.prs_btn .btn_icon_2 {
+  right: auto;
+  left: 0;
+}
+body.rtl .rs-portfolio-style2 .portfolio-item.rsportfolio-grid-style2 .p-icon svg {
+  margin-left: 0;
+  margin-right: 5px;
+}
+body.rtl .rs-service-list .services-inner .feature_img {
+  right: auto;
+  left: 50px;
+}
+body.rtl .rs-addon-services.style5 .services-inner .media_wrap .image_style img {
+  border-radius: 0 0 0 4px;
+}
+body.rtl .rs-addon-services.style5 .services-inner {
+  padding: 40px 40px 40px 0px;
+  border-radius: 4px;
+}
+body.rtl .rs-addon-services.style5 .services-inner:hover .media_wrap .image_style img {
+  border-radius: 0 100px 100px 0;
+}
+body.rtl .rs-addon-services.style5 .services-inner:after,
+body.rtl .rs-addon-services.style4 .services-inner:after {
+  left: auto;
+  right: 0;
+}
+body.rtl .rstab-main .tab-menu-wrapper .nav-tabs .nav-link.count_number_yes svg {
+  transform: scaleX(-1) !important;
+}
+body.rtl .rs-portfolio-style2.rs-portfolio-slider .portfolio-item .portfolio-content {
+  left: auto;
+  text-align: right;
+  right: 0;
+}
+body.rtl .rstab-main .tab-menu-wrapper .nav-tabs .nav-link.count_number_yes span.count_number {
+  left: auto;
+  right: 0;
+}
+body.rtl .rstab-main.auto_switch_yes .nav-tabs .nav-link:before {
+  left: auto;
+  right: 0;
+}
+body.rtl .rs_newsletterstyle2 .mc4wp-form-fields em code.news-icon-btn2,
+body.rtl .rs_newsletterstyle2 .mc4wp-form-fields em code.news-icon-btn1 {
+  right: auto;
+  left: 38px;
+}
+body.rtl .prelements-blog-grid .blog_style_style4 .blog-inner-wraps .pre-image-wrap {
+  clip-path: polygon(0 14%, 17% 0, 56% 0, 100% 0, 100% 100%, 35% 100%, 0% 100%) !important;
+}
+body.rtl .main-home-contact-section,
+body.rtl .rs-iconbox-area .box-inner .icon-area.clip-path-enable,
+body.rtl .team-grid-style1.clip-path-enable .team-item .image-wrap,
+body.rtl .prelements-blog-grid .blog_style_style3 .pre-blog-item .blog-inner-wrap,
+body.rtl .rs-addon-services.style9 .services-inner.clip-path-enable,
+body.rtl .rs-testimonial-slider.clip-path-css .testimonial-inner,
+body.rtl .rs-addon-services.style1 .services-inner.clip-path-enable {
+  clip-path: polygon(0 15%, 16% 0, 35% 0, 100% 0%, 100% 100%, 0% 100%) !important;
+}
+body.rtl .rs-features-list li i {
+  margin: 0px 0px 0px 10px;
+}
+body.rtl .contact-form .form-btn-area p svg {
+  right: auto;
+  top: 33%;
+  left: 22px;
+  transform: scaleX(-1);
+}
+body.rtl .form-btn-area p svg {
+  right: auto;
+  top: 38%;
+  left: 22px;
+  transform: scaleX(-1);
+}
+body.rtl .rs-testimonial-slider .testimonial-inner .logo-img {
+  top: 65px;
+  right: auto !important;
+  left: 25px;
+}
+body.rtl .rs-testimonial-slider .ratings {
+  left: auto;
+  right: 30px;
+}
+body.rtl .team-grid-style1 .team-item:hover .image-wrap .social-icons {
+  right: auto;
+  left: 0;
+}
+body.rtl .team-grid-style1 .team-item .image-wrap .social-icons {
+  right: auto;
+  left: -108px;
+}
+body.rtl .rs-features-list.rs-features-list-line li {
+  padding-left: 0;
+  padding-right: 40px;
+}
+body.rtl .rs-features-list.rs-features-list-line li::before {
+  left: auto;
+  right: 0;
+}
+body.rtl .tab-menu-wrapper .nav-tabs.all-menu-after-border .nav-link:before {
+  right: auto;
+  left: 0;
+}
+body.rtl .rstab-main.horizontal .nav-tabs .nav-link:after {
+  transform: translateY(-50%);
+}
+body.rtl .rs-services-slider.service-style-1 .service-title-holder .numbering.number-line:after {
+  right: auto;
+  left: 0;
+}
+body.rtl .wpcf7 input[type=email] {
+  direction: unset;
+}
+body.rtl .rs-pricing-switcher.style-1 .pricing-item .pricing-feature ul li:before {
+  right: auto;
+  left: 0;
+}
+body.rtl div.rs-accordion-area .accordion-header .elementor-accordion-icon-right {
+  left: 0;
+  right: auto;
+}
+body.rtl .rs-brochures .brochures-content ul li a .brochures-left .list-brochures-img img {
+  width: 30px;
+  margin-right: 0px;
+  margin-left: 12px;
+}
+body.rtl .bs-sidebar .widget_search button:before {
+  right: auto;
+  left: 24px;
+}
+body.rtl .bs-sidebar .widget::before {
+  left: auto;
+  right: 30px;
+}
+body.rtl .bs-sidebar .widget_search button, body.rtl .bs-sidebar .bs-search button {
+  right: auto;
+  left: 0;
+}
+body.rtl .rs-blog .blog-item:not(.rs-flat) .blog-button a:before {
+  top: 3px;
+  right: auto;
+  left: -26px;
+}
+body.rtl .btm-cate_no_thum li + li {
+  margin-left: 0;
+  margin-right: 30px;
+}
+body.rtl .btm-cate_no_thum li + li:before {
+  left: auto;
+  right: -18px;
+}
+body.rtl .bs-sidebar .recent-post-widget .post-desc span em {
+  padding-right: 0;
+  padding-left: 27px;
+}
+body.rtl .bs-sidebar .recent-post-widget .post-desc span em::after {
+  right: auto;
+  left: 8px;
+}
+body.rtl blockquote::before {
+  left: 30px;
+  right: auto;
+  text-align: right;
+}
+body.rtl blockquote {
+  text-align: right;
+  border-right: 7px solid #EA5501;
+  border-left: 7px solid #F7F7F7;
+  position: relative;
+  min-height: 170px;
+}
+body.rtl blockquote cite:before {
+  margin-right: 0;
+  margin-left: 10px;
+}
+body.rtl .comments-area .comment-list li.comment .reply {
+  padding-left: 0;
+  text-align: right;
+}
+body.rtl .comments-area .comment-list li.comment .comment-body {
+  padding-left: 0;
+  padding-right: 98px;
+}
+body.rtl .comments-area .comment-list li.comment .comment-author img {
+  float: right;
+  left: auto;
+  right: 0;
+}
+body.rtl .comments-area .comment-list li.comment .comment-author b {
+  float: right;
+  padding-right: 0;
+  padding-top: 0;
+  padding-left: 14px;
+}
+body.rtl .rs-blog-details .bs-info.tags a {
+  margin-left: 0px;
+  margin-right: 7px;
+}
+body.rtl .rs-pricing-switcher.switcher-button-style2.switched .switcher-part .pricing-switcher-wrapper span.switcher {
+  right: 50%;
+}
+body.rtl .rs-pricing-switcher.switcher-button-style2 .switcher-part .pricing-switcher-wrapper span.switcher {
+  right: 0;
+}
+body.rtl .rs-team-grid .team-item .team-content:after {
+  right: 0;
+}
+body.rtl .rs-skill-bar.style3 .skillbar .skillbar-bar .skill-bar-percent {
+  right: auto;
+  top: -25px;
+  left: 0;
+}
+body.rtl .clip-path-enable .rs-grid-figure,
+body.rtl .rs-portfolio-style4.rs-portfolio-slider.clip-path-enable .portfolio-img {
+  clip-path: polygon(50% 0, 100% 0%, 100% 60%, 100% 100%, 1% 25%, 100% 100%, 0 100%, 0 9%, 13% 0) !important;
+}
+body.rtl .rs-portfolio-style4.rs-portfolio-slider .portfolio-item .portfolio-content {
+  left: unset;
+  text-align: right;
+  right: 40px;
+}
+body.rtl .rs-award-wrapper .award-inner .year .top-area {
+  text-align: left;
+}
+body.rtl .rs-award-wrapper .award-inner:after {
+  left: unset;
+  right: 0;
+}
+body.rtl .prelements-blog-grid .blog_style_style3 .pre-blog-item.pre-blog-item-list3 .blog-inner-wrap .rs-list-image {
+  padding-right: unset;
+  padding-left: 0;
+  order: 2;
+}
+body.rtl .rs-addon-services.style5 .services-inner .content_part {
+  padding: 0 0px 0 40px;
+}
+body.rtl .rs-offcanvas-area .right_menu_togle .contact-area li {
+  position: relative;
+}
+body.rtl .bs-search button {
+  right: auto;
+  left: 0;
+}
+body.rtl .rs-offcanvas-area .right_menu_togle .contact-area li i {
+  left: auto;
+  right: 0;
+  top: 0;
+  position: absolute;
+  margin-right: 0;
+}
+body.rtl .rs-offcanvas-area .right_menu_togle .contact-area li {
+  padding-left: 0;
+  padding-right: 33px;
+}
+body.rtl .rsoffwrap-close {
+  right: auto;
+  left: 15px;
+}

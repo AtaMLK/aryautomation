@@ -1,0 +1,10 @@
+.prelements-blog-grid .pre-blog-item .blog-inner-wrap {
+  position: relative;
+}
+.prelements-blog-grid .pre-blog-item.pre-blog-item-list .blog-inner-wrap {
+  margin-left: 0;
+  margin-right: 0;
+}
+.prelements-blog-grid .pre-blog-item.pre-blog-item-list .blog-inner-wrap .rs-list-image {
+  padding-left: 0;
+}

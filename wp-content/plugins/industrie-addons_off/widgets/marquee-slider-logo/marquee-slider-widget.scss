@@ -1,0 +1,21 @@
+@import '../../common';
+
+.marquee_wrapper_logo{
+	.item-inner{
+		padding: 0 30px;
+		.rs-marquee-image {
+			flex-shrink: 0;
+		}
+		.rs-marquee-text{
+			font-size: 100px;
+			text-transform: uppercase;
+		}
+	}
+	&.stroke-enable {
+		.rs-marquee-text {
+			color: transparent;
+			-webkit-text-stroke: 2px #000;
+  			text-stroke: 2px #000;
+		}
+	}
+}

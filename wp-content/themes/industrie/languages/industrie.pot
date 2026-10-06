@@ -1,0 +1,502 @@
+# Copyright (C) 2024 RSTheme
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: industrie 1.0.0\n"
+"Report-Msgid-Bugs-To: support@rstheme.com\n"
+"POT-Creation-Date: 2023-22-02 14:39+0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: support@rstheme\n"
+"Language-Team: LANGUAGE <support@rstheme.com>\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: inc/template-functions.php:57
+msgid "Default"
+msgstr ""
+
+#: inc/template-functions.php:
+msgid "on", "Google font: on or off"
+msgstr ""
+
+#: inc/template-functions.php:109
+msgid "read more"
+msgstr ""
+
+#: inc/template-functions.php:175
+msgid "Caution: For importing demo data please click on "Import Demo Data" button. During demo data installation please do not refresh the page."
+msgstr ""
+
+#: inc/template-sidebar.php:10
+msgid "Sidebar"
+msgstr ""
+
+#: inc/template-sidebar.php:12
+msgid "This is sidebar area for blog post and single post."
+msgstr ""
+
+#: inc/template-sidebar.php:21
+#: inc/template-sidebar.php:23
+msgid "Sidebar Shop"
+msgstr ""
+
+#: inc/template-sidebar.php:32
+msgid "Off Canvas Sidebar"
+msgstr ""
+
+#: inc/page-header/breadcrumbs-search.php:8
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-sidebar.php:34
+msgid "Off canvas widget area."
+msgstr ""
+
+#: inc/template-sidebar.php:43
+#: inc/template-sidebar.php:45
+msgid "Project Sidebar"
+msgstr ""
+
+#: inc/template-sidebar.php:53
+msgid "Service Sidebar"
+msgstr ""
+
+#: inc/template-sidebar.php:55
+msgid "Services sidebar widget area."
+msgstr ""
+
+#: inc/template-sidebar.php:63
+msgid "CTA Widget"
+msgstr ""
+
+#: inc/template-sidebar.php:65
+msgid "This is the footer top widget area."
+msgstr ""
+
+#: inc/template-sidebar.php:73
+msgid "Footer Top"
+msgstr ""
+
+#: inc/template-sidebar.php:75
+msgid "This is the footer top widget area."
+msgstr ""
+
+#: inc/template-sidebar.php:86
+msgid "Footer One Widget Area"
+msgstr ""
+
+#: inc/template-sidebar.php:88
+msgid "Footer 1 widget area"
+msgstr ""
+
+#: inc/template-sidebar.php:96
+msgid "Footer Two Widget Area"
+msgstr ""
+
+#: inc/template-sidebar.php:98
+msgid "Footer 2 widget area"
+msgstr ""
+
+#: inc/template-sidebar.php:105
+msgid "Footer Three Widget Area"
+msgstr ""
+
+#: inc/template-sidebar.php:107
+msgid "Footer 3 widget area"
+msgstr ""
+
+#: inc/template-sidebar.php:115
+msgid "Footer Four Widget Area"
+msgstr ""
+
+#: inc/template-sidebar.php:126
+msgid "Copyright Right"
+msgstr ""
+
+#: inc/template-sidebar.php:128
+msgid "Copyright Right widget area"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Posted on", "post date"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "by", "post author"
+msgstr ""
+
+#: inc/template-tags.php:53
+msgid "Posted in"
+msgstr ""
+
+#: inc/template-tags.php:57
+msgid "list item separator"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgid "Tagged"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "Leave a Comment", "on"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post?", "Get started here"
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:15
+#: template-parts/content-single.php:15
+#: template-parts/content.php:32
+#: template-parts/post/content-aside.php:24
+#: template-parts/post/content-audio.php:24
+#: template-parts/post/content-gallery.php:22
+#: template-parts/post/content-image.php:14
+#: template-parts/post/content-link.php:35
+#: template-parts/post/content-quote.php:18
+#: template-parts/post/content-video.php:20
+#: template-parts/post/content.php:19
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:87
+#: template-parts/content-page.php:36
+#: template-parts/content-single.php:28
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content-search.php:17
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/post/content-audio.php:38
+#: template-parts/post/content-gallery.php:36
+#: template-parts/post/content-image.php:28
+#: template-parts/post/content-quote.php:32
+#: template-parts/post/content-video.php:34
+#: template-parts/post/content-video.php:33
+msgid "Tags:"
+msgstr ""
+
+#: template-parts/post/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post/content-none.php:17
+msgid "Ready to publish your first post?", "Get started here"
+msgstr ""
+
+#: template-parts/post/content-none.php:21
+msgid "Perhaps searching can help."
+msgstr ""
+
+#: template-parts/wo-templates/content-shop-thumb.php:35
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:27
+msgid "quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:30
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:41
+msgid "Product quantity input tooltip"
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: 404.php:31
+msgid "Opps! the page you requested was not found."
+msgstr ""
+
+#: 404.php:40
+msgid "Or back to homepage"
+msgstr ""
+
+#: archive.php:146
+msgid "Continue Reading"
+msgstr ""
+
+#: comments.php:23
+msgid "One comments on"
+msgstr ""
+
+#: comments.php:29
+msgid "comment on", "comments title"
+msgstr ""
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:84
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:85
+msgid "Single Menu"
+msgstr ""
+
+#: functions.php:86
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:87
+msgid "Menu Left"
+msgstr ""
+
+#: functions.php:88
+msgid "Menu Right"
+msgstr ""
+
+#: functions.php:271
+msgid "Comment*"
+msgstr ""
+
+#: index.php:142
+msgid "Continue Reading"
+msgstr ""
+
+#: pagination.php:13
+msgid "Previous"
+msgstr ""
+
+#: pagination.php:23
+msgid "Next"
+msgstr ""
+
+#: search.php:23
+msgid "Nothing Found"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgid "Searching..."
+msgstr ""
+
+#: single-teams.php:108
+msgid "Biography"
+msgstr ""
+
+#: single-teams.php:124
+msgid "Professional Skills"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:328
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:329
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:331
+msgid "Installing Plugin:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:333
+msgid "Updating Plugin:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:334
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:386
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:387
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:388
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:389
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:391
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:395
+msgid "All plugins installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:396
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:397
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:398
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:530
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:531
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:836
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:944
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:944
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:950
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:950
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1138
+msgid "and"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1138
+msgid "plugin A *and* plugin B"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2314
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2317
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2334
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2337
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2340
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2362
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2364
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2370
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2373
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2367
+msgid "Update recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2385
+msgid "Install/Update Status"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2538
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2546
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2558
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2581
+msgid "No plugins to install, update or activate.", "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2652
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2657
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2663
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2735
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2808
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2810
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2959
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2985
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3003
+msgid "The following plugin was activated successfully:", "The following plugins were activated successfully:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3215
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3216
+msgid "Plugin activated successfully."
+msgstr ""
